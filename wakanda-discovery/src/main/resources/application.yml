@@ -1,12 +1,53 @@
 # wakanda-discovery/src/main/resources/application.yml
 server:
-  port: 8761
+  port: 8080 # Puerto del Gateway
 
 spring:
   application:
-    name: eureka-server
+    name: api-gateway
+  cloud:
+    gateway:
+          routes:
+            # Ruta hacia el servicio Traffic
+            - id: traffic-service
+              uri: lb://TRAFFIC-SERVICE # El servicio se descubrirá dinámicamente en Eureka (load balancing)
+              predicates:
+                - Path=/traffic/**
+              filters:
+                - RewritePath=/traffic/(?<segment>.*), /$\\{segment} # Reescribe el path hacia el backend
+
+            # Ruta hacia el servicio Energy
+            - id: energy-service
+              uri: lb://ENERGY-SERVICE
+              predicates:
+                - Path=/energy/**
+              filters:
+                - RewritePath=/energy/(?<segment>.*), /$\\{segment}
+
+            # Ruta hacia el servicio Water
+            - id: water-service
+              uri: lb://WATER-SERVICE
+              predicates:
+                - Path=/water/**
+              filters:
+                - RewritePath=/water/(?<segment>.*), /$\\{segment}
+
+          # Configuración de tiempo de espera para evitar problemas con peticiones
+          default-filters:
+            - name: CircuitBreaker # Habilitar Circuit Breaker en todas las rutas
+              args:
+                name: default
+                fallbackUri: forward:/fallback
 
 eureka:
   client:
-    register-with-eureka: false
-    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:8761/eureka # Conexión al servidor Eureka
+
+
+# FallBack en caso de fallos en los servicios backend
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
