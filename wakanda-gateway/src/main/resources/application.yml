@@ -1,12 +1,27 @@
 # wakanda-gateway/src/main/resources/application.yml
 server:
-  port: 8082  # El gateway escuchará en este puerto
+  port: 8080
 
 spring:
+  application:
+    name: api-gateway
   cloud:
     gateway:
       routes:
-        - id: wakanda-service
-          uri: http://localhost:8081  # Proxy a wakanda-services
+        - id: traffic-service
+          uri: lb://TRAFFIC-SERVICE
           predicates:
-            - Path=/services/**  # Redirige las peticiones de /services/ a wakanda-services
+            - Path=/traffic/**
+        - id: energy-service
+          uri: lb://ENERGY-SERVICE
+          predicates:
+            - Path=/energy/**
+        - id: water-service
+          uri: lb://WATER-SERVICE
+          predicates:
+            - Path=/water/**
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
