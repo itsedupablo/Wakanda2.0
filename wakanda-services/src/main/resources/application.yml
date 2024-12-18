@@ -1,0 +1,14 @@
+# wakanda-services/src/main/resources/application.yml
+server:
+  port: 8081  # El servicio wakanda-services escuchará en este puerto
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/wakanda_db
+    username: root
+    password: password
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+logging:
+  level:
+    org.springframework.web: DEBUG  # Nivel de log para pruebas

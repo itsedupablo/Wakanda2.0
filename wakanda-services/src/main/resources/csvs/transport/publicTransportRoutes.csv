@@ -1,0 +1,201 @@
+ID_Ruta,Nombre_Ruta,Estado_Actual,Tiempo_Llegada,Desvíos_Activos,Última_Actualización,Siguiente_Parada
+M1,Metro Línea 4,Operando normalmente,1 minutos,Desvío por obras,2024-11-29 21:54:15,Estación A
+M2,Metro Línea 6,Con retraso,12 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación D
+M3,Metro Línea 7,Operando normalmente,2 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación G
+M4,Autobús 5,Operando normalmente,11 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 5
+M5,Metro Línea 10,Suspendido temporalmente,13 minutos,Desvío programado,2024-11-29 21:54:15,Parada 5
+M6,Cercanías C2,Operando normalmente,25 minutos,Desvío programado,2024-11-29 21:54:15,Estación F
+M7,Metro Línea 9,Suspendido temporalmente,27 minutos,Desvío programado,2024-11-29 21:54:15,Estación J
+M8,Cercanías C4,Con retraso,16 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación H
+M9,Metro Línea 6,Suspendido temporalmente,14 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 4
+M10,Metro Línea 5,Con retraso,1 minutos,Desvío programado,2024-11-29 21:54:15,Parada 5
+M11,Autobús 5,Operando normalmente,23 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 3
+M12,Metro Línea 9,Suspendido temporalmente,15 minutos,Desvío por obras,2024-11-29 21:54:15,Estación A
+M13,Metro Línea 7,Con retraso,25 minutos,Desvío programado,2024-11-29 21:54:15,Parada 8
+M14,Cercanías C1,Operando normalmente,21 minutos,Ninguno,2024-11-29 21:54:15,Parada 8
+M15,Metro Línea 6,Suspendido temporalmente,5 minutos,Ninguno,2024-11-29 21:54:15,Parada 3
+M16,Metro Línea 2,Con retraso,2 minutos,Desvío por obras,2024-11-29 21:54:15,Estación F
+M17,Autobús 5,Operando normalmente,1 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 2
+M18,Metro Línea 8,Con retraso,12 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 8
+M19,Metro Línea 9,Con retraso,1 minutos,Desvío por obras,2024-11-29 21:54:15,Estación A
+M20,Metro Línea 8,Suspendido temporalmente,21 minutos,Ninguno,2024-11-29 21:54:15,Estación H
+M21,Autobús 15,Operando normalmente,15 minutos,Desvío programado,2024-11-29 21:54:15,Parada 10
+M22,Metro Línea 5,Operando normalmente,22 minutos,Desvío programado,2024-11-29 21:54:15,Parada 3
+M23,Metro Línea 8,Operando normalmente,24 minutos,Desvío por obras,2024-11-29 21:54:15,Estación J
+M24,Cercanías C3,Suspendido temporalmente,26 minutos,Desvío programado,2024-11-29 21:54:15,Parada 7
+M25,Metro Línea 8,Suspendido temporalmente,9 minutos,Desvío programado,2024-11-29 21:54:15,Estación J
+M26,Autobús 2,Con retraso,26 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación H
+M27,Autobús 3,Operando normalmente,28 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 9
+M28,Cercanías C2,Suspendido temporalmente,28 minutos,Desvío programado,2024-11-29 21:54:15,Estación I
+M29,Cercanías C1,Suspendido temporalmente,30 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 10
+M30,Autobús 15,Operando normalmente,23 minutos,Desvío programado,2024-11-29 21:54:15,Parada 3
+M31,Metro Línea 4,Operando normalmente,14 minutos,Desvío por obras,2024-11-29 21:54:15,Estación A
+M32,Autobús 1,Operando normalmente,20 minutos,Desvío programado,2024-11-29 21:54:15,Estación I
+M33,Metro Línea 8,Operando normalmente,28 minutos,Desvío por obras,2024-11-29 21:54:15,Estación A
+M34,Autobús 1,Operando normalmente,21 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación E
+M35,Autobús 3,Suspendido temporalmente,1 minutos,Desvío programado,2024-11-29 21:54:15,Parada 5
+M36,Cercanías C2,Con retraso,28 minutos,Desvío programado,2024-11-29 21:54:15,Parada 7
+M37,Metro Línea 10,Con retraso,9 minutos,Desvío por obras,2024-11-29 21:54:15,Estación B
+M38,Cercanías C4,Con retraso,23 minutos,Desvío programado,2024-11-29 21:54:15,Parada 1
+M39,Cercanías C2,Suspendido temporalmente,26 minutos,Desvío por obras,2024-11-29 21:54:15,Estación H
+M40,Metro Línea 3,Operando normalmente,19 minutos,Desvío programado,2024-11-29 21:54:15,Parada 9
+M41,Cercanías C2,Suspendido temporalmente,10 minutos,Desvío programado,2024-11-29 21:54:15,Parada 9
+M42,Metro Línea 10,Suspendido temporalmente,25 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 1
+M43,Metro Línea 8,Operando normalmente,1 minutos,Desvío programado,2024-11-29 21:54:15,Parada 9
+M44,Cercanías C4,Operando normalmente,3 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 5
+M45,Autobús 10,Operando normalmente,4 minutos,Ninguno,2024-11-29 21:54:15,Parada 9
+M46,Autobús 3,Suspendido temporalmente,27 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 8
+M47,Cercanías C2,Suspendido temporalmente,28 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 5
+M48,Metro Línea 7,Con retraso,11 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 9
+M49,Metro Línea 6,Suspendido temporalmente,16 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación C
+M50,Metro Línea 9,Operando normalmente,27 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 8
+M51,Autobús 3,Suspendido temporalmente,24 minutos,Ninguno,2024-11-29 21:54:15,Parada 6
+M52,Autobús 2,Con retraso,17 minutos,Desvío programado,2024-11-29 21:54:15,Estación G
+M53,Metro Línea 9,Suspendido temporalmente,29 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación B
+M54,Metro Línea 10,Con retraso,29 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 4
+M55,Metro Línea 3,Con retraso,14 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 1
+M56,Metro Línea 1,Suspendido temporalmente,4 minutos,Desvío por obras,2024-11-29 21:54:15,Estación B
+M57,Autobús 2,Suspendido temporalmente,30 minutos,Ninguno,2024-11-29 21:54:15,Parada 9
+M58,Metro Línea 3,Con retraso,26 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación C
+M59,Metro Línea 2,Operando normalmente,15 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 9
+M60,Metro Línea 7,Suspendido temporalmente,12 minutos,Desvío por obras,2024-11-29 21:54:15,Estación J
+M61,Metro Línea 2,Suspendido temporalmente,9 minutos,Desvío por obras,2024-11-29 21:54:15,Estación A
+M62,Metro Línea 9,Operando normalmente,19 minutos,Desvío por obras,2024-11-29 21:54:15,Estación C
+M63,Cercanías C1,Suspendido temporalmente,23 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 7
+M64,Metro Línea 9,Con retraso,24 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 5
+M65,Cercanías C1,Operando normalmente,2 minutos,Desvío por obras,2024-11-29 21:54:15,Estación E
+M66,Cercanías C2,Operando normalmente,21 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 1
+M67,Metro Línea 8,Suspendido temporalmente,1 minutos,Desvío programado,2024-11-29 21:54:15,Estación E
+M68,Cercanías C4,Con retraso,5 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 8
+M69,Metro Línea 8,Operando normalmente,1 minutos,Desvío programado,2024-11-29 21:54:15,Parada 1
+M70,Metro Línea 3,Suspendido temporalmente,26 minutos,Desvío programado,2024-11-29 21:54:15,Estación D
+M71,Metro Línea 1,Con retraso,13 minutos,Ninguno,2024-11-29 21:54:15,Parada 10
+M72,Autobús 3,Suspendido temporalmente,20 minutos,Ninguno,2024-11-29 21:54:15,Parada 9
+M73,Metro Línea 10,Suspendido temporalmente,15 minutos,Desvío programado,2024-11-29 21:54:15,Estación D
+M74,Autobús 5,Con retraso,25 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 3
+M75,Metro Línea 5,Operando normalmente,27 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 5
+M76,Metro Línea 9,Suspendido temporalmente,20 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 7
+M77,Autobús 3,Suspendido temporalmente,12 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 2
+M78,Autobús Exprés Aeropuerto,Suspendido temporalmente,7 minutos,Desvío programado,2024-11-29 21:54:15,Estación D
+M79,Metro Línea 8,Con retraso,17 minutos,Desvío por obras,2024-11-29 21:54:15,Estación G
+M80,Cercanías C3,Con retraso,4 minutos,Ninguno,2024-11-29 21:54:15,Estación J
+M81,Metro Línea 8,Operando normalmente,23 minutos,Desvío programado,2024-11-29 21:54:15,Parada 3
+M82,Metro Línea 8,Suspendido temporalmente,11 minutos,Ninguno,2024-11-29 21:54:15,Estación I
+M83,Metro Línea 10,Suspendido temporalmente,27 minutos,Desvío programado,2024-11-29 21:54:15,Parada 9
+M84,Cercanías C4,Suspendido temporalmente,20 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 3
+M85,Metro Línea 2,Suspendido temporalmente,21 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 7
+M86,Autobús Exprés Aeropuerto,Operando normalmente,10 minutos,Ninguno,2024-11-29 21:54:15,Parada 5
+M87,Autobús 3,Con retraso,28 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 1
+M88,Autobús Exprés Aeropuerto,Suspendido temporalmente,2 minutos,Desvío por obras,2024-11-29 21:54:15,Estación F
+M89,Metro Línea 7,Operando normalmente,4 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 2
+M90,Metro Línea 8,Con retraso,4 minutos,Desvío programado,2024-11-29 21:54:15,Parada 5
+M91,Metro Línea 9,Operando normalmente,7 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación D
+M92,Metro Línea 4,Operando normalmente,12 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación G
+M93,Metro Línea 10,Con retraso,23 minutos,Desvío por obras,2024-11-29 21:54:15,Estación A
+M94,Autobús 10,Con retraso,19 minutos,Desvío programado,2024-11-29 21:54:15,Parada 7
+M95,Metro Línea 10,Suspendido temporalmente,16 minutos,Ninguno,2024-11-29 21:54:15,Parada 6
+M96,Metro Línea 9,Suspendido temporalmente,24 minutos,Desvío programado,2024-11-29 21:54:15,Parada 8
+M97,Cercanías C4,Suspendido temporalmente,20 minutos,Desvío por obras,2024-11-29 21:54:15,Estación F
+M98,Autobús 2,Suspendido temporalmente,3 minutos,Desvío programado,2024-11-29 21:54:15,Parada 8
+M99,Metro Línea 6,Suspendido temporalmente,10 minutos,Desvío programado,2024-11-29 21:54:15,Parada 7
+M100,Metro Línea 1,Operando normalmente,17 minutos,Desvío programado,2024-11-29 21:54:15,Estación I
+B1,Metro Línea 5,Suspendido temporalmente,13 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 10
+B2,Metro Línea 2,Con retraso,29 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 3
+B3,Cercanías C3,Operando normalmente,1 minutos,Ninguno,2024-11-29 21:54:15,Parada 1
+B4,Autobús 3,Operando normalmente,22 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación D
+B5,Metro Línea 5,Con retraso,28 minutos,Desvío programado,2024-11-29 21:54:15,Parada 7
+B6,Metro Línea 2,Suspendido temporalmente,3 minutos,Desvío programado,2024-11-29 21:54:15,Estación H
+B7,Autobús 15,Operando normalmente,21 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 4
+B8,Autobús 2,Con retraso,3 minutos,Desvío programado,2024-11-29 21:54:15,Parada 4
+B9,Cercanías C3,Operando normalmente,8 minutos,Desvío programado,2024-11-29 21:54:15,Parada 7
+B10,Cercanías C2,Suspendido temporalmente,22 minutos,Ninguno,2024-11-29 21:54:15,Estación B
+B11,Metro Línea 6,Operando normalmente,27 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación E
+B12,Metro Línea 7,Con retraso,7 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 7
+B13,Metro Línea 7,Operando normalmente,19 minutos,Desvío por obras,2024-11-29 21:54:15,Estación D
+B14,Cercanías C1,Con retraso,26 minutos,Desvío programado,2024-11-29 21:54:15,Estación C
+B15,Metro Línea 8,Suspendido temporalmente,25 minutos,Desvío programado,2024-11-29 21:54:15,Parada 4
+B16,Autobús 15,Suspendido temporalmente,6 minutos,Desvío programado,2024-11-29 21:54:15,Estación A
+B17,Cercanías C3,Suspendido temporalmente,13 minutos,Ninguno,2024-11-29 21:54:15,Estación E
+B18,Autobús Exprés Aeropuerto,Suspendido temporalmente,20 minutos,Desvío programado,2024-11-29 21:54:15,Parada 10
+B19,Metro Línea 3,Operando normalmente,14 minutos,Ninguno,2024-11-29 21:54:15,Estación C
+B20,Metro Línea 4,Con retraso,19 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 7
+B21,Metro Línea 6,Con retraso,3 minutos,Desvío programado,2024-11-29 21:54:15,Parada 9
+B22,Cercanías C3,Suspendido temporalmente,8 minutos,Desvío programado,2024-11-29 21:54:15,Estación A
+B23,Metro Línea 3,Con retraso,19 minutos,Ninguno,2024-11-29 21:54:15,Parada 3
+B24,Cercanías C1,Suspendido temporalmente,17 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 8
+B25,Autobús Exprés Aeropuerto,Operando normalmente,25 minutos,Desvío por obras,2024-11-29 21:54:15,Estación I
+B26,Autobús 1,Suspendido temporalmente,8 minutos,Desvío programado,2024-11-29 21:54:15,Parada 6
+B27,Autobús 3,Suspendido temporalmente,10 minutos,Ninguno,2024-11-29 21:54:15,Parada 2
+B28,Metro Línea 6,Con retraso,26 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación H
+B29,Metro Línea 10,Con retraso,13 minutos,Desvío por obras,2024-11-29 21:54:15,Estación H
+B30,Metro Línea 6,Suspendido temporalmente,19 minutos,Desvío programado,2024-11-29 21:54:15,Parada 4
+B31,Metro Línea 7,Operando normalmente,4 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación D
+B32,Cercanías C1,Con retraso,3 minutos,Desvío programado,2024-11-29 21:54:15,Parada 7
+B33,Cercanías C2,Suspendido temporalmente,12 minutos,Ninguno,2024-11-29 21:54:15,Estación I
+B34,Metro Línea 2,Operando normalmente,12 minutos,Desvío por obras,2024-11-29 21:54:15,Estación J
+B35,Autobús Exprés Aeropuerto,Suspendido temporalmente,12 minutos,Desvío programado,2024-11-29 21:54:15,Estación H
+B36,Autobús 5,Suspendido temporalmente,29 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación J
+B37,Autobús 15,Suspendido temporalmente,21 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación A
+B38,Autobús 2,Con retraso,9 minutos,Desvío programado,2024-11-29 21:54:15,Estación E
+B39,Metro Línea 9,Suspendido temporalmente,17 minutos,Desvío por obras,2024-11-29 21:54:15,Estación H
+B40,Metro Línea 3,Operando normalmente,11 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 5
+B41,Metro Línea 8,Operando normalmente,27 minutos,Desvío programado,2024-11-29 21:54:15,Parada 6
+B42,Autobús 1,Operando normalmente,11 minutos,Ninguno,2024-11-29 21:54:15,Parada 10
+B43,Metro Línea 4,Suspendido temporalmente,21 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación C
+B44,Metro Línea 3,Operando normalmente,17 minutos,Ninguno,2024-11-29 21:54:15,Estación D
+B45,Metro Línea 6,Operando normalmente,23 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación H
+B46,Autobús 15,Operando normalmente,5 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 9
+B47,Metro Línea 10,Suspendido temporalmente,29 minutos,Ninguno,2024-11-29 21:54:15,Parada 3
+B48,Autobús 1,Con retraso,27 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 9
+B49,Metro Línea 8,Operando normalmente,1 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación I
+B50,Metro Línea 2,Con retraso,12 minutos,Desvío programado,2024-11-29 21:54:15,Parada 3
+B51,Autobús Exprés Aeropuerto,Con retraso,25 minutos,Ninguno,2024-11-29 21:54:15,Parada 7
+B52,Metro Línea 8,Con retraso,10 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 5
+B53,Metro Línea 2,Con retraso,19 minutos,Desvío por obras,2024-11-29 21:54:15,Estación F
+B54,Autobús Exprés Aeropuerto,Suspendido temporalmente,7 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación F
+B55,Cercanías C1,Suspendido temporalmente,23 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 9
+B56,Autobús 3,Con retraso,20 minutos,Ninguno,2024-11-29 21:54:15,Parada 10
+B57,Metro Línea 6,Suspendido temporalmente,19 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 5
+B58,Autobús 3,Con retraso,3 minutos,Desvío programado,2024-11-29 21:54:15,Estación I
+B59,Metro Línea 10,Suspendido temporalmente,29 minutos,Ninguno,2024-11-29 21:54:15,Estación A
+B60,Autobús 2,Con retraso,24 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 8
+B61,Metro Línea 3,Con retraso,3 minutos,Desvío programado,2024-11-29 21:54:15,Parada 8
+B62,Autobús 5,Suspendido temporalmente,14 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 4
+B63,Metro Línea 4,Suspendido temporalmente,8 minutos,Desvío por obras,2024-11-29 21:54:15,Estación D
+B64,Autobús 3,Con retraso,4 minutos,Desvío programado,2024-11-29 21:54:15,Parada 5
+B65,Metro Línea 2,Suspendido temporalmente,6 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 3
+B66,Cercanías C4,Con retraso,26 minutos,Desvío programado,2024-11-29 21:54:15,Estación C
+B67,Autobús 3,Con retraso,2 minutos,Desvío programado,2024-11-29 21:54:15,Estación D
+B68,Metro Línea 4,Con retraso,16 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 6
+B69,Metro Línea 10,Suspendido temporalmente,2 minutos,Ninguno,2024-11-29 21:54:15,Estación I
+B70,Cercanías C1,Operando normalmente,15 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 2
+B71,Autobús 15,Suspendido temporalmente,22 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 3
+B72,Metro Línea 7,Suspendido temporalmente,6 minutos,Ninguno,2024-11-29 21:54:15,Estación I
+B73,Metro Línea 4,Con retraso,26 minutos,Desvío programado,2024-11-29 21:54:15,Estación H
+B74,Metro Línea 6,Con retraso,26 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 5
+B75,Cercanías C2,Con retraso,8 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 3
+B76,Autobús 15,Suspendido temporalmente,3 minutos,Desvío por obras,2024-11-29 21:54:15,Estación F
+B77,Metro Línea 2,Suspendido temporalmente,6 minutos,Desvío programado,2024-11-29 21:54:15,Estación A
+B78,Metro Línea 2,Con retraso,10 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 8
+B79,Metro Línea 5,Con retraso,3 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 2
+B80,Metro Línea 6,Suspendido temporalmente,2 minutos,Ninguno,2024-11-29 21:54:15,Parada 5
+B81,Metro Línea 8,Operando normalmente,18 minutos,Desvío programado,2024-11-29 21:54:15,Estación A
+B82,Autobús Exprés Aeropuerto,Operando normalmente,13 minutos,Desvío por obras,2024-11-29 21:54:15,Parada 7
+B83,Cercanías C1,Suspendido temporalmente,20 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación I
+B84,Metro Línea 8,Operando normalmente,3 minutos,Ninguno,2024-11-29 21:54:15,Estación G
+B85,Autobús 15,Con retraso,11 minutos,Desvío por obras,2024-11-29 21:54:15,Estación D
+B86,Metro Línea 9,Operando normalmente,20 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 2
+B87,Autobús 2,Operando normalmente,8 minutos,Desvío programado,2024-11-29 21:54:15,Estación A
+B88,Metro Línea 10,Con retraso,8 minutos,Desvío por obras,2024-11-29 21:54:15,Estación I
+B89,Autobús 10,Con retraso,6 minutos,Ninguno,2024-11-29 21:54:15,Estación E
+B90,Metro Línea 4,Operando normalmente,19 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 6
+B91,Metro Línea 2,Operando normalmente,1 minutos,Desvío programado,2024-11-29 21:54:15,Estación F
+B92,Metro Línea 2,Suspendido temporalmente,21 minutos,Desvío programado,2024-11-29 21:54:15,Parada 3
+B93,Metro Línea 6,Con retraso,20 minutos,Ninguno,2024-11-29 21:54:15,Parada 10
+B94,Autobús 3,Operando normalmente,16 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación G
+B95,Cercanías C4,Suspendido temporalmente,8 minutos,Desvío programado,2024-11-29 21:54:15,Estación F
+B96,Metro Línea 5,Suspendido temporalmente,18 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación D
+B97,Metro Línea 1,Con retraso,30 minutos,Desvío por accidente,2024-11-29 21:54:15,Estación J
+B98,Cercanías C2,Con retraso,30 minutos,Ninguno,2024-11-29 21:54:15,Parada 7
+B99,Autobús 1,Operando normalmente,28 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 10
+B100,Metro Línea 3,Suspendido temporalmente,27 minutos,Desvío por accidente,2024-11-29 21:54:15,Parada 4

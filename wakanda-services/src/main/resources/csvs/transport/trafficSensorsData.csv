@@ -1,0 +1,1001 @@
+ID,Ubicacion,VehiculosHora,VelocidadPromedio,AccidentesReportados,NivelCongestion
+1,Plaza de Cibeles - Paseo de Recoletos,1845,63.905164236924456,3,Bajo
+2,Calle Atocha - Plaza Jacinto Benavente,2136,58.05929332995362,2,Bajo
+3,Calle Atocha - Plaza Jacinto Benavente,414,74.63725864307841,3,Alto
+4,Plaza de Cibeles - Paseo de Recoletos,545,35.29026945434706,2,Bajo
+5,M-40 - Carabanchel,2217,33.512997292989276,0,Bajo
+6,Calle O'Donnell - Doctor Esquerdo,2602,52.64105811251101,0,Bajo
+7,M-30 - Puente de Vallecas,694,25.629571226795044,0,Bajo
+8,Calle Atocha - Plaza Jacinto Benavente,1663,35.26494139833438,2,Alto
+9,Avenida de la Ilustración - La Vaguada,2062,68.34343338663315,3,Bajo
+10,Avenida de la Ilustración - La Vaguada,1278,29.462932309317065,2,Alto
+11,M-30 - Puente de Vallecas,1488,48.37548662033642,2,Bajo
+12,M-30 - Puente de Vallecas,1244,48.9115485942706,0,Bajo
+13,Avenida de la Ilustración - La Vaguada,1889,42.65551825654843,4,Bajo
+14,Plaza de Cibeles - Paseo de Recoletos,963,42.628301009831574,2,Moderado
+15,Calle O'Donnell - Doctor Esquerdo,1244,51.58555507090031,3,Moderado
+16,Plaza de Cibeles - Paseo de Recoletos,390,32.91535233005331,3,Moderado
+17,Plaza de Cibeles - Paseo de Recoletos,637,37.28194094297286,0,Alto
+18,Calle de Toledo - Pirámides,842,20.62067820433316,5,Bajo
+19,Méndez Álvaro - Estación Sur,736,58.55809304801167,3,Alto
+20,M-30 - Puente de Vallecas,1773,58.41261608553667,5,Moderado
+21,Calle O'Donnell - Doctor Esquerdo,2294,72.07375595252876,2,Bajo
+22,Paseo de la Castellana - Nuevos Ministerios,566,48.132541441612766,0,Alto
+23,Paseo de la Castellana - Nuevos Ministerios,1661,46.84940106560097,2,Moderado
+24,Avenida de la Ilustración - La Vaguada,2871,44.05614297048128,0,Alto
+25,Calle Atocha - Plaza Jacinto Benavente,2762,50.408495716421534,3,Alto
+26,Avenida de la Ilustración - La Vaguada,1867,33.73860447664501,4,Moderado
+27,Plaza de Cibeles - Paseo de Recoletos,2672,64.13522711453096,0,Bajo
+28,M-30 - Puente de Vallecas,1539,68.76790153426887,5,Bajo
+29,Calle de Toledo - Pirámides,844,62.8372371111891,5,Moderado
+30,Calle O'Donnell - Doctor Esquerdo,226,39.78728972315878,4,Moderado
+31,Méndez Álvaro - Estación Sur,2017,49.76319833022235,2,Bajo
+32,Calle Atocha - Plaza Jacinto Benavente,662,57.05611342223829,4,Bajo
+33,Plaza de Cibeles - Paseo de Recoletos,1966,26.10547357641844,0,Bajo
+34,Paseo de la Castellana - Nuevos Ministerios,1910,57.40260027741217,4,Alto
+35,M-30 - Puente de Vallecas,1915,48.28655517357481,2,Bajo
+36,M-30 - Puente de Vallecas,1368,70.3323101900487,3,Alto
+37,Plaza de Cibeles - Paseo de Recoletos,1008,63.514605628540686,0,Moderado
+38,M-30 - Puente de Vallecas,837,39.08496648155099,2,Alto
+39,M-40 - Carabanchel,232,30.732877130023418,4,Moderado
+40,M-40 - Carabanchel,1104,59.564554821147645,5,Bajo
+41,Avenida de la Ilustración - La Vaguada,1303,21.37682868876685,5,Bajo
+42,Méndez Álvaro - Estación Sur,2801,75.30486555612504,1,Alto
+43,Nudo Sur - M-30,830,31.73265084159753,5,Alto
+44,Méndez Álvaro - Estación Sur,1480,42.53393787217182,5,Moderado
+45,Calle Atocha - Plaza Jacinto Benavente,2626,33.68167796700246,1,Alto
+46,Nudo Sur - M-30,899,58.33780138410322,3,Moderado
+47,Calle O'Donnell - Doctor Esquerdo,1927,37.47285958155742,4,Alto
+48,Calle de Toledo - Pirámides,1006,29.411033373804422,5,Moderado
+49,Calle de Toledo - Pirámides,2720,29.318885055606703,1,Bajo
+50,Plaza de Cibeles - Paseo de Recoletos,2702,69.87875710796988,4,Bajo
+51,Méndez Álvaro - Estación Sur,237,54.50956341661644,4,Alto
+52,Plaza de Cibeles - Paseo de Recoletos,1271,69.76602883686675,2,Bajo
+53,Avenida de la Ilustración - La Vaguada,2747,39.89946489288031,3,Alto
+54,Nudo Sur - M-30,1311,76.96670327844421,2,Alto
+55,M-40 - Carabanchel,962,48.43622623924112,4,Bajo
+56,Paseo de la Castellana - Nuevos Ministerios,556,74.92572601982316,0,Alto
+57,Plaza de Cibeles - Paseo de Recoletos,2606,48.67773874579712,5,Bajo
+58,Nudo Sur - M-30,2104,21.48354493011768,2,Moderado
+59,Nudo Sur - M-30,1853,38.24307685961898,1,Moderado
+60,M-30 - Puente de Vallecas,521,73.7065816898616,1,Alto
+61,M-40 - Carabanchel,726,71.61099852503375,4,Alto
+62,Calle Atocha - Plaza Jacinto Benavente,935,59.24685833176721,3,Alto
+63,M-40 - Carabanchel,2356,27.649974119875758,5,Moderado
+64,Calle de Toledo - Pirámides,1038,35.858846160907916,2,Alto
+65,Avenida de la Ilustración - La Vaguada,1120,44.12778979031644,5,Moderado
+66,Nudo Sur - M-30,487,22.75510218194748,5,Alto
+67,Calle O'Donnell - Doctor Esquerdo,551,26.56180071322443,2,Moderado
+68,Paseo de la Castellana - Nuevos Ministerios,1927,59.067273658040506,3,Bajo
+69,Méndez Álvaro - Estación Sur,2960,73.87079498783004,3,Alto
+70,Calle Atocha - Plaza Jacinto Benavente,2017,64.09138943059853,4,Bajo
+71,M-30 - Puente de Vallecas,838,49.38593003414748,0,Alto
+72,Paseo de la Castellana - Nuevos Ministerios,2798,79.91747711767587,2,Alto
+73,Avenida de la Ilustración - La Vaguada,2129,66.89282975509803,1,Bajo
+74,Avenida de la Ilustración - La Vaguada,2935,53.16054269005006,3,Bajo
+75,Méndez Álvaro - Estación Sur,2710,50.6467537812844,5,Moderado
+76,Plaza de Cibeles - Paseo de Recoletos,2595,54.45553822283634,1,Moderado
+77,M-30 - Puente de Vallecas,792,67.5342734036609,1,Alto
+78,Nudo Sur - M-30,1693,46.26280740569142,3,Alto
+79,Plaza de Cibeles - Paseo de Recoletos,2459,73.98911097169432,0,Alto
+80,Paseo de la Castellana - Nuevos Ministerios,1314,30.420420592148567,2,Moderado
+81,Calle Atocha - Plaza Jacinto Benavente,534,70.93844978420447,3,Alto
+82,Calle de Toledo - Pirámides,1565,20.75372977995232,0,Bajo
+83,Calle O'Donnell - Doctor Esquerdo,1094,79.14130639350765,4,Moderado
+84,Nudo Sur - M-30,1926,71.26049750487813,4,Moderado
+85,Plaza de Cibeles - Paseo de Recoletos,2207,55.43518529639227,4,Alto
+86,Nudo Sur - M-30,1881,74.3833998481424,3,Alto
+87,Plaza de Cibeles - Paseo de Recoletos,1572,26.55648290364126,2,Bajo
+88,Calle Atocha - Plaza Jacinto Benavente,2788,65.0256708635965,2,Bajo
+89,M-40 - Carabanchel,2090,42.45477872149691,1,Moderado
+90,Calle Atocha - Plaza Jacinto Benavente,2247,55.41135597633661,0,Bajo
+91,Calle de Toledo - Pirámides,1243,65.05073559426802,0,Alto
+92,M-40 - Carabanchel,2983,44.87668950640406,4,Bajo
+93,M-40 - Carabanchel,2472,21.63732953566712,3,Moderado
+94,M-30 - Puente de Vallecas,2192,37.45327917094893,1,Bajo
+95,Avenida de la Ilustración - La Vaguada,661,51.61032214631783,4,Bajo
+96,Avenida de la Ilustración - La Vaguada,326,27.406145718806766,5,Moderado
+97,Calle Atocha - Plaza Jacinto Benavente,2405,67.77575886555391,5,Moderado
+98,Paseo de la Castellana - Nuevos Ministerios,1417,71.1802261081197,3,Alto
+99,Calle O'Donnell - Doctor Esquerdo,1015,58.199010543283215,3,Alto
+100,Calle Atocha - Plaza Jacinto Benavente,1899,78.95928242274113,4,Bajo
+101,Nudo Sur - M-30,1593,49.06601028782079,0,Bajo
+102,M-40 - Carabanchel,224,26.399647750000923,3,Alto
+103,Avenida de la Ilustración - La Vaguada,2161,47.40693602466557,0,Bajo
+104,Paseo de la Castellana - Nuevos Ministerios,2002,58.22402459896656,2,Moderado
+105,Méndez Álvaro - Estación Sur,498,55.40734551605138,3,Bajo
+106,Calle Atocha - Plaza Jacinto Benavente,1955,61.84737304891393,0,Moderado
+107,Plaza de Cibeles - Paseo de Recoletos,2835,78.83950112655157,5,Bajo
+108,Calle de Toledo - Pirámides,2515,66.04243081208631,2,Moderado
+109,Plaza de Cibeles - Paseo de Recoletos,1313,74.16098089969545,3,Moderado
+110,Calle de Toledo - Pirámides,1925,30.156284260008054,2,Alto
+111,Nudo Sur - M-30,569,72.85709284594876,4,Moderado
+112,Méndez Álvaro - Estación Sur,2655,72.93908848588867,0,Alto
+113,Paseo de la Castellana - Nuevos Ministerios,1468,69.09529943560011,0,Bajo
+114,Paseo de la Castellana - Nuevos Ministerios,2381,64.8604920768135,1,Moderado
+115,Calle Atocha - Plaza Jacinto Benavente,2041,53.3133777905759,5,Alto
+116,Calle O'Donnell - Doctor Esquerdo,1337,53.73047331838604,2,Bajo
+117,M-30 - Puente de Vallecas,1903,62.316506732585765,0,Moderado
+118,Plaza de Cibeles - Paseo de Recoletos,880,29.520346576315646,4,Alto
+119,Avenida de la Ilustración - La Vaguada,521,68.88934998397147,5,Alto
+120,Méndez Álvaro - Estación Sur,1622,40.51270987915355,5,Alto
+121,Paseo de la Castellana - Nuevos Ministerios,1077,44.20506594864953,3,Alto
+122,M-30 - Puente de Vallecas,1953,53.36714731426213,5,Moderado
+123,Calle de Toledo - Pirámides,2314,78.67151062093706,0,Bajo
+124,M-40 - Carabanchel,352,73.19404632214992,3,Bajo
+125,Calle O'Donnell - Doctor Esquerdo,1195,69.18406804160706,1,Bajo
+126,Plaza de Cibeles - Paseo de Recoletos,2559,73.06441758684491,3,Moderado
+127,Méndez Álvaro - Estación Sur,1280,71.7168961373201,4,Alto
+128,M-40 - Carabanchel,1172,21.153791577410086,2,Bajo
+129,Paseo de la Castellana - Nuevos Ministerios,2278,46.15981891549255,2,Alto
+130,Calle de Toledo - Pirámides,289,45.15459426668382,3,Alto
+131,Nudo Sur - M-30,778,67.42467630799518,1,Bajo
+132,Calle O'Donnell - Doctor Esquerdo,1437,21.75564354625483,3,Bajo
+133,Paseo de la Castellana - Nuevos Ministerios,902,30.841169287687407,3,Moderado
+134,Plaza de Cibeles - Paseo de Recoletos,2441,40.564114402633194,2,Alto
+135,M-30 - Puente de Vallecas,415,69.42039010677992,5,Bajo
+136,Plaza de Cibeles - Paseo de Recoletos,1183,34.62514661210498,5,Alto
+137,M-30 - Puente de Vallecas,2929,40.34364113177157,1,Alto
+138,M-30 - Puente de Vallecas,2835,39.783506477742776,0,Moderado
+139,Calle O'Donnell - Doctor Esquerdo,980,56.95267060506924,1,Moderado
+140,Calle Atocha - Plaza Jacinto Benavente,328,41.83726446697867,5,Moderado
+141,Nudo Sur - M-30,719,60.22319482175542,2,Alto
+142,Calle de Toledo - Pirámides,2177,73.29123835840542,5,Moderado
+143,Nudo Sur - M-30,2208,61.26684215705172,0,Moderado
+144,Plaza de Cibeles - Paseo de Recoletos,1712,62.072235287894074,0,Bajo
+145,Nudo Sur - M-30,449,51.253767258413845,3,Moderado
+146,Paseo de la Castellana - Nuevos Ministerios,1654,69.93227907630326,4,Alto
+147,Plaza de Cibeles - Paseo de Recoletos,351,79.9981086834062,2,Moderado
+148,Plaza de Cibeles - Paseo de Recoletos,1750,45.20032087154142,4,Alto
+149,Paseo de la Castellana - Nuevos Ministerios,2983,48.85023982386686,5,Bajo
+150,Calle O'Donnell - Doctor Esquerdo,2450,52.80546582392874,5,Bajo
+151,Calle O'Donnell - Doctor Esquerdo,1256,40.449647278943345,3,Alto
+152,Plaza de Cibeles - Paseo de Recoletos,1482,47.053484517660095,5,Alto
+153,M-40 - Carabanchel,2855,58.55486907427313,4,Bajo
+154,Plaza de Cibeles - Paseo de Recoletos,1991,53.34414853802285,0,Alto
+155,M-40 - Carabanchel,1658,26.692508015636847,3,Moderado
+156,Calle de Toledo - Pirámides,2828,47.91242813693503,0,Moderado
+157,Calle Atocha - Plaza Jacinto Benavente,1706,22.652803587518807,0,Moderado
+158,Avenida de la Ilustración - La Vaguada,2318,49.66046942590605,2,Moderado
+159,Calle de Toledo - Pirámides,445,28.697862846955687,0,Alto
+160,Calle de Toledo - Pirámides,540,76.85680293829658,5,Alto
+161,Plaza de Cibeles - Paseo de Recoletos,1679,29.394671380885864,0,Bajo
+162,Méndez Álvaro - Estación Sur,1910,41.28464287914248,0,Alto
+163,Plaza de Cibeles - Paseo de Recoletos,1403,29.68892138014189,4,Moderado
+164,Nudo Sur - M-30,1819,67.01694350922989,1,Bajo
+165,Calle O'Donnell - Doctor Esquerdo,2406,20.57151967572189,4,Bajo
+166,Avenida de la Ilustración - La Vaguada,1942,38.795419742539764,0,Moderado
+167,Calle O'Donnell - Doctor Esquerdo,445,22.57259096717446,4,Alto
+168,Méndez Álvaro - Estación Sur,2502,20.55859086710917,4,Alto
+169,M-30 - Puente de Vallecas,2344,53.235087035981124,5,Moderado
+170,Calle Atocha - Plaza Jacinto Benavente,1241,37.18536831247264,3,Bajo
+171,Méndez Álvaro - Estación Sur,2056,34.25729989315748,0,Bajo
+172,M-30 - Puente de Vallecas,291,21.83608968072657,3,Alto
+173,Méndez Álvaro - Estación Sur,1402,46.95273539029792,1,Bajo
+174,M-30 - Puente de Vallecas,1048,40.039258472556774,1,Bajo
+175,Méndez Álvaro - Estación Sur,845,22.79121323295518,3,Moderado
+176,Calle Atocha - Plaza Jacinto Benavente,770,56.91671790076866,5,Moderado
+177,Paseo de la Castellana - Nuevos Ministerios,259,75.85106679662104,2,Bajo
+178,Avenida de la Ilustración - La Vaguada,1068,61.239604795791834,5,Alto
+179,M-30 - Puente de Vallecas,1589,48.63786174762343,0,Bajo
+180,Calle O'Donnell - Doctor Esquerdo,2498,65.14873710629173,5,Alto
+181,Plaza de Cibeles - Paseo de Recoletos,494,59.693721613379125,1,Moderado
+182,Méndez Álvaro - Estación Sur,2353,41.65198522571255,4,Bajo
+183,Calle O'Donnell - Doctor Esquerdo,2630,64.165541399185,3,Moderado
+184,M-30 - Puente de Vallecas,1902,40.24662777808562,5,Alto
+185,Nudo Sur - M-30,2594,21.59338033941953,2,Bajo
+186,Avenida de la Ilustración - La Vaguada,1782,22.375142432145015,2,Bajo
+187,Avenida de la Ilustración - La Vaguada,1042,76.03462065723832,1,Alto
+188,Calle de Toledo - Pirámides,819,71.48713592402721,2,Bajo
+189,Calle de Toledo - Pirámides,1186,35.47578156712017,1,Moderado
+190,Nudo Sur - M-30,926,77.23186806491594,4,Bajo
+191,Méndez Álvaro - Estación Sur,621,72.91595019321133,1,Moderado
+192,Calle O'Donnell - Doctor Esquerdo,2641,52.87730199492624,2,Bajo
+193,Paseo de la Castellana - Nuevos Ministerios,2536,47.54880138039655,3,Moderado
+194,Calle O'Donnell - Doctor Esquerdo,539,63.43162713382518,4,Bajo
+195,Méndez Álvaro - Estación Sur,2876,70.73131341621965,1,Alto
+196,Avenida de la Ilustración - La Vaguada,2362,56.999569122278075,2,Alto
+197,Calle Atocha - Plaza Jacinto Benavente,206,66.0167450434937,0,Alto
+198,M-40 - Carabanchel,1738,70.61770024024628,1,Bajo
+199,Paseo de la Castellana - Nuevos Ministerios,685,59.1573321088491,2,Bajo
+200,Calle Atocha - Plaza Jacinto Benavente,2594,76.89921267505481,1,Alto
+201,Paseo de la Castellana - Nuevos Ministerios,1957,62.29485679674332,4,Alto
+202,M-40 - Carabanchel,1832,35.880259550589116,2,Bajo
+203,Calle O'Donnell - Doctor Esquerdo,745,25.801509863517488,5,Alto
+204,Nudo Sur - M-30,2244,60.04355837804116,3,Bajo
+205,Avenida de la Ilustración - La Vaguada,1653,25.170878989965605,4,Bajo
+206,Plaza de Cibeles - Paseo de Recoletos,1443,46.533111207796026,5,Bajo
+207,Calle Atocha - Plaza Jacinto Benavente,1275,39.525271178295625,0,Bajo
+208,Avenida de la Ilustración - La Vaguada,1022,25.338245164798966,3,Alto
+209,Méndez Álvaro - Estación Sur,2921,55.254152977180254,0,Alto
+210,Paseo de la Castellana - Nuevos Ministerios,933,35.80822150130231,0,Bajo
+211,Paseo de la Castellana - Nuevos Ministerios,2327,47.84176601149275,1,Bajo
+212,Paseo de la Castellana - Nuevos Ministerios,2303,31.73904371458531,0,Moderado
+213,Calle O'Donnell - Doctor Esquerdo,1014,50.31402217692523,3,Bajo
+214,Calle O'Donnell - Doctor Esquerdo,2971,64.43278419963178,1,Bajo
+215,Nudo Sur - M-30,461,79.08115979770835,3,Bajo
+216,M-40 - Carabanchel,508,27.98045930597225,2,Moderado
+217,Paseo de la Castellana - Nuevos Ministerios,508,45.751448296505885,4,Alto
+218,Calle O'Donnell - Doctor Esquerdo,2358,27.54284638530062,4,Alto
+219,Calle de Toledo - Pirámides,1653,22.80350962955614,3,Alto
+220,M-40 - Carabanchel,2830,75.49632234957681,2,Alto
+221,Calle Atocha - Plaza Jacinto Benavente,697,28.096138955015057,3,Alto
+222,Nudo Sur - M-30,2942,42.50572865172226,3,Moderado
+223,Avenida de la Ilustración - La Vaguada,1877,27.15358262773824,3,Moderado
+224,Nudo Sur - M-30,2602,62.00959517798081,3,Bajo
+225,Calle de Toledo - Pirámides,2070,73.44395234859148,1,Bajo
+226,Calle O'Donnell - Doctor Esquerdo,555,24.52871450297412,5,Alto
+227,Calle Atocha - Plaza Jacinto Benavente,1985,69.79805970077533,5,Moderado
+228,Avenida de la Ilustración - La Vaguada,1894,28.236085951568196,5,Bajo
+229,Avenida de la Ilustración - La Vaguada,277,40.608484608135925,4,Moderado
+230,Méndez Álvaro - Estación Sur,2590,76.80255517672774,4,Alto
+231,Calle de Toledo - Pirámides,1648,27.627067002059633,0,Moderado
+232,Méndez Álvaro - Estación Sur,956,71.28381047600526,2,Bajo
+233,Calle Atocha - Plaza Jacinto Benavente,1518,25.357287360775977,5,Alto
+234,Nudo Sur - M-30,1228,65.92976398297436,3,Moderado
+235,Calle O'Donnell - Doctor Esquerdo,997,64.25119529907252,1,Moderado
+236,Méndez Álvaro - Estación Sur,2373,68.21617707275871,3,Moderado
+237,Plaza de Cibeles - Paseo de Recoletos,361,50.288620007029365,1,Alto
+238,M-30 - Puente de Vallecas,2846,35.95784462373928,0,Alto
+239,M-30 - Puente de Vallecas,607,60.315549698499964,3,Bajo
+240,Nudo Sur - M-30,2619,67.59437131212295,1,Alto
+241,Avenida de la Ilustración - La Vaguada,2454,52.785067325357346,3,Moderado
+242,Paseo de la Castellana - Nuevos Ministerios,537,27.75995286117836,5,Alto
+243,Avenida de la Ilustración - La Vaguada,1148,30.206428093533457,2,Alto
+244,M-30 - Puente de Vallecas,2396,31.882891520388583,2,Bajo
+245,Calle de Toledo - Pirámides,1592,36.32247835161686,0,Moderado
+246,Avenida de la Ilustración - La Vaguada,349,30.174578751054693,3,Alto
+247,Nudo Sur - M-30,1266,55.93419805017959,5,Alto
+248,Plaza de Cibeles - Paseo de Recoletos,2228,20.359151841415063,5,Bajo
+249,Calle O'Donnell - Doctor Esquerdo,1613,36.34123536270815,0,Alto
+250,Nudo Sur - M-30,2425,37.66680160269398,5,Bajo
+251,M-40 - Carabanchel,802,71.60785731296444,0,Alto
+252,Calle Atocha - Plaza Jacinto Benavente,2134,24.813046823396682,0,Alto
+253,Calle de Toledo - Pirámides,509,68.43306123037556,3,Bajo
+254,Calle Atocha - Plaza Jacinto Benavente,593,72.69977419507984,3,Alto
+255,M-30 - Puente de Vallecas,428,24.566000818391842,2,Bajo
+256,Avenida de la Ilustración - La Vaguada,568,61.86547073021645,1,Moderado
+257,Méndez Álvaro - Estación Sur,555,26.443800366390022,3,Bajo
+258,Méndez Álvaro - Estación Sur,2183,46.422299181430915,1,Alto
+259,M-30 - Puente de Vallecas,2118,74.75763387700196,4,Moderado
+260,Calle Atocha - Plaza Jacinto Benavente,1523,31.547142570043572,5,Bajo
+261,Avenida de la Ilustración - La Vaguada,2888,64.68957311642623,0,Bajo
+262,M-40 - Carabanchel,359,49.926706147407984,4,Bajo
+263,Plaza de Cibeles - Paseo de Recoletos,1566,79.61277414453606,0,Alto
+264,M-40 - Carabanchel,1571,24.047367597891494,0,Alto
+265,Avenida de la Ilustración - La Vaguada,426,62.43463855549949,3,Moderado
+266,M-40 - Carabanchel,1195,22.33643339676803,0,Bajo
+267,M-40 - Carabanchel,2961,30.799987720047596,1,Moderado
+268,Paseo de la Castellana - Nuevos Ministerios,2627,71.57548498460301,5,Moderado
+269,M-40 - Carabanchel,2586,78.94211526650236,4,Moderado
+270,Calle O'Donnell - Doctor Esquerdo,1622,38.936135096373256,5,Bajo
+271,Paseo de la Castellana - Nuevos Ministerios,2251,22.488113161852002,2,Alto
+272,Avenida de la Ilustración - La Vaguada,575,28.51044913993847,2,Moderado
+273,Calle O'Donnell - Doctor Esquerdo,1166,35.723292110026186,2,Moderado
+274,Calle Atocha - Plaza Jacinto Benavente,1860,50.758855474820564,1,Alto
+275,Plaza de Cibeles - Paseo de Recoletos,1872,46.73492820146222,5,Moderado
+276,Calle O'Donnell - Doctor Esquerdo,575,62.87241202121551,2,Moderado
+277,Plaza de Cibeles - Paseo de Recoletos,915,24.40902865089563,5,Moderado
+278,M-30 - Puente de Vallecas,1704,48.7390668404222,5,Alto
+279,Plaza de Cibeles - Paseo de Recoletos,1779,45.91673399938631,2,Bajo
+280,Paseo de la Castellana - Nuevos Ministerios,1314,54.72213681233016,3,Alto
+281,M-30 - Puente de Vallecas,2831,30.079191744675335,3,Alto
+282,Nudo Sur - M-30,1700,27.56282584518562,5,Moderado
+283,M-40 - Carabanchel,2209,72.41285064114274,0,Alto
+284,Calle Atocha - Plaza Jacinto Benavente,1633,23.40275023086366,4,Alto
+285,M-40 - Carabanchel,1268,67.28402338708281,2,Alto
+286,Plaza de Cibeles - Paseo de Recoletos,1029,32.75483936457502,4,Alto
+287,Calle Atocha - Plaza Jacinto Benavente,1716,64.73283057598812,4,Moderado
+288,Calle Atocha - Plaza Jacinto Benavente,1646,71.34494924022809,1,Bajo
+289,Méndez Álvaro - Estación Sur,2340,58.6475974641792,3,Alto
+290,Méndez Álvaro - Estación Sur,938,28.382318261030232,3,Bajo
+291,Calle O'Donnell - Doctor Esquerdo,2747,49.56809331336211,3,Moderado
+292,M-30 - Puente de Vallecas,777,22.86593761973164,0,Moderado
+293,Nudo Sur - M-30,456,66.87187731136305,4,Alto
+294,Méndez Álvaro - Estación Sur,893,45.53010677686321,5,Alto
+295,Méndez Álvaro - Estación Sur,2155,29.33192082698006,1,Moderado
+296,M-40 - Carabanchel,2899,22.592118701438327,4,Alto
+297,M-40 - Carabanchel,2824,66.28575222134768,4,Bajo
+298,Avenida de la Ilustración - La Vaguada,705,76.37816421739092,5,Bajo
+299,M-30 - Puente de Vallecas,2881,32.55051684918096,1,Bajo
+300,Calle de Toledo - Pirámides,2719,45.11099716309337,4,Bajo
+301,Calle Atocha - Plaza Jacinto Benavente,1915,66.31963393265556,2,Bajo
+302,Nudo Sur - M-30,2567,36.0437359857532,5,Bajo
+303,Calle O'Donnell - Doctor Esquerdo,1764,78.4998998621779,3,Moderado
+304,Calle de Toledo - Pirámides,1208,46.91741227322764,0,Alto
+305,Nudo Sur - M-30,2883,61.729709991534186,5,Alto
+306,M-30 - Puente de Vallecas,2332,36.80767701371805,0,Moderado
+307,Méndez Álvaro - Estación Sur,2936,22.873032203769128,3,Alto
+308,Nudo Sur - M-30,1782,30.47338523155062,1,Bajo
+309,Paseo de la Castellana - Nuevos Ministerios,1398,33.10521270518243,1,Alto
+310,Paseo de la Castellana - Nuevos Ministerios,396,79.56076015651706,4,Bajo
+311,Plaza de Cibeles - Paseo de Recoletos,1556,48.69143934384304,4,Alto
+312,Calle Atocha - Plaza Jacinto Benavente,2550,71.58496188938551,5,Moderado
+313,Calle de Toledo - Pirámides,421,68.25308007894492,2,Moderado
+314,Calle Atocha - Plaza Jacinto Benavente,893,67.75105029456653,5,Bajo
+315,Méndez Álvaro - Estación Sur,1710,60.51983428954058,3,Bajo
+316,Nudo Sur - M-30,2974,21.911138781819666,5,Bajo
+317,Avenida de la Ilustración - La Vaguada,1285,64.6325829749979,2,Bajo
+318,M-40 - Carabanchel,2048,57.59209045483959,2,Bajo
+319,Nudo Sur - M-30,451,59.99489917122549,2,Bajo
+320,M-40 - Carabanchel,429,24.782706419079084,0,Moderado
+321,Paseo de la Castellana - Nuevos Ministerios,1583,54.18883678127798,5,Alto
+322,Paseo de la Castellana - Nuevos Ministerios,2431,72.46813207245543,5,Alto
+323,Méndez Álvaro - Estación Sur,2135,61.68902800262497,2,Alto
+324,Calle Atocha - Plaza Jacinto Benavente,657,71.18615602817263,3,Alto
+325,Paseo de la Castellana - Nuevos Ministerios,922,79.20825996212031,2,Moderado
+326,Calle Atocha - Plaza Jacinto Benavente,786,68.18563961067159,2,Bajo
+327,Méndez Álvaro - Estación Sur,2196,63.462474014636825,5,Alto
+328,Plaza de Cibeles - Paseo de Recoletos,2822,69.89236730727752,3,Alto
+329,Calle Atocha - Plaza Jacinto Benavente,1361,26.24098842571425,5,Alto
+330,Paseo de la Castellana - Nuevos Ministerios,314,50.165378989622695,1,Bajo
+331,Méndez Álvaro - Estación Sur,2017,66.62867763520902,0,Moderado
+332,Calle de Toledo - Pirámides,1074,69.63517996683333,1,Bajo
+333,Calle O'Donnell - Doctor Esquerdo,286,49.19827278496277,2,Bajo
+334,Calle de Toledo - Pirámides,691,41.49944512694741,0,Alto
+335,Méndez Álvaro - Estación Sur,1512,73.56652789204011,3,Moderado
+336,Paseo de la Castellana - Nuevos Ministerios,1282,69.36885665255303,0,Bajo
+337,Plaza de Cibeles - Paseo de Recoletos,249,63.39201902939992,2,Alto
+338,Calle de Toledo - Pirámides,2479,76.25835135915534,0,Moderado
+339,Calle Atocha - Plaza Jacinto Benavente,933,41.55757172159943,0,Alto
+340,Calle O'Donnell - Doctor Esquerdo,547,70.31094490625858,5,Bajo
+341,Plaza de Cibeles - Paseo de Recoletos,504,29.06487447190004,1,Alto
+342,Avenida de la Ilustración - La Vaguada,2758,49.475739146843644,1,Bajo
+343,Avenida de la Ilustración - La Vaguada,2723,30.26045840563893,4,Alto
+344,Méndez Álvaro - Estación Sur,2395,23.844182002168978,1,Alto
+345,Méndez Álvaro - Estación Sur,2321,24.546796591219945,4,Alto
+346,Calle de Toledo - Pirámides,1515,29.846983792952223,1,Bajo
+347,M-30 - Puente de Vallecas,1703,27.54758323248233,4,Moderado
+348,Paseo de la Castellana - Nuevos Ministerios,397,25.530784303907808,5,Moderado
+349,M-30 - Puente de Vallecas,1056,56.52596401209009,5,Moderado
+350,M-30 - Puente de Vallecas,2379,30.60861280567056,1,Moderado
+351,Paseo de la Castellana - Nuevos Ministerios,2496,20.93921004857952,0,Moderado
+352,Plaza de Cibeles - Paseo de Recoletos,2846,49.85728366381177,1,Alto
+353,Paseo de la Castellana - Nuevos Ministerios,2054,58.10811791679979,1,Moderado
+354,Calle Atocha - Plaza Jacinto Benavente,737,70.43073411217694,3,Moderado
+355,Plaza de Cibeles - Paseo de Recoletos,1561,47.35116248361649,1,Moderado
+356,Calle O'Donnell - Doctor Esquerdo,1906,31.65819666957845,3,Moderado
+357,Calle O'Donnell - Doctor Esquerdo,2107,34.819047772339395,5,Moderado
+358,Méndez Álvaro - Estación Sur,547,77.51645295542002,3,Alto
+359,Paseo de la Castellana - Nuevos Ministerios,2423,27.062943467816467,2,Moderado
+360,Nudo Sur - M-30,2566,46.75130378014047,2,Moderado
+361,Calle O'Donnell - Doctor Esquerdo,2370,51.486721996028486,0,Bajo
+362,Méndez Álvaro - Estación Sur,2082,23.124249245826306,3,Moderado
+363,M-40 - Carabanchel,317,37.50798518053519,3,Moderado
+364,Avenida de la Ilustración - La Vaguada,1562,53.32907448298679,2,Moderado
+365,M-30 - Puente de Vallecas,1167,51.764952173102664,5,Moderado
+366,Calle de Toledo - Pirámides,2775,49.53546567031064,5,Moderado
+367,Plaza de Cibeles - Paseo de Recoletos,1483,32.888630389685346,2,Bajo
+368,M-40 - Carabanchel,355,66.48495719068082,1,Alto
+369,Avenida de la Ilustración - La Vaguada,2437,68.942906064493,3,Moderado
+370,M-40 - Carabanchel,865,42.00445078190987,5,Moderado
+371,M-30 - Puente de Vallecas,2185,24.08510450423409,4,Moderado
+372,Calle Atocha - Plaza Jacinto Benavente,2713,62.57102791473511,1,Moderado
+373,Avenida de la Ilustración - La Vaguada,359,69.26087335455077,3,Bajo
+374,Plaza de Cibeles - Paseo de Recoletos,2681,27.996936176269166,5,Bajo
+375,Calle O'Donnell - Doctor Esquerdo,649,52.57746484214068,4,Moderado
+376,M-30 - Puente de Vallecas,1115,60.30591837121982,3,Moderado
+377,Méndez Álvaro - Estación Sur,251,78.09126867525441,4,Alto
+378,Nudo Sur - M-30,2401,23.8382066535873,0,Bajo
+379,Calle O'Donnell - Doctor Esquerdo,1298,40.68986254381316,5,Alto
+380,Calle de Toledo - Pirámides,2251,46.356949950287095,1,Moderado
+381,Calle Atocha - Plaza Jacinto Benavente,1257,37.44976596628545,2,Alto
+382,Plaza de Cibeles - Paseo de Recoletos,2810,69.07178987718729,5,Moderado
+383,Méndez Álvaro - Estación Sur,2448,34.855297821839486,3,Moderado
+384,Calle de Toledo - Pirámides,2784,68.24691510646954,3,Alto
+385,M-40 - Carabanchel,2307,54.02945661585766,5,Alto
+386,Méndez Álvaro - Estación Sur,786,37.46583100490875,1,Bajo
+387,Plaza de Cibeles - Paseo de Recoletos,2219,66.61258594188962,4,Moderado
+388,Calle O'Donnell - Doctor Esquerdo,2474,68.27028025056168,4,Moderado
+389,Calle Atocha - Plaza Jacinto Benavente,994,49.92895571569754,3,Alto
+390,Nudo Sur - M-30,1791,71.38925463234212,1,Alto
+391,Calle Atocha - Plaza Jacinto Benavente,2058,30.41352521618922,4,Moderado
+392,Avenida de la Ilustración - La Vaguada,1604,21.1919993148761,1,Bajo
+393,Calle de Toledo - Pirámides,1031,26.290156254985536,2,Bajo
+394,M-30 - Puente de Vallecas,1359,35.47163814176284,1,Alto
+395,Paseo de la Castellana - Nuevos Ministerios,1691,22.18046675772766,3,Moderado
+396,M-40 - Carabanchel,2246,65.38767130284815,0,Moderado
+397,M-30 - Puente de Vallecas,2500,76.72825536445912,0,Moderado
+398,Calle Atocha - Plaza Jacinto Benavente,1263,25.211107065594415,0,Moderado
+399,Avenida de la Ilustración - La Vaguada,1242,56.531715849615374,2,Bajo
+400,Plaza de Cibeles - Paseo de Recoletos,2678,70.75468843895261,0,Moderado
+401,Méndez Álvaro - Estación Sur,2246,54.06187912109522,4,Bajo
+402,Avenida de la Ilustración - La Vaguada,1721,75.00324835952996,2,Alto
+403,Méndez Álvaro - Estación Sur,1489,59.42896767953899,0,Alto
+404,Calle Atocha - Plaza Jacinto Benavente,1731,73.37652689064123,3,Moderado
+405,Plaza de Cibeles - Paseo de Recoletos,1342,62.258538252592274,0,Moderado
+406,Méndez Álvaro - Estación Sur,1529,59.82210011608319,0,Alto
+407,Calle Atocha - Plaza Jacinto Benavente,457,51.541010465843584,2,Bajo
+408,M-40 - Carabanchel,475,74.06044628638986,3,Moderado
+409,Paseo de la Castellana - Nuevos Ministerios,2228,56.8747561040876,4,Moderado
+410,Calle O'Donnell - Doctor Esquerdo,1346,35.76171477234064,0,Moderado
+411,Calle de Toledo - Pirámides,1074,37.521471766031695,2,Bajo
+412,Méndez Álvaro - Estación Sur,540,22.715042534908783,2,Alto
+413,M-30 - Puente de Vallecas,2975,26.012155170612075,3,Bajo
+414,Plaza de Cibeles - Paseo de Recoletos,2728,57.25304001375252,3,Moderado
+415,Nudo Sur - M-30,1574,50.09038120521966,5,Moderado
+416,M-30 - Puente de Vallecas,2986,55.281274695898354,1,Bajo
+417,Calle de Toledo - Pirámides,2602,63.52734238821627,1,Bajo
+418,Calle O'Donnell - Doctor Esquerdo,2841,27.354793511476615,2,Bajo
+419,Calle de Toledo - Pirámides,1654,53.529644839174075,3,Bajo
+420,Nudo Sur - M-30,1714,32.870953391209234,4,Moderado
+421,Calle de Toledo - Pirámides,2426,21.299813461534775,0,Alto
+422,Paseo de la Castellana - Nuevos Ministerios,2301,43.20134978431185,2,Bajo
+423,M-30 - Puente de Vallecas,1244,43.843721326074444,0,Alto
+424,Calle de Toledo - Pirámides,2063,59.006631448529404,4,Bajo
+425,Avenida de la Ilustración - La Vaguada,509,51.89841929461275,2,Moderado
+426,Calle de Toledo - Pirámides,579,79.29787642474292,5,Alto
+427,Calle Atocha - Plaza Jacinto Benavente,1381,69.57565016681247,4,Bajo
+428,Nudo Sur - M-30,2986,75.51029513204853,3,Moderado
+429,Méndez Álvaro - Estación Sur,2283,52.081723013114875,4,Alto
+430,Avenida de la Ilustración - La Vaguada,1500,47.407395946427066,3,Bajo
+431,Avenida de la Ilustración - La Vaguada,2943,52.61655261054202,5,Moderado
+432,Plaza de Cibeles - Paseo de Recoletos,964,74.88780317168985,5,Alto
+433,Plaza de Cibeles - Paseo de Recoletos,1252,56.59785483949358,1,Alto
+434,Nudo Sur - M-30,697,53.27222054651976,2,Alto
+435,Calle O'Donnell - Doctor Esquerdo,1394,42.72147146471517,5,Bajo
+436,Calle O'Donnell - Doctor Esquerdo,2122,79.1438433730141,1,Moderado
+437,Nudo Sur - M-30,944,24.67737295296189,4,Alto
+438,Nudo Sur - M-30,603,33.599153983410524,2,Bajo
+439,Plaza de Cibeles - Paseo de Recoletos,2739,79.90208615255196,5,Moderado
+440,Paseo de la Castellana - Nuevos Ministerios,2330,32.208746767969146,3,Bajo
+441,Plaza de Cibeles - Paseo de Recoletos,607,48.637901885525594,0,Alto
+442,Calle de Toledo - Pirámides,1343,56.141836706419205,2,Moderado
+443,M-40 - Carabanchel,1859,24.070029566278183,3,Bajo
+444,Plaza de Cibeles - Paseo de Recoletos,877,47.95932558386767,5,Moderado
+445,Calle de Toledo - Pirámides,2424,21.15410529196133,2,Alto
+446,Paseo de la Castellana - Nuevos Ministerios,1290,59.14696170269162,5,Alto
+447,Calle O'Donnell - Doctor Esquerdo,1146,41.504630873392216,1,Moderado
+448,Calle O'Donnell - Doctor Esquerdo,1994,74.8464358451927,1,Alto
+449,Méndez Álvaro - Estación Sur,531,42.78766422266102,5,Bajo
+450,M-40 - Carabanchel,1695,29.971331689935166,2,Alto
+451,Avenida de la Ilustración - La Vaguada,1152,31.5894905635092,4,Moderado
+452,Plaza de Cibeles - Paseo de Recoletos,2983,40.1473239671964,4,Moderado
+453,Paseo de la Castellana - Nuevos Ministerios,900,57.53074379299037,0,Alto
+454,Avenida de la Ilustración - La Vaguada,2120,44.54153451292424,0,Bajo
+455,Nudo Sur - M-30,2956,58.841314777915514,4,Bajo
+456,M-30 - Puente de Vallecas,2900,76.71896114608067,2,Bajo
+457,M-30 - Puente de Vallecas,1264,40.02754783333927,5,Moderado
+458,Avenida de la Ilustración - La Vaguada,469,64.84418720093349,4,Bajo
+459,Plaza de Cibeles - Paseo de Recoletos,1788,72.58228040328007,5,Alto
+460,Nudo Sur - M-30,2194,40.37810819049372,5,Bajo
+461,Calle O'Donnell - Doctor Esquerdo,2540,27.025033227402435,1,Alto
+462,Avenida de la Ilustración - La Vaguada,900,35.46764534527098,0,Alto
+463,Calle Atocha - Plaza Jacinto Benavente,2851,46.675719556511766,3,Bajo
+464,Nudo Sur - M-30,2778,43.69130129145765,3,Moderado
+465,M-30 - Puente de Vallecas,428,49.55746203694147,3,Alto
+466,M-30 - Puente de Vallecas,2970,46.424836170695215,3,Moderado
+467,Calle de Toledo - Pirámides,1751,48.07298992466512,1,Alto
+468,Calle Atocha - Plaza Jacinto Benavente,491,67.4729494664434,0,Alto
+469,Avenida de la Ilustración - La Vaguada,518,64.95534266010453,2,Moderado
+470,M-40 - Carabanchel,1444,76.60582518250071,5,Bajo
+471,Avenida de la Ilustración - La Vaguada,606,73.34234170148342,3,Alto
+472,Calle de Toledo - Pirámides,2583,51.19769952389702,4,Alto
+473,Calle O'Donnell - Doctor Esquerdo,1929,51.450143788096796,4,Moderado
+474,Plaza de Cibeles - Paseo de Recoletos,2294,66.03507000128813,0,Moderado
+475,Méndez Álvaro - Estación Sur,1780,64.39370215771955,2,Moderado
+476,Paseo de la Castellana - Nuevos Ministerios,835,72.96696135161656,2,Alto
+477,Calle O'Donnell - Doctor Esquerdo,2243,23.45787836397753,3,Moderado
+478,Avenida de la Ilustración - La Vaguada,1233,58.5486465646416,1,Moderado
+479,Calle Atocha - Plaza Jacinto Benavente,1081,74.09273383352081,3,Alto
+480,M-40 - Carabanchel,2592,49.60290416953981,1,Moderado
+481,M-40 - Carabanchel,406,54.22015396624346,4,Bajo
+482,Plaza de Cibeles - Paseo de Recoletos,1718,68.76278226875115,5,Moderado
+483,M-30 - Puente de Vallecas,1015,64.199698770574,3,Moderado
+484,M-40 - Carabanchel,2144,20.436102640600318,0,Alto
+485,Paseo de la Castellana - Nuevos Ministerios,2862,54.493475403514466,1,Bajo
+486,Calle Atocha - Plaza Jacinto Benavente,2780,79.41228640122736,5,Moderado
+487,Paseo de la Castellana - Nuevos Ministerios,2119,49.247880722847114,1,Moderado
+488,Calle de Toledo - Pirámides,462,41.23258981522143,0,Bajo
+489,Avenida de la Ilustración - La Vaguada,1940,37.86947392247102,0,Alto
+490,Calle O'Donnell - Doctor Esquerdo,2849,32.98839095738869,1,Bajo
+491,Avenida de la Ilustración - La Vaguada,734,28.760671761539097,1,Bajo
+492,Calle de Toledo - Pirámides,1119,70.77813295083538,0,Bajo
+493,Calle O'Donnell - Doctor Esquerdo,1929,72.64342462915155,3,Moderado
+494,Calle de Toledo - Pirámides,1555,73.96412502392405,5,Alto
+495,M-40 - Carabanchel,1522,68.33124595443378,0,Alto
+496,Paseo de la Castellana - Nuevos Ministerios,1185,61.72049778328878,2,Bajo
+497,Calle Atocha - Plaza Jacinto Benavente,918,58.06822565845261,4,Bajo
+498,Plaza de Cibeles - Paseo de Recoletos,2926,28.884218242682593,0,Alto
+499,Avenida de la Ilustración - La Vaguada,1505,67.93727187350518,0,Bajo
+500,Calle O'Donnell - Doctor Esquerdo,2275,76.55058117678371,5,Moderado
+501,Méndez Álvaro - Estación Sur,751,74.11412749780456,0,Alto
+502,M-30 - Puente de Vallecas,1320,51.686379500394764,3,Moderado
+503,Méndez Álvaro - Estación Sur,2017,70.8682334799828,2,Alto
+504,Calle Atocha - Plaza Jacinto Benavente,2257,49.73802369444691,3,Alto
+505,Calle de Toledo - Pirámides,1892,20.841390679503796,2,Bajo
+506,Calle de Toledo - Pirámides,618,34.31188315701554,0,Alto
+507,Avenida de la Ilustración - La Vaguada,2718,46.12636064471964,5,Alto
+508,Nudo Sur - M-30,1862,60.2283085060104,1,Alto
+509,M-40 - Carabanchel,2557,58.834543932290764,1,Alto
+510,Paseo de la Castellana - Nuevos Ministerios,791,47.79404252453164,5,Alto
+511,Avenida de la Ilustración - La Vaguada,622,39.449219797856,1,Bajo
+512,Paseo de la Castellana - Nuevos Ministerios,233,54.12853915709763,4,Bajo
+513,Plaza de Cibeles - Paseo de Recoletos,722,26.262731399781995,5,Bajo
+514,Nudo Sur - M-30,1625,38.68589877231245,5,Bajo
+515,Calle O'Donnell - Doctor Esquerdo,1624,74.59434755388284,5,Bajo
+516,Paseo de la Castellana - Nuevos Ministerios,2119,24.800342300340997,3,Alto
+517,M-30 - Puente de Vallecas,327,23.512846545234083,5,Alto
+518,Calle O'Donnell - Doctor Esquerdo,1543,37.62794321744791,5,Moderado
+519,Paseo de la Castellana - Nuevos Ministerios,2086,47.94114958246293,0,Moderado
+520,Avenida de la Ilustración - La Vaguada,2016,32.72105993612201,1,Bajo
+521,Calle Atocha - Plaza Jacinto Benavente,418,50.06813382629201,0,Moderado
+522,Calle O'Donnell - Doctor Esquerdo,555,36.404445113390636,3,Moderado
+523,Paseo de la Castellana - Nuevos Ministerios,1487,70.14456284063249,1,Alto
+524,Calle de Toledo - Pirámides,432,78.16492286760065,1,Moderado
+525,Méndez Álvaro - Estación Sur,2383,74.67184769151905,3,Moderado
+526,Calle O'Donnell - Doctor Esquerdo,392,33.041374354720986,2,Alto
+527,M-40 - Carabanchel,2054,21.86393757640694,0,Bajo
+528,Plaza de Cibeles - Paseo de Recoletos,2551,63.71475440374631,3,Alto
+529,Nudo Sur - M-30,1253,67.98106726279792,2,Alto
+530,Calle O'Donnell - Doctor Esquerdo,933,29.37058802216716,5,Bajo
+531,Plaza de Cibeles - Paseo de Recoletos,480,77.81093364767457,2,Bajo
+532,Avenida de la Ilustración - La Vaguada,2584,71.31252152844436,3,Alto
+533,Calle Atocha - Plaza Jacinto Benavente,838,29.688380059075023,2,Alto
+534,Avenida de la Ilustración - La Vaguada,1382,48.30029887628149,3,Bajo
+535,Calle Atocha - Plaza Jacinto Benavente,2056,32.65027651145992,2,Moderado
+536,Calle de Toledo - Pirámides,1024,71.16688732521246,3,Moderado
+537,Calle de Toledo - Pirámides,841,69.7052804032646,5,Moderado
+538,M-30 - Puente de Vallecas,2032,74.4235890822394,3,Moderado
+539,M-30 - Puente de Vallecas,2940,53.859748129354784,3,Bajo
+540,Calle O'Donnell - Doctor Esquerdo,872,66.31704916121237,0,Moderado
+541,Plaza de Cibeles - Paseo de Recoletos,2487,21.05209985054921,0,Alto
+542,M-30 - Puente de Vallecas,1197,69.19261073447453,5,Alto
+543,M-30 - Puente de Vallecas,2588,41.642428141142815,1,Alto
+544,Méndez Álvaro - Estación Sur,2700,61.26739919357377,4,Bajo
+545,Paseo de la Castellana - Nuevos Ministerios,2914,66.83334979193504,5,Alto
+546,Nudo Sur - M-30,651,57.48388249810365,0,Moderado
+547,Calle de Toledo - Pirámides,1868,56.76784635433941,4,Moderado
+548,Calle O'Donnell - Doctor Esquerdo,1861,47.85646219308539,1,Moderado
+549,Paseo de la Castellana - Nuevos Ministerios,2307,36.62471594935387,5,Alto
+550,Paseo de la Castellana - Nuevos Ministerios,2047,50.29041903526892,5,Bajo
+551,Paseo de la Castellana - Nuevos Ministerios,886,66.54105676240243,3,Alto
+552,Calle Atocha - Plaza Jacinto Benavente,1420,28.02180975606974,0,Moderado
+553,M-30 - Puente de Vallecas,1644,79.9370468538495,2,Bajo
+554,Méndez Álvaro - Estación Sur,2574,41.897155865700206,0,Bajo
+555,Calle de Toledo - Pirámides,2174,21.1174606878419,0,Alto
+556,M-30 - Puente de Vallecas,710,43.75956995460932,0,Bajo
+557,M-40 - Carabanchel,2363,74.84147160405246,3,Alto
+558,M-30 - Puente de Vallecas,1155,36.02159320663286,4,Moderado
+559,Paseo de la Castellana - Nuevos Ministerios,693,42.6329366408547,1,Moderado
+560,M-30 - Puente de Vallecas,2434,58.885346304880024,1,Alto
+561,Calle O'Donnell - Doctor Esquerdo,885,34.60519578728459,5,Alto
+562,M-40 - Carabanchel,2870,25.632565026709365,0,Bajo
+563,Calle Atocha - Plaza Jacinto Benavente,2214,41.08304001561882,1,Alto
+564,Calle O'Donnell - Doctor Esquerdo,257,55.72724005325342,5,Alto
+565,Calle de Toledo - Pirámides,1046,62.78307775274256,4,Bajo
+566,M-40 - Carabanchel,462,72.24706540851878,2,Bajo
+567,M-30 - Puente de Vallecas,567,69.98347733134125,5,Moderado
+568,M-30 - Puente de Vallecas,2110,55.30114007582618,4,Bajo
+569,Calle Atocha - Plaza Jacinto Benavente,775,53.95624507012277,0,Alto
+570,Calle Atocha - Plaza Jacinto Benavente,1054,49.488247624950354,4,Bajo
+571,M-40 - Carabanchel,2851,21.567243396332497,1,Moderado
+572,Nudo Sur - M-30,270,49.22026576099098,1,Bajo
+573,Méndez Álvaro - Estación Sur,1179,52.11227025755858,5,Bajo
+574,Paseo de la Castellana - Nuevos Ministerios,2043,47.02035433131486,0,Bajo
+575,Calle O'Donnell - Doctor Esquerdo,203,69.52481035957176,2,Bajo
+576,Paseo de la Castellana - Nuevos Ministerios,1616,73.34280377723567,1,Moderado
+577,M-40 - Carabanchel,1597,26.846316651418206,0,Bajo
+578,M-40 - Carabanchel,1445,60.96104690384485,3,Moderado
+579,Paseo de la Castellana - Nuevos Ministerios,712,65.66518930298513,4,Alto
+580,Calle O'Donnell - Doctor Esquerdo,379,69.43355446530407,5,Bajo
+581,Paseo de la Castellana - Nuevos Ministerios,2279,20.075427518034818,1,Bajo
+582,M-30 - Puente de Vallecas,2867,28.844381553467798,1,Moderado
+583,Calle Atocha - Plaza Jacinto Benavente,1734,58.491599705068104,4,Bajo
+584,Calle O'Donnell - Doctor Esquerdo,727,62.21891747552796,0,Moderado
+585,Méndez Álvaro - Estación Sur,2732,48.67196884856008,4,Alto
+586,M-30 - Puente de Vallecas,1092,40.77334092148749,1,Bajo
+587,M-30 - Puente de Vallecas,438,23.05614572486974,3,Alto
+588,Paseo de la Castellana - Nuevos Ministerios,373,74.25466363458966,0,Moderado
+589,Méndez Álvaro - Estación Sur,2650,32.92610657425509,5,Bajo
+590,M-40 - Carabanchel,246,65.94025932135312,1,Alto
+591,Calle O'Donnell - Doctor Esquerdo,2352,66.20533852241765,1,Alto
+592,Plaza de Cibeles - Paseo de Recoletos,1442,24.41990006530437,4,Moderado
+593,Méndez Álvaro - Estación Sur,362,39.81293524070009,3,Alto
+594,Calle O'Donnell - Doctor Esquerdo,1636,27.735747478680977,4,Alto
+595,Méndez Álvaro - Estación Sur,238,32.170504540485766,1,Bajo
+596,Paseo de la Castellana - Nuevos Ministerios,672,36.52633145705376,4,Bajo
+597,Calle O'Donnell - Doctor Esquerdo,2155,42.085723359125396,5,Bajo
+598,Calle O'Donnell - Doctor Esquerdo,2187,60.714869048790035,1,Bajo
+599,Plaza de Cibeles - Paseo de Recoletos,988,44.850953727105875,4,Bajo
+600,Paseo de la Castellana - Nuevos Ministerios,1086,33.899633451082124,2,Bajo
+601,Avenida de la Ilustración - La Vaguada,1879,24.88215268707284,5,Alto
+602,M-30 - Puente de Vallecas,1778,31.21925922308656,5,Alto
+603,Calle de Toledo - Pirámides,1548,27.715954228758726,0,Moderado
+604,M-30 - Puente de Vallecas,312,39.72256448805577,0,Bajo
+605,Calle de Toledo - Pirámides,1553,69.647208503368,4,Bajo
+606,Calle de Toledo - Pirámides,2717,41.03216640474099,0,Moderado
+607,Calle O'Donnell - Doctor Esquerdo,2362,28.529219022831118,3,Moderado
+608,Nudo Sur - M-30,765,73.09026396479558,4,Alto
+609,Plaza de Cibeles - Paseo de Recoletos,2331,51.4802607287337,2,Alto
+610,Nudo Sur - M-30,982,23.31647692397439,0,Alto
+611,Méndez Álvaro - Estación Sur,764,48.92117716006554,0,Moderado
+612,Avenida de la Ilustración - La Vaguada,1201,40.52262397912099,0,Bajo
+613,Paseo de la Castellana - Nuevos Ministerios,615,37.36985905653782,0,Moderado
+614,Plaza de Cibeles - Paseo de Recoletos,1210,47.98014789154509,2,Moderado
+615,Paseo de la Castellana - Nuevos Ministerios,2776,36.42466613953863,5,Moderado
+616,Calle de Toledo - Pirámides,552,61.75535234643718,5,Alto
+617,Méndez Álvaro - Estación Sur,2980,37.64731579244176,3,Moderado
+618,Calle Atocha - Plaza Jacinto Benavente,2234,52.90367727635091,1,Bajo
+619,Calle de Toledo - Pirámides,2138,60.05347399810016,2,Alto
+620,M-40 - Carabanchel,655,32.6214934033337,3,Moderado
+621,M-30 - Puente de Vallecas,2245,23.5008583679078,3,Bajo
+622,Calle O'Donnell - Doctor Esquerdo,1801,75.50073132963253,2,Bajo
+623,Calle Atocha - Plaza Jacinto Benavente,2948,70.94820831208946,1,Alto
+624,Calle Atocha - Plaza Jacinto Benavente,2513,54.16599175846097,4,Moderado
+625,Paseo de la Castellana - Nuevos Ministerios,2679,65.00152850375343,1,Alto
+626,Calle de Toledo - Pirámides,1526,71.82023734744453,4,Moderado
+627,Paseo de la Castellana - Nuevos Ministerios,2612,61.075767082161846,1,Alto
+628,Calle Atocha - Plaza Jacinto Benavente,2031,61.08434996438784,3,Moderado
+629,Méndez Álvaro - Estación Sur,2251,42.526594960879294,4,Moderado
+630,Calle O'Donnell - Doctor Esquerdo,1713,41.84099610795299,0,Alto
+631,M-40 - Carabanchel,226,32.82846466752355,4,Moderado
+632,M-30 - Puente de Vallecas,2617,56.75252158791025,4,Moderado
+633,Plaza de Cibeles - Paseo de Recoletos,2640,31.357155366607806,0,Alto
+634,M-30 - Puente de Vallecas,1522,26.72627593361645,1,Moderado
+635,Calle de Toledo - Pirámides,2549,23.139666295936593,5,Moderado
+636,Calle O'Donnell - Doctor Esquerdo,1414,71.00637034638277,2,Bajo
+637,Avenida de la Ilustración - La Vaguada,706,69.16489562666459,5,Alto
+638,Calle Atocha - Plaza Jacinto Benavente,1402,22.726326484238736,0,Moderado
+639,Calle O'Donnell - Doctor Esquerdo,1311,52.18943523875781,1,Moderado
+640,Nudo Sur - M-30,1284,35.72953740013901,5,Alto
+641,Méndez Álvaro - Estación Sur,2029,46.16220486815966,1,Moderado
+642,Avenida de la Ilustración - La Vaguada,2203,64.65253758033799,0,Bajo
+643,Avenida de la Ilustración - La Vaguada,2343,48.670528521179065,3,Moderado
+644,Méndez Álvaro - Estación Sur,2974,74.15468692522597,5,Alto
+645,Plaza de Cibeles - Paseo de Recoletos,1887,54.095995334337324,2,Bajo
+646,Plaza de Cibeles - Paseo de Recoletos,1850,35.09226959252408,0,Alto
+647,Plaza de Cibeles - Paseo de Recoletos,2228,75.34289569332091,4,Moderado
+648,Calle de Toledo - Pirámides,417,46.34302721541434,0,Alto
+649,M-40 - Carabanchel,784,67.5882090151108,2,Moderado
+650,Nudo Sur - M-30,396,78.95818137059096,3,Bajo
+651,Calle O'Donnell - Doctor Esquerdo,1672,26.554405170131464,1,Alto
+652,M-40 - Carabanchel,383,36.143326984303954,1,Moderado
+653,Calle O'Donnell - Doctor Esquerdo,2922,55.49603111070705,2,Alto
+654,Calle Atocha - Plaza Jacinto Benavente,1665,74.88182061030103,4,Bajo
+655,M-40 - Carabanchel,275,53.40064410901025,4,Bajo
+656,Calle Atocha - Plaza Jacinto Benavente,2361,32.278838230572916,5,Alto
+657,M-30 - Puente de Vallecas,776,31.507901974535073,1,Moderado
+658,M-30 - Puente de Vallecas,1142,29.747169112396293,5,Bajo
+659,Paseo de la Castellana - Nuevos Ministerios,1250,46.782097273091054,1,Bajo
+660,M-30 - Puente de Vallecas,2465,67.93448320986666,3,Moderado
+661,Méndez Álvaro - Estación Sur,2532,58.68727308717745,5,Bajo
+662,M-30 - Puente de Vallecas,643,67.00311034485526,3,Alto
+663,Méndez Álvaro - Estación Sur,822,33.678624354110724,1,Bajo
+664,Nudo Sur - M-30,222,25.457000457557758,2,Bajo
+665,M-30 - Puente de Vallecas,2994,38.7064913280296,0,Moderado
+666,Avenida de la Ilustración - La Vaguada,659,70.34779863092021,4,Alto
+667,Paseo de la Castellana - Nuevos Ministerios,686,57.818162117318074,2,Moderado
+668,Calle O'Donnell - Doctor Esquerdo,1747,26.45833711456035,0,Bajo
+669,Nudo Sur - M-30,2356,28.455656571396492,3,Alto
+670,Méndez Álvaro - Estación Sur,2113,25.257157791113404,2,Moderado
+671,M-40 - Carabanchel,2998,76.78465259989267,2,Bajo
+672,Calle O'Donnell - Doctor Esquerdo,2806,32.36090848759325,0,Alto
+673,Avenida de la Ilustración - La Vaguada,2005,77.0000938456719,3,Alto
+674,Méndez Álvaro - Estación Sur,2551,59.95055061332304,3,Bajo
+675,Calle Atocha - Plaza Jacinto Benavente,2498,41.27011307147334,3,Moderado
+676,Paseo de la Castellana - Nuevos Ministerios,927,44.621235488522416,1,Moderado
+677,M-30 - Puente de Vallecas,2194,78.83060569310781,2,Alto
+678,Calle Atocha - Plaza Jacinto Benavente,353,51.62379337423319,4,Alto
+679,M-40 - Carabanchel,2725,66.61457950024669,4,Moderado
+680,Méndez Álvaro - Estación Sur,2125,75.44302704264328,0,Moderado
+681,Plaza de Cibeles - Paseo de Recoletos,2795,50.62180608863562,1,Moderado
+682,Méndez Álvaro - Estación Sur,725,53.409265130324506,5,Bajo
+683,Plaza de Cibeles - Paseo de Recoletos,541,32.995500742008545,3,Bajo
+684,Plaza de Cibeles - Paseo de Recoletos,2890,49.57646090086794,4,Alto
+685,Méndez Álvaro - Estación Sur,1411,33.02166384010677,0,Alto
+686,Avenida de la Ilustración - La Vaguada,2717,41.25594657249472,2,Moderado
+687,Plaza de Cibeles - Paseo de Recoletos,235,76.47294951555233,4,Moderado
+688,M-30 - Puente de Vallecas,1056,34.533570669960206,5,Moderado
+689,Nudo Sur - M-30,523,59.89730219358141,5,Alto
+690,Calle O'Donnell - Doctor Esquerdo,2535,62.14803193056455,3,Alto
+691,Méndez Álvaro - Estación Sur,1575,42.53750735461924,3,Alto
+692,Paseo de la Castellana - Nuevos Ministerios,2318,53.65155951060946,1,Alto
+693,M-40 - Carabanchel,1707,25.254058091059136,2,Alto
+694,Paseo de la Castellana - Nuevos Ministerios,1793,60.08762350024257,5,Moderado
+695,M-30 - Puente de Vallecas,1320,29.760159760445543,1,Bajo
+696,Calle de Toledo - Pirámides,1991,22.109369581130785,3,Bajo
+697,Calle Atocha - Plaza Jacinto Benavente,741,40.103264574395176,3,Alto
+698,Calle de Toledo - Pirámides,1271,24.365769733063154,4,Bajo
+699,M-40 - Carabanchel,1474,42.59099090709829,3,Alto
+700,Nudo Sur - M-30,2383,62.69016374010323,1,Bajo
+701,Méndez Álvaro - Estación Sur,800,24.296996271189727,0,Bajo
+702,M-40 - Carabanchel,534,53.92006767870583,2,Bajo
+703,M-30 - Puente de Vallecas,1072,67.44931839190819,3,Bajo
+704,Nudo Sur - M-30,817,62.3325094884721,3,Bajo
+705,Calle de Toledo - Pirámides,543,46.09273367999883,0,Moderado
+706,Avenida de la Ilustración - La Vaguada,1636,61.42064806450543,4,Alto
+707,Calle de Toledo - Pirámides,985,71.80856803352003,3,Alto
+708,M-40 - Carabanchel,2511,65.5723447935381,1,Alto
+709,Calle Atocha - Plaza Jacinto Benavente,2086,77.16918933771021,5,Bajo
+710,Calle O'Donnell - Doctor Esquerdo,1189,30.96965941142742,3,Moderado
+711,Calle O'Donnell - Doctor Esquerdo,710,46.05058412030091,1,Bajo
+712,Méndez Álvaro - Estación Sur,2819,76.85760349550515,2,Bajo
+713,M-30 - Puente de Vallecas,1821,45.13331902147164,1,Bajo
+714,M-30 - Puente de Vallecas,2728,67.20759856561999,1,Moderado
+715,Paseo de la Castellana - Nuevos Ministerios,2507,48.67074932176812,3,Alto
+716,Méndez Álvaro - Estación Sur,1685,48.19173854473331,5,Moderado
+717,Paseo de la Castellana - Nuevos Ministerios,1347,52.48534986528045,5,Bajo
+718,Avenida de la Ilustración - La Vaguada,2826,23.808786090661332,3,Moderado
+719,Méndez Álvaro - Estación Sur,1234,64.56244477709524,2,Bajo
+720,M-40 - Carabanchel,1711,64.34378040517174,3,Alto
+721,M-30 - Puente de Vallecas,1820,38.81871751210183,5,Alto
+722,Paseo de la Castellana - Nuevos Ministerios,1190,70.62141242422149,4,Moderado
+723,Calle Atocha - Plaza Jacinto Benavente,734,41.20185440704766,2,Bajo
+724,Calle O'Donnell - Doctor Esquerdo,1266,61.805864439405106,0,Alto
+725,Nudo Sur - M-30,1265,25.99858409993946,0,Moderado
+726,Calle O'Donnell - Doctor Esquerdo,1482,24.466157029450883,0,Bajo
+727,Calle Atocha - Plaza Jacinto Benavente,2842,64.21764128302898,2,Alto
+728,Calle de Toledo - Pirámides,2863,43.33720084740838,1,Bajo
+729,M-40 - Carabanchel,2535,73.983752162168,5,Bajo
+730,M-40 - Carabanchel,417,78.92575902144151,0,Moderado
+731,M-30 - Puente de Vallecas,376,52.71731855261342,0,Alto
+732,Calle de Toledo - Pirámides,1226,79.27889668368738,3,Alto
+733,Calle Atocha - Plaza Jacinto Benavente,2295,61.8535452978641,1,Bajo
+734,M-30 - Puente de Vallecas,2850,79.4865896902877,4,Moderado
+735,Calle O'Donnell - Doctor Esquerdo,430,59.67023750143027,2,Moderado
+736,M-40 - Carabanchel,2775,31.74326325456013,3,Moderado
+737,Calle Atocha - Plaza Jacinto Benavente,1775,34.263118770267994,4,Moderado
+738,Avenida de la Ilustración - La Vaguada,1718,43.15368161064432,1,Alto
+739,Calle O'Donnell - Doctor Esquerdo,1719,60.87110997604495,2,Moderado
+740,Calle de Toledo - Pirámides,705,49.26088395095903,1,Bajo
+741,M-30 - Puente de Vallecas,987,62.20189406760289,0,Moderado
+742,Calle O'Donnell - Doctor Esquerdo,678,21.825230167813768,0,Moderado
+743,Calle O'Donnell - Doctor Esquerdo,649,48.13592510858624,5,Moderado
+744,M-40 - Carabanchel,1541,39.47584692824689,5,Bajo
+745,M-30 - Puente de Vallecas,861,70.75876907592746,4,Moderado
+746,M-30 - Puente de Vallecas,1665,62.754085448402805,0,Bajo
+747,Calle O'Donnell - Doctor Esquerdo,2511,50.12913752689301,3,Bajo
+748,Méndez Álvaro - Estación Sur,268,35.64963882938277,3,Moderado
+749,Calle O'Donnell - Doctor Esquerdo,1726,61.83384215522408,0,Alto
+750,Calle O'Donnell - Doctor Esquerdo,1330,77.46376659753653,2,Alto
+751,Nudo Sur - M-30,2146,51.38305966198968,4,Alto
+752,Méndez Álvaro - Estación Sur,1925,70.97777518205392,4,Moderado
+753,Calle Atocha - Plaza Jacinto Benavente,1935,70.25572464420999,2,Moderado
+754,M-40 - Carabanchel,1766,79.26835935606223,4,Moderado
+755,Avenida de la Ilustración - La Vaguada,1964,47.0237619022016,5,Moderado
+756,Paseo de la Castellana - Nuevos Ministerios,660,76.55356446724264,2,Alto
+757,Nudo Sur - M-30,1363,70.06373821768821,1,Alto
+758,Calle de Toledo - Pirámides,792,71.90182507254084,5,Moderado
+759,Avenida de la Ilustración - La Vaguada,2294,40.43936344008046,5,Bajo
+760,Paseo de la Castellana - Nuevos Ministerios,970,61.89274434637579,2,Alto
+761,Avenida de la Ilustración - La Vaguada,1289,70.45010132553587,1,Moderado
+762,Paseo de la Castellana - Nuevos Ministerios,2401,31.214203520071514,4,Alto
+763,Calle Atocha - Plaza Jacinto Benavente,311,45.6607076906875,0,Bajo
+764,Nudo Sur - M-30,2625,54.552497129510954,4,Moderado
+765,Calle O'Donnell - Doctor Esquerdo,1648,27.15076393047862,5,Moderado
+766,Calle Atocha - Plaza Jacinto Benavente,397,62.35139820291985,1,Bajo
+767,Nudo Sur - M-30,748,50.61717122695085,5,Moderado
+768,M-30 - Puente de Vallecas,2608,47.40937442782733,3,Alto
+769,Calle de Toledo - Pirámides,1065,70.47646970408915,2,Bajo
+770,Calle O'Donnell - Doctor Esquerdo,2013,37.69391510338016,4,Bajo
+771,Nudo Sur - M-30,2527,47.48642579703876,4,Alto
+772,Plaza de Cibeles - Paseo de Recoletos,1266,33.98645546301228,4,Alto
+773,Méndez Álvaro - Estación Sur,998,34.23575031541445,2,Moderado
+774,Calle O'Donnell - Doctor Esquerdo,1917,59.150721103050685,1,Alto
+775,Calle O'Donnell - Doctor Esquerdo,2564,73.25766535034673,3,Bajo
+776,Calle de Toledo - Pirámides,2772,29.502824986335966,3,Bajo
+777,Calle de Toledo - Pirámides,294,58.29094517738635,2,Bajo
+778,M-40 - Carabanchel,536,22.305498865851774,5,Moderado
+779,M-30 - Puente de Vallecas,1781,61.66082878334644,1,Moderado
+780,Nudo Sur - M-30,2076,45.1715646508097,2,Bajo
+781,Calle Atocha - Plaza Jacinto Benavente,2889,50.00858341745363,1,Bajo
+782,Méndez Álvaro - Estación Sur,1382,55.86061520796764,2,Alto
+783,M-40 - Carabanchel,2707,70.46713155097012,0,Alto
+784,Nudo Sur - M-30,1032,39.134746697994245,3,Moderado
+785,Calle de Toledo - Pirámides,799,49.24127816631669,1,Alto
+786,Calle Atocha - Plaza Jacinto Benavente,2067,50.73661844020961,0,Bajo
+787,M-30 - Puente de Vallecas,2222,51.42862417048688,4,Moderado
+788,Paseo de la Castellana - Nuevos Ministerios,2510,48.6466887775681,2,Moderado
+789,Nudo Sur - M-30,1081,56.72684688611548,5,Bajo
+790,M-30 - Puente de Vallecas,1984,69.42985162849786,4,Moderado
+791,Méndez Álvaro - Estación Sur,2347,76.68238188017492,0,Moderado
+792,Calle de Toledo - Pirámides,1986,28.722855442874454,5,Alto
+793,Nudo Sur - M-30,2589,43.13321936488566,1,Alto
+794,M-40 - Carabanchel,1980,31.43336293858564,4,Bajo
+795,M-40 - Carabanchel,1699,20.402653952679504,0,Alto
+796,Calle de Toledo - Pirámides,1264,28.77131169698962,0,Moderado
+797,Calle Atocha - Plaza Jacinto Benavente,1425,48.52261247465519,1,Bajo
+798,Méndez Álvaro - Estación Sur,1743,23.3542251871113,2,Bajo
+799,M-40 - Carabanchel,2246,32.641503381646146,3,Moderado
+800,Paseo de la Castellana - Nuevos Ministerios,2237,68.16736950582279,0,Alto
+801,Calle Atocha - Plaza Jacinto Benavente,1038,24.74428489526146,5,Bajo
+802,M-30 - Puente de Vallecas,695,21.75495082864058,5,Bajo
+803,Avenida de la Ilustración - La Vaguada,2469,53.30565509733887,0,Moderado
+804,Paseo de la Castellana - Nuevos Ministerios,2349,37.17065300857787,1,Moderado
+805,Nudo Sur - M-30,1486,22.120216364597777,5,Bajo
+806,Nudo Sur - M-30,944,24.07861628336684,5,Moderado
+807,Avenida de la Ilustración - La Vaguada,2444,64.19694181616794,0,Alto
+808,Paseo de la Castellana - Nuevos Ministerios,293,40.20774313320766,4,Moderado
+809,Paseo de la Castellana - Nuevos Ministerios,1643,24.73702673145981,1,Moderado
+810,M-30 - Puente de Vallecas,2389,23.413987299435345,3,Moderado
+811,M-40 - Carabanchel,264,71.20205606346093,2,Bajo
+812,Calle Atocha - Plaza Jacinto Benavente,2691,49.09215298913503,0,Moderado
+813,Calle Atocha - Plaza Jacinto Benavente,1498,48.519366788454306,4,Alto
+814,Calle de Toledo - Pirámides,447,57.73478711045667,1,Moderado
+815,Plaza de Cibeles - Paseo de Recoletos,2978,26.72906101921518,0,Alto
+816,Méndez Álvaro - Estación Sur,2880,72.3231781376066,1,Alto
+817,M-40 - Carabanchel,1020,35.87328428909979,1,Moderado
+818,Méndez Álvaro - Estación Sur,987,63.73372295723005,2,Alto
+819,Avenida de la Ilustración - La Vaguada,517,48.301438667902474,0,Moderado
+820,Paseo de la Castellana - Nuevos Ministerios,1487,40.748490517545314,2,Moderado
+821,Calle O'Donnell - Doctor Esquerdo,2213,55.48599459645925,3,Moderado
+822,Paseo de la Castellana - Nuevos Ministerios,2968,38.15382583326489,5,Moderado
+823,M-40 - Carabanchel,1443,32.91916065844239,5,Moderado
+824,Calle Atocha - Plaza Jacinto Benavente,2390,62.40293771421564,4,Bajo
+825,Paseo de la Castellana - Nuevos Ministerios,2347,59.92645049945855,5,Alto
+826,M-30 - Puente de Vallecas,410,66.11962923614442,5,Moderado
+827,Avenida de la Ilustración - La Vaguada,2687,21.56871382649853,5,Bajo
+828,Plaza de Cibeles - Paseo de Recoletos,799,72.77518860425124,3,Moderado
+829,M-40 - Carabanchel,2208,59.17152012683931,0,Alto
+830,M-30 - Puente de Vallecas,608,28.816359000933776,3,Alto
+831,Nudo Sur - M-30,2998,51.649852483100446,5,Alto
+832,Nudo Sur - M-30,2764,61.19712192751011,1,Moderado
+833,Calle Atocha - Plaza Jacinto Benavente,1848,49.66087132775885,3,Bajo
+834,Avenida de la Ilustración - La Vaguada,954,55.31292082176965,3,Bajo
+835,M-40 - Carabanchel,2569,39.271358388659124,5,Bajo
+836,Nudo Sur - M-30,637,37.37442345622274,2,Alto
+837,Calle O'Donnell - Doctor Esquerdo,2063,76.3270742748954,4,Alto
+838,Méndez Álvaro - Estación Sur,2321,73.90078828687668,5,Alto
+839,Méndez Álvaro - Estación Sur,2762,35.55004685680939,5,Moderado
+840,Calle de Toledo - Pirámides,1179,69.00251995357662,5,Moderado
+841,Méndez Álvaro - Estación Sur,743,72.68465028888274,3,Bajo
+842,Paseo de la Castellana - Nuevos Ministerios,2731,46.48505239328861,3,Moderado
+843,Avenida de la Ilustración - La Vaguada,2745,66.97124908929688,4,Alto
+844,Avenida de la Ilustración - La Vaguada,2711,24.894403118019653,2,Alto
+845,Paseo de la Castellana - Nuevos Ministerios,1835,30.758554377128863,5,Moderado
+846,Calle O'Donnell - Doctor Esquerdo,1922,46.32737652988723,5,Bajo
+847,Avenida de la Ilustración - La Vaguada,2909,64.23979399979662,1,Bajo
+848,Méndez Álvaro - Estación Sur,2644,54.2996644736255,2,Moderado
+849,M-40 - Carabanchel,2622,76.94416870707664,5,Bajo
+850,Méndez Álvaro - Estación Sur,522,44.12964860581498,0,Moderado
+851,Calle Atocha - Plaza Jacinto Benavente,1638,50.7696303384215,1,Alto
+852,Calle de Toledo - Pirámides,1440,43.0024409087155,2,Moderado
+853,Calle O'Donnell - Doctor Esquerdo,658,78.97347694548348,5,Bajo
+854,Calle Atocha - Plaza Jacinto Benavente,1709,52.204409699131084,3,Moderado
+855,M-40 - Carabanchel,2150,31.12864716839243,0,Moderado
+856,Plaza de Cibeles - Paseo de Recoletos,2976,56.12081501818421,2,Moderado
+857,Calle de Toledo - Pirámides,2010,48.436131432137714,0,Bajo
+858,M-40 - Carabanchel,1959,63.6605160096192,1,Bajo
+859,Calle de Toledo - Pirámides,2246,54.45479002844704,5,Alto
+860,Méndez Álvaro - Estación Sur,2277,40.286199998338596,1,Alto
+861,Calle O'Donnell - Doctor Esquerdo,2085,69.09443219046436,4,Alto
+862,Avenida de la Ilustración - La Vaguada,1088,22.735983805521766,3,Alto
+863,Calle de Toledo - Pirámides,216,29.885607509077083,3,Alto
+864,Nudo Sur - M-30,2541,22.650238431507784,4,Alto
+865,Calle Atocha - Plaza Jacinto Benavente,635,40.33407361913022,4,Alto
+866,M-40 - Carabanchel,2104,63.77578765493213,0,Bajo
+867,Méndez Álvaro - Estación Sur,1513,79.15448842128056,4,Moderado
+868,Méndez Álvaro - Estación Sur,542,40.83591746283288,1,Bajo
+869,Paseo de la Castellana - Nuevos Ministerios,656,59.320130630982526,3,Bajo
+870,Paseo de la Castellana - Nuevos Ministerios,1031,28.65420726115834,0,Moderado
+871,Paseo de la Castellana - Nuevos Ministerios,2509,70.96509632532131,5,Moderado
+872,M-30 - Puente de Vallecas,906,70.30490050028172,4,Bajo
+873,Avenida de la Ilustración - La Vaguada,1567,47.261460809890806,2,Moderado
+874,Nudo Sur - M-30,1436,46.35993525131865,0,Moderado
+875,Paseo de la Castellana - Nuevos Ministerios,2758,28.460552087149246,5,Bajo
+876,M-40 - Carabanchel,649,67.33305395011398,4,Bajo
+877,Calle de Toledo - Pirámides,676,79.8528726912662,0,Moderado
+878,Plaza de Cibeles - Paseo de Recoletos,1002,65.7079192133186,1,Bajo
+879,Nudo Sur - M-30,1165,40.75615422538131,4,Alto
+880,M-30 - Puente de Vallecas,621,43.79504885409558,4,Bajo
+881,M-30 - Puente de Vallecas,306,74.29536696729969,5,Bajo
+882,Méndez Álvaro - Estación Sur,2760,34.97342089362215,2,Bajo
+883,Méndez Álvaro - Estación Sur,1813,41.01791402512052,4,Moderado
+884,Calle Atocha - Plaza Jacinto Benavente,644,62.606981974167034,3,Moderado
+885,Méndez Álvaro - Estación Sur,2142,34.30445489081189,5,Bajo
+886,M-40 - Carabanchel,2283,53.13417831517389,2,Bajo
+887,Paseo de la Castellana - Nuevos Ministerios,1174,67.01647745954116,2,Bajo
+888,Avenida de la Ilustración - La Vaguada,474,35.59209054268005,2,Alto
+889,Méndez Álvaro - Estación Sur,1993,59.83856597953214,1,Moderado
+890,Plaza de Cibeles - Paseo de Recoletos,1556,33.82708718809687,2,Moderado
+891,Plaza de Cibeles - Paseo de Recoletos,721,56.01906082184635,2,Bajo
+892,M-30 - Puente de Vallecas,856,41.647222555160965,2,Bajo
+893,M-40 - Carabanchel,2928,28.98582881398218,5,Moderado
+894,Paseo de la Castellana - Nuevos Ministerios,2270,78.54978191005536,0,Alto
+895,M-30 - Puente de Vallecas,2755,35.01467959948401,3,Alto
+896,Nudo Sur - M-30,427,59.69899677375728,0,Moderado
+897,Calle de Toledo - Pirámides,2001,63.30810023754189,2,Alto
+898,Calle O'Donnell - Doctor Esquerdo,2455,37.247737686601,3,Bajo
+899,Calle Atocha - Plaza Jacinto Benavente,1308,60.09541077934718,4,Moderado
+900,Paseo de la Castellana - Nuevos Ministerios,1705,73.82660513165257,2,Alto
+901,Avenida de la Ilustración - La Vaguada,1587,75.08697391605543,0,Moderado
+902,Calle Atocha - Plaza Jacinto Benavente,1675,32.69402376862194,0,Moderado
+903,Nudo Sur - M-30,2122,51.720416685569965,5,Bajo
+904,M-30 - Puente de Vallecas,920,20.452177229020762,1,Alto
+905,M-40 - Carabanchel,2989,57.6538007778488,4,Bajo
+906,Nudo Sur - M-30,1144,76.15063444301423,2,Bajo
+907,M-40 - Carabanchel,1408,62.11224584807826,3,Alto
+908,Calle Atocha - Plaza Jacinto Benavente,1499,61.23868802497193,1,Alto
+909,Méndez Álvaro - Estación Sur,1575,38.45348049712076,2,Alto
+910,Calle Atocha - Plaza Jacinto Benavente,2834,70.32263733036824,3,Alto
+911,Plaza de Cibeles - Paseo de Recoletos,305,70.39709855461336,0,Bajo
+912,Calle de Toledo - Pirámides,1718,71.51038490348608,5,Bajo
+913,Plaza de Cibeles - Paseo de Recoletos,2727,64.60490768315591,1,Moderado
+914,M-30 - Puente de Vallecas,1809,63.5153369984289,5,Bajo
+915,Paseo de la Castellana - Nuevos Ministerios,396,73.38965428736095,1,Moderado
+916,M-40 - Carabanchel,1546,39.33298495382466,2,Moderado
+917,Avenida de la Ilustración - La Vaguada,282,37.012374765239,2,Bajo
+918,M-40 - Carabanchel,724,51.87034027067726,4,Bajo
+919,Avenida de la Ilustración - La Vaguada,1314,71.71497044079183,0,Bajo
+920,Plaza de Cibeles - Paseo de Recoletos,1654,28.861601319313024,2,Alto
+921,Avenida de la Ilustración - La Vaguada,591,31.401674700236065,0,Moderado
+922,M-30 - Puente de Vallecas,1430,26.16700588744204,3,Alto
+923,M-30 - Puente de Vallecas,1482,79.69045360514956,0,Bajo
+924,Méndez Álvaro - Estación Sur,1670,53.18253568146865,1,Alto
+925,Paseo de la Castellana - Nuevos Ministerios,2269,58.21463026900109,5,Alto
+926,Calle O'Donnell - Doctor Esquerdo,2874,52.609356706513914,2,Bajo
+927,Méndez Álvaro - Estación Sur,1430,22.265387768917034,1,Alto
+928,Avenida de la Ilustración - La Vaguada,1156,56.60804537759585,3,Alto
+929,M-30 - Puente de Vallecas,484,72.77327914149326,2,Bajo
+930,Calle Atocha - Plaza Jacinto Benavente,1694,43.0271956822063,4,Bajo
+931,Calle Atocha - Plaza Jacinto Benavente,1799,46.74479827749558,2,Bajo
+932,Plaza de Cibeles - Paseo de Recoletos,2779,60.465974641857684,4,Moderado
+933,Paseo de la Castellana - Nuevos Ministerios,524,26.409313307943044,5,Alto
+934,Calle O'Donnell - Doctor Esquerdo,764,35.26018736493748,3,Alto
+935,M-30 - Puente de Vallecas,1232,75.61644926269516,3,Alto
+936,Plaza de Cibeles - Paseo de Recoletos,539,60.79233793868059,5,Bajo
+937,Calle de Toledo - Pirámides,1697,71.79419980573715,0,Alto
+938,M-30 - Puente de Vallecas,389,26.090486840826053,3,Moderado
+939,Paseo de la Castellana - Nuevos Ministerios,1357,36.29498135855388,5,Bajo
+940,Calle O'Donnell - Doctor Esquerdo,2809,33.20149201992041,3,Moderado
+941,Calle Atocha - Plaza Jacinto Benavente,2523,60.410797157581776,3,Alto
+942,Calle O'Donnell - Doctor Esquerdo,465,44.83353615891512,4,Moderado
+943,M-40 - Carabanchel,2325,41.15349097259482,5,Moderado
+944,Plaza de Cibeles - Paseo de Recoletos,2300,76.37538153206717,4,Moderado
+945,Plaza de Cibeles - Paseo de Recoletos,2329,38.67883115860075,4,Alto
+946,Nudo Sur - M-30,2231,27.7667361712406,0,Alto
+947,Calle Atocha - Plaza Jacinto Benavente,2522,70.20878410739991,5,Moderado
+948,Paseo de la Castellana - Nuevos Ministerios,867,22.514361897706372,2,Alto
+949,Nudo Sur - M-30,2493,73.72488389447497,2,Moderado
+950,Avenida de la Ilustración - La Vaguada,1494,75.41566325785584,0,Moderado
+951,Paseo de la Castellana - Nuevos Ministerios,1570,28.196526250971772,0,Alto
+952,Paseo de la Castellana - Nuevos Ministerios,253,70.43646375295717,1,Alto
+953,Nudo Sur - M-30,1316,49.17303958444459,5,Alto
+954,Calle O'Donnell - Doctor Esquerdo,2032,42.034974552342184,4,Moderado
+955,Plaza de Cibeles - Paseo de Recoletos,846,57.59211501810375,5,Moderado
+956,Calle O'Donnell - Doctor Esquerdo,1994,64.692299761723,2,Moderado
+957,Paseo de la Castellana - Nuevos Ministerios,1569,68.70018828686891,3,Alto
+958,Méndez Álvaro - Estación Sur,2224,29.349396102806057,0,Alto
+959,M-40 - Carabanchel,1435,39.45220048307084,5,Bajo
+960,Avenida de la Ilustración - La Vaguada,2078,72.40352250573977,5,Moderado
+961,Calle Atocha - Plaza Jacinto Benavente,1562,69.79946367612496,5,Bajo
+962,Calle Atocha - Plaza Jacinto Benavente,2726,41.89725098575166,2,Moderado
+963,Calle O'Donnell - Doctor Esquerdo,1880,56.00371511066932,5,Moderado
+964,M-30 - Puente de Vallecas,1469,59.8568996922201,1,Bajo
+965,M-40 - Carabanchel,1316,48.746925034072184,0,Alto
+966,Avenida de la Ilustración - La Vaguada,1144,74.2777778370943,3,Bajo
+967,Nudo Sur - M-30,646,69.26039167990932,0,Moderado
+968,M-30 - Puente de Vallecas,1394,56.58468987095317,1,Bajo
+969,Plaza de Cibeles - Paseo de Recoletos,2958,45.89716207733277,5,Bajo
+970,Plaza de Cibeles - Paseo de Recoletos,1033,38.272665044004654,0,Alto
+971,Nudo Sur - M-30,893,51.03595543713678,5,Moderado
+972,Méndez Álvaro - Estación Sur,1440,28.418028291131527,1,Alto
+973,M-30 - Puente de Vallecas,2887,24.935494675015452,2,Alto
+974,Plaza de Cibeles - Paseo de Recoletos,965,51.519613421569304,3,Moderado
+975,Nudo Sur - M-30,2424,41.82723736593717,0,Bajo
+976,Calle Atocha - Plaza Jacinto Benavente,2846,27.207419609450163,1,Bajo
+977,Paseo de la Castellana - Nuevos Ministerios,318,73.70653685700063,3,Alto
+978,Calle de Toledo - Pirámides,483,20.21955790668992,0,Alto
+979,Paseo de la Castellana - Nuevos Ministerios,1795,61.88240836785934,0,Moderado
+980,Calle Atocha - Plaza Jacinto Benavente,2472,52.68605487451577,4,Moderado
+981,Paseo de la Castellana - Nuevos Ministerios,246,37.87099766961943,4,Bajo
+982,M-40 - Carabanchel,966,57.12571322517623,0,Bajo
+983,Calle O'Donnell - Doctor Esquerdo,2196,34.31673600998761,5,Alto
+984,Méndez Álvaro - Estación Sur,1362,27.087498496458778,1,Moderado
+985,Méndez Álvaro - Estación Sur,676,72.9737778816899,2,Moderado
+986,Calle O'Donnell - Doctor Esquerdo,2502,66.17158180104929,4,Alto
+987,Nudo Sur - M-30,2906,27.78984065320548,4,Bajo
+988,Calle Atocha - Plaza Jacinto Benavente,1440,32.010992327503914,3,Moderado
+989,Nudo Sur - M-30,2948,57.71236880331708,3,Moderado
+990,M-40 - Carabanchel,1915,39.172924291673944,3,Alto
+991,M-30 - Puente de Vallecas,1822,66.2985725718012,1,Bajo
+992,Calle O'Donnell - Doctor Esquerdo,2012,59.90406635803429,4,Bajo
+993,Avenida de la Ilustración - La Vaguada,2753,52.44827834838367,3,Alto
+994,Avenida de la Ilustración - La Vaguada,1685,26.771109319790973,5,Bajo
+995,Nudo Sur - M-30,1456,31.279621574871825,3,Moderado
+996,Calle de Toledo - Pirámides,1146,55.984534050819,1,Moderado
+997,M-40 - Carabanchel,2526,36.93877612658142,0,Moderado
+998,Nudo Sur - M-30,1105,56.07779346498636,1,Bajo
+999,Avenida de la Ilustración - La Vaguada,436,63.49570092241323,3,Bajo
+1000,Calle de Toledo - Pirámides,2325,43.135456496855745,5,Alto

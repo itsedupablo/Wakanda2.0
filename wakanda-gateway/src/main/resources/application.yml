@@ -1,0 +1,12 @@
+# wakanda-gateway/src/main/resources/application.yml
+server:
+  port: 8082  # El gateway escuchará en este puerto
+
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: wakanda-service
+          uri: http://localhost:8081  # Proxy a wakanda-services
+          predicates:
+            - Path=/services/**  # Redirige las peticiones de /services/ a wakanda-services

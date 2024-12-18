@@ -1,0 +1,501 @@
+ID_Servicio,NombreServicio,EstadoActual,TiempoLlegada,DesvíosActivos,UltimaActualizacion,SiguienteDestino
+A1,Ambulancia Unidad 3,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Base A
+A2,Helicóptero Médico,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A3,Ambulancia Unidad 1,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Base Y
+A4,Ambulancia Unidad 3,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Base A
+A5,Unidad de Emergencias,Fuera de servicio,N/A,Ninguno,2024-12-16 11:58:11,Base A
+A6,Helicóptero Médico,Fuera de servicio,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A7,Unidad de Emergencias,Fuera de servicio,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A8,Ambulancia Unidad 3,Disponible,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A9,Ambulancia Unidad 2,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A10,Helicóptero Médico,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Base Y
+A11,Unidad de Emergencias,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A12,Helicóptero Médico,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A13,Ambulancia Unidad 2,Disponible,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A14,Ambulancia Unidad 1,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Base A
+A15,Ambulancia Unidad 2,En camino,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A16,Unidad de Emergencias,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Base Y
+A17,Ambulancia Unidad 1,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base A
+A18,Helicóptero Médico,En camino,N/A,N/A,2024-12-16 11:58:11,Base Y
+A19,Ambulancia Unidad 1,Fuera de servicio,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A20,Ambulancia Unidad 1,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A21,Helicóptero Médico,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A22,Ambulancia Unidad 3,Disponible,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A23,Ambulancia Unidad 2,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A24,Helicóptero Médico,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A25,Helicóptero Médico,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A26,Ambulancia Unidad 3,Disponible,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A27,Helicóptero Médico,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Base Y
+A28,Unidad de Emergencias,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A29,Unidad de Emergencias,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A30,Helicóptero Médico,Fuera de servicio,Disponible,Ninguno,2024-12-16 11:58:11,Base Y
+A31,Ambulancia Unidad 2,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A32,Unidad de Emergencias,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A33,Helicóptero Médico,En camino,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A34,Ambulancia Unidad 2,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A35,Ambulancia Unidad 3,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A36,Ambulancia Unidad 2,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A37,Helicóptero Médico,Fuera de servicio,N/A,Ninguno,2024-12-16 11:58:11,Base Y
+A38,Ambulancia Unidad 1,Disponible,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A39,Ambulancia Unidad 3,Disponible,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A40,Unidad de Emergencias,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A41,Unidad de Emergencias,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A42,Unidad de Emergencias,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A43,Ambulancia Unidad 3,En camino,N/A,N/A,2024-12-16 11:58:11,Base Y
+A44,Ambulancia Unidad 1,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A45,Ambulancia Unidad 2,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Base A
+A46,Ambulancia Unidad 2,En camino,N/A,N/A,2024-12-16 11:58:11,Base Y
+A47,Unidad de Emergencias,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A48,Ambulancia Unidad 3,Fuera de servicio,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A49,Ambulancia Unidad 3,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A50,Unidad de Emergencias,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A51,Ambulancia Unidad 2,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A52,Ambulancia Unidad 2,Disponible,Disponible,Ninguno,2024-12-16 11:58:11,Hospital X
+A53,Ambulancia Unidad 3,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Base A
+A54,Ambulancia Unidad 2,En camino,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A55,Helicóptero Médico,En camino,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A56,Helicóptero Médico,En camino,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A57,Ambulancia Unidad 2,En camino,Disponible,N/A,2024-12-16 11:58:11,Base Y
+A58,Ambulancia Unidad 1,En camino,10 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A59,Helicóptero Médico,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A60,Ambulancia Unidad 2,Disponible,10 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A61,Ambulancia Unidad 3,Disponible,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A62,Ambulancia Unidad 3,En camino,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A63,Ambulancia Unidad 2,En camino,N/A,N/A,2024-12-16 11:58:11,Base Y
+A64,Ambulancia Unidad 2,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A65,Ambulancia Unidad 2,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A66,Ambulancia Unidad 3,Disponible,N/A,N/A,2024-12-16 11:58:11,Base Y
+A67,Ambulancia Unidad 2,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A68,Helicóptero Médico,Disponible,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A69,Helicóptero Médico,En camino,N/A,Ninguno,2024-12-16 11:58:11,Base A
+A70,Ambulancia Unidad 1,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A71,Ambulancia Unidad 2,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A72,Ambulancia Unidad 3,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A73,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A74,Ambulancia Unidad 3,Disponible,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A75,Unidad de Emergencias,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Base Y
+A76,Ambulancia Unidad 3,En camino,5 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A77,Ambulancia Unidad 3,Disponible,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A78,Helicóptero Médico,En camino,10 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A79,Unidad de Emergencias,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base Y
+A80,Helicóptero Médico,En camino,10 minutos,N/A,2024-12-16 11:58:11,Base A
+A81,Unidad de Emergencias,Disponible,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A82,Ambulancia Unidad 3,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A83,Ambulancia Unidad 3,Fuera de servicio,5 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A84,Ambulancia Unidad 3,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Base Y
+A85,Ambulancia Unidad 3,En camino,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A86,Helicóptero Médico,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A87,Unidad de Emergencias,Disponible,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A88,Unidad de Emergencias,Fuera de servicio,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A89,Helicóptero Médico,Disponible,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A90,Unidad de Emergencias,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A91,Unidad de Emergencias,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A92,Ambulancia Unidad 1,Disponible,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A93,Ambulancia Unidad 2,En camino,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A94,Ambulancia Unidad 2,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Base Y
+A95,Ambulancia Unidad 2,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A96,Ambulancia Unidad 2,En camino,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A97,Ambulancia Unidad 2,Disponible,Disponible,N/A,2024-12-16 11:58:11,Base A
+A98,Ambulancia Unidad 3,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A99,Ambulancia Unidad 2,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A100,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A101,Ambulancia Unidad 2,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A102,Unidad de Emergencias,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A103,Unidad de Emergencias,En camino,5 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A104,Helicóptero Médico,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Base Y
+A105,Helicóptero Médico,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A106,Ambulancia Unidad 2,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A107,Ambulancia Unidad 2,Fuera de servicio,5 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A108,Ambulancia Unidad 2,Fuera de servicio,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A109,Helicóptero Médico,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A110,Ambulancia Unidad 3,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A111,Unidad de Emergencias,En camino,N/A,N/A,2024-12-16 11:58:11,Base A
+A112,Helicóptero Médico,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base Y
+A113,Helicóptero Médico,Fuera de servicio,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A114,Unidad de Emergencias,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A115,Ambulancia Unidad 2,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A116,Ambulancia Unidad 2,En camino,Disponible,N/A,2024-12-16 11:58:11,Hospital X
+A117,Unidad de Emergencias,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base Y
+A118,Unidad de Emergencias,En camino,5 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A119,Unidad de Emergencias,Disponible,5 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A120,Ambulancia Unidad 3,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A121,Ambulancia Unidad 2,En camino,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A122,Ambulancia Unidad 3,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A123,Helicóptero Médico,Disponible,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A124,Unidad de Emergencias,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A125,Ambulancia Unidad 1,Disponible,N/A,N/A,2024-12-16 11:58:11,Base A
+A126,Ambulancia Unidad 1,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A127,Ambulancia Unidad 1,En camino,Disponible,N/A,2024-12-16 11:58:11,Base Y
+A128,Helicóptero Médico,Disponible,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A129,Ambulancia Unidad 1,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A130,Ambulancia Unidad 1,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A131,Ambulancia Unidad 3,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A132,Ambulancia Unidad 2,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A133,Ambulancia Unidad 2,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A134,Helicóptero Médico,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A135,Ambulancia Unidad 1,En camino,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A136,Unidad de Emergencias,En camino,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A137,Unidad de Emergencias,Disponible,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A138,Ambulancia Unidad 1,En camino,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A139,Ambulancia Unidad 1,Fuera de servicio,Disponible,Ninguno,2024-12-16 11:58:11,Hospital X
+A140,Ambulancia Unidad 3,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A141,Helicóptero Médico,Fuera de servicio,Disponible,Ninguno,2024-12-16 11:58:11,Base Y
+A142,Ambulancia Unidad 3,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A143,Ambulancia Unidad 3,En camino,10 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A144,Ambulancia Unidad 2,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Base A
+A145,Helicóptero Médico,Fuera de servicio,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A146,Ambulancia Unidad 1,En camino,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A147,Ambulancia Unidad 2,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A148,Helicóptero Médico,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Hospital Z
+A149,Ambulancia Unidad 2,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A150,Unidad de Emergencias,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A151,Ambulancia Unidad 2,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A152,Helicóptero Médico,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A153,Unidad de Emergencias,Disponible,Disponible,Ninguno,2024-12-16 11:58:11,Hospital X
+A154,Helicóptero Médico,Disponible,N/A,N/A,2024-12-16 11:58:11,Base A
+A155,Unidad de Emergencias,En camino,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A156,Unidad de Emergencias,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A157,Ambulancia Unidad 3,En camino,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A158,Ambulancia Unidad 1,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Base Y
+A159,Ambulancia Unidad 1,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A160,Helicóptero Médico,Fuera de servicio,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A161,Ambulancia Unidad 3,En camino,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A162,Ambulancia Unidad 1,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A163,Ambulancia Unidad 2,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A164,Ambulancia Unidad 1,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Base A
+A165,Ambulancia Unidad 3,Disponible,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A166,Ambulancia Unidad 1,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A167,Ambulancia Unidad 2,En camino,10 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A168,Helicóptero Médico,Disponible,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A169,Ambulancia Unidad 1,Disponible,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A170,Unidad de Emergencias,En camino,N/A,Obras en ruta,2024-12-16 11:58:11,Base A
+A171,Unidad de Emergencias,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A172,Ambulancia Unidad 1,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Base Y
+A173,Ambulancia Unidad 3,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Base Y
+A174,Helicóptero Médico,En camino,Disponible,N/A,2024-12-16 11:58:11,Base Y
+A175,Ambulancia Unidad 3,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A176,Helicóptero Médico,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A177,Unidad de Emergencias,Fuera de servicio,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A178,Ambulancia Unidad 2,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A179,Unidad de Emergencias,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A180,Helicóptero Médico,Fuera de servicio,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A181,Ambulancia Unidad 1,En camino,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A182,Unidad de Emergencias,Disponible,10 minutos,N/A,2024-12-16 11:58:11,Base A
+A183,Helicóptero Médico,Fuera de servicio,5 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A184,Ambulancia Unidad 3,En camino,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A185,Helicóptero Médico,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A186,Ambulancia Unidad 2,En camino,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A187,Unidad de Emergencias,Fuera de servicio,N/A,Ninguno,2024-12-16 11:58:11,Hospital Z
+A188,Ambulancia Unidad 1,En camino,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A189,Ambulancia Unidad 2,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A190,Ambulancia Unidad 1,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A191,Ambulancia Unidad 2,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A192,Ambulancia Unidad 3,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A193,Ambulancia Unidad 2,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A194,Helicóptero Médico,En camino,N/A,Ninguno,2024-12-16 11:58:11,Hospital Z
+A195,Ambulancia Unidad 2,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A196,Unidad de Emergencias,En camino,10 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A197,Ambulancia Unidad 1,Disponible,10 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A198,Unidad de Emergencias,Disponible,10 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A199,Unidad de Emergencias,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Base A
+A200,Ambulancia Unidad 2,En camino,N/A,Ninguno,2024-12-16 11:58:11,Base Y
+A201,Ambulancia Unidad 2,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A202,Unidad de Emergencias,En camino,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A203,Ambulancia Unidad 3,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Base Y
+A204,Ambulancia Unidad 1,En camino,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A205,Ambulancia Unidad 1,En camino,10 minutos,N/A,2024-12-16 11:58:11,Base A
+A206,Ambulancia Unidad 3,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A207,Ambulancia Unidad 2,En camino,Disponible,Obras en ruta,2024-12-16 11:58:11,Base Y
+A208,Ambulancia Unidad 1,En camino,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A209,Ambulancia Unidad 2,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A210,Ambulancia Unidad 3,Disponible,Disponible,Ninguno,2024-12-16 11:58:11,Base Y
+A211,Ambulancia Unidad 1,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A212,Ambulancia Unidad 2,Disponible,N/A,N/A,2024-12-16 11:58:11,Base Y
+A213,Ambulancia Unidad 2,Fuera de servicio,N/A,Ninguno,2024-12-16 11:58:11,Hospital X
+A214,Helicóptero Médico,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A215,Ambulancia Unidad 2,Fuera de servicio,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A216,Ambulancia Unidad 1,Fuera de servicio,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A217,Helicóptero Médico,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A218,Unidad de Emergencias,Fuera de servicio,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A219,Unidad de Emergencias,Disponible,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A220,Ambulancia Unidad 1,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Base A
+A221,Ambulancia Unidad 1,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A222,Ambulancia Unidad 3,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A223,Ambulancia Unidad 1,Fuera de servicio,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A224,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A225,Ambulancia Unidad 3,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A226,Ambulancia Unidad 3,Disponible,5 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A227,Ambulancia Unidad 3,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A228,Ambulancia Unidad 3,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A229,Helicóptero Médico,En camino,5 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A230,Ambulancia Unidad 2,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A231,Ambulancia Unidad 1,En camino,N/A,N/A,2024-12-16 11:58:11,Base Y
+A232,Helicóptero Médico,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A233,Helicóptero Médico,En camino,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A234,Unidad de Emergencias,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A235,Helicóptero Médico,En camino,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A236,Ambulancia Unidad 2,Disponible,10 minutos,N/A,2024-12-16 11:58:11,Base Y
+A237,Unidad de Emergencias,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A238,Helicóptero Médico,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A239,Ambulancia Unidad 2,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Base A
+A240,Ambulancia Unidad 3,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A241,Helicóptero Médico,Disponible,10 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A242,Ambulancia Unidad 3,Disponible,Disponible,Ninguno,2024-12-16 11:58:11,Base Y
+A243,Ambulancia Unidad 1,En camino,N/A,Ninguno,2024-12-16 11:58:11,Base Y
+A244,Ambulancia Unidad 1,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A245,Helicóptero Médico,Fuera de servicio,Disponible,Ninguno,2024-12-16 11:58:11,Hospital Z
+A246,Ambulancia Unidad 1,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A247,Ambulancia Unidad 3,En camino,5 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A248,Ambulancia Unidad 1,Fuera de servicio,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A249,Ambulancia Unidad 3,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A250,Helicóptero Médico,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Base A
+A251,Helicóptero Médico,Fuera de servicio,Disponible,N/A,2024-12-16 11:58:11,Base A
+A252,Ambulancia Unidad 2,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Base Y
+A253,Unidad de Emergencias,Disponible,5 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A254,Ambulancia Unidad 2,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Base A
+A255,Ambulancia Unidad 3,En camino,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A256,Ambulancia Unidad 2,En camino,N/A,Obras en ruta,2024-12-16 11:58:11,Base Y
+A257,Ambulancia Unidad 1,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A258,Ambulancia Unidad 2,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A259,Ambulancia Unidad 1,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A260,Ambulancia Unidad 1,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A261,Ambulancia Unidad 3,Disponible,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A262,Ambulancia Unidad 1,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A263,Helicóptero Médico,Disponible,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A264,Unidad de Emergencias,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A265,Ambulancia Unidad 3,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A266,Ambulancia Unidad 3,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Base Y
+A267,Unidad de Emergencias,Fuera de servicio,Disponible,Obras en ruta,2024-12-16 11:58:11,Base A
+A268,Ambulancia Unidad 3,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A269,Helicóptero Médico,Fuera de servicio,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A270,Ambulancia Unidad 1,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A271,Ambulancia Unidad 3,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A272,Ambulancia Unidad 2,En camino,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A273,Ambulancia Unidad 1,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A274,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A275,Helicóptero Médico,En camino,N/A,N/A,2024-12-16 11:58:11,Base Y
+A276,Unidad de Emergencias,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A277,Unidad de Emergencias,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A278,Ambulancia Unidad 1,En camino,5 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A279,Ambulancia Unidad 2,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A280,Unidad de Emergencias,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A281,Helicóptero Médico,Fuera de servicio,N/A,Ninguno,2024-12-16 11:58:11,Hospital X
+A282,Ambulancia Unidad 3,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Hospital Z
+A283,Ambulancia Unidad 1,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A284,Unidad de Emergencias,En camino,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A285,Ambulancia Unidad 1,Disponible,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A286,Unidad de Emergencias,Fuera de servicio,N/A,Ninguno,2024-12-16 11:58:11,Base A
+A287,Ambulancia Unidad 1,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Base A
+A288,Helicóptero Médico,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A289,Unidad de Emergencias,En camino,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A290,Ambulancia Unidad 3,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A291,Ambulancia Unidad 1,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Hospital Z
+A292,Ambulancia Unidad 1,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A293,Ambulancia Unidad 1,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A294,Helicóptero Médico,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A295,Ambulancia Unidad 3,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A296,Ambulancia Unidad 2,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A297,Ambulancia Unidad 3,Fuera de servicio,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A298,Ambulancia Unidad 2,Disponible,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A299,Helicóptero Médico,En camino,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A300,Ambulancia Unidad 3,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A301,Ambulancia Unidad 1,Disponible,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A302,Helicóptero Médico,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A303,Helicóptero Médico,Fuera de servicio,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A304,Ambulancia Unidad 1,En camino,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A305,Unidad de Emergencias,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A306,Ambulancia Unidad 3,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Hospital X
+A307,Ambulancia Unidad 1,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base A
+A308,Ambulancia Unidad 3,En camino,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A309,Ambulancia Unidad 1,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A310,Ambulancia Unidad 1,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A311,Ambulancia Unidad 1,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A312,Ambulancia Unidad 1,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A313,Ambulancia Unidad 2,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base A
+A314,Ambulancia Unidad 1,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Base Y
+A315,Ambulancia Unidad 1,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A316,Unidad de Emergencias,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A317,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A318,Helicóptero Médico,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A319,Unidad de Emergencias,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A320,Helicóptero Médico,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A321,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A322,Helicóptero Médico,Disponible,Disponible,N/A,2024-12-16 11:58:11,Base A
+A323,Unidad de Emergencias,En camino,N/A,Ninguno,2024-12-16 11:58:11,Base Y
+A324,Unidad de Emergencias,Disponible,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A325,Helicóptero Médico,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Base A
+A326,Ambulancia Unidad 3,En camino,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A327,Ambulancia Unidad 2,Fuera de servicio,Disponible,N/A,2024-12-16 11:58:11,Base Y
+A328,Helicóptero Médico,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Hospital Z
+A329,Ambulancia Unidad 2,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A330,Ambulancia Unidad 1,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A331,Ambulancia Unidad 3,Fuera de servicio,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A332,Helicóptero Médico,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A333,Ambulancia Unidad 3,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A334,Unidad de Emergencias,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A335,Ambulancia Unidad 1,En camino,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A336,Ambulancia Unidad 2,En camino,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A337,Ambulancia Unidad 1,Fuera de servicio,Disponible,N/A,2024-12-16 11:58:11,Base A
+A338,Helicóptero Médico,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Base A
+A339,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A340,Helicóptero Médico,En camino,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A341,Helicóptero Médico,En camino,N/A,Obras en ruta,2024-12-16 11:58:11,Base A
+A342,Helicóptero Médico,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base Y
+A343,Ambulancia Unidad 3,Fuera de servicio,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A344,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A345,Helicóptero Médico,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Hospital X
+A346,Ambulancia Unidad 3,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A347,Ambulancia Unidad 2,Disponible,Disponible,Ninguno,2024-12-16 11:58:11,Base A
+A348,Ambulancia Unidad 2,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A349,Unidad de Emergencias,Disponible,10 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A350,Ambulancia Unidad 1,En camino,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A351,Unidad de Emergencias,En camino,10 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A352,Ambulancia Unidad 3,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A353,Ambulancia Unidad 2,En camino,N/A,N/A,2024-12-16 11:58:11,Base A
+A354,Ambulancia Unidad 1,En camino,N/A,Obras en ruta,2024-12-16 11:58:11,Base Y
+A355,Ambulancia Unidad 2,En camino,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A356,Ambulancia Unidad 3,En camino,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A357,Helicóptero Médico,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A358,Helicóptero Médico,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A359,Unidad de Emergencias,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A360,Unidad de Emergencias,En camino,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A361,Helicóptero Médico,En camino,Disponible,Obras en ruta,2024-12-16 11:58:11,Base Y
+A362,Ambulancia Unidad 2,Fuera de servicio,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A363,Unidad de Emergencias,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A364,Ambulancia Unidad 1,Disponible,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A365,Ambulancia Unidad 2,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A366,Ambulancia Unidad 3,Disponible,10 minutos,N/A,2024-12-16 11:58:11,Base Y
+A367,Helicóptero Médico,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A368,Ambulancia Unidad 1,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A369,Ambulancia Unidad 2,Fuera de servicio,Disponible,N/A,2024-12-16 11:58:11,Hospital X
+A370,Unidad de Emergencias,Disponible,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A371,Ambulancia Unidad 1,En camino,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A372,Helicóptero Médico,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A373,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A374,Unidad de Emergencias,En camino,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A375,Ambulancia Unidad 3,En camino,N/A,Obras en ruta,2024-12-16 11:58:11,Base A
+A376,Unidad de Emergencias,Fuera de servicio,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A377,Ambulancia Unidad 1,Fuera de servicio,10 minutos,N/A,2024-12-16 11:58:11,Base Y
+A378,Helicóptero Médico,En camino,Disponible,N/A,2024-12-16 11:58:11,Base Y
+A379,Unidad de Emergencias,Disponible,Disponible,N/A,2024-12-16 11:58:11,Base Y
+A380,Helicóptero Médico,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A381,Ambulancia Unidad 1,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A382,Ambulancia Unidad 1,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Base Y
+A383,Ambulancia Unidad 3,Disponible,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A384,Ambulancia Unidad 2,En camino,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A385,Helicóptero Médico,Fuera de servicio,N/A,Ninguno,2024-12-16 11:58:11,Hospital Z
+A386,Ambulancia Unidad 2,Disponible,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A387,Helicóptero Médico,Fuera de servicio,5 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A388,Unidad de Emergencias,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A389,Helicóptero Médico,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A390,Unidad de Emergencias,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Base A
+A391,Unidad de Emergencias,En camino,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A392,Ambulancia Unidad 3,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A393,Unidad de Emergencias,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A394,Ambulancia Unidad 2,Disponible,5 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A395,Helicóptero Médico,Fuera de servicio,N/A,Obras en ruta,2024-12-16 11:58:11,Base A
+A396,Ambulancia Unidad 3,En camino,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A397,Unidad de Emergencias,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A398,Ambulancia Unidad 2,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A399,Helicóptero Médico,Fuera de servicio,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A400,Ambulancia Unidad 3,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A401,Helicóptero Médico,En camino,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A402,Ambulancia Unidad 1,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A403,Ambulancia Unidad 1,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A404,Ambulancia Unidad 1,En camino,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A405,Unidad de Emergencias,Fuera de servicio,Disponible,N/A,2024-12-16 11:58:11,Hospital X
+A406,Ambulancia Unidad 2,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A407,Ambulancia Unidad 3,Disponible,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A408,Ambulancia Unidad 1,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A409,Ambulancia Unidad 3,Disponible,Disponible,Ninguno,2024-12-16 11:58:11,Hospital X
+A410,Ambulancia Unidad 3,Fuera de servicio,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A411,Ambulancia Unidad 2,En camino,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A412,Ambulancia Unidad 1,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A413,Ambulancia Unidad 3,Fuera de servicio,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A414,Ambulancia Unidad 1,Fuera de servicio,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A415,Ambulancia Unidad 2,Disponible,N/A,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A416,Helicóptero Médico,En camino,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A417,Helicóptero Médico,Fuera de servicio,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A418,Unidad de Emergencias,En camino,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A419,Ambulancia Unidad 3,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A420,Ambulancia Unidad 2,Fuera de servicio,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A421,Ambulancia Unidad 1,En camino,Disponible,Obras en ruta,2024-12-16 11:58:11,Base A
+A422,Ambulancia Unidad 1,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A423,Helicóptero Médico,Disponible,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A424,Unidad de Emergencias,En camino,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A425,Helicóptero Médico,En camino,5 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A426,Ambulancia Unidad 3,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A427,Helicóptero Médico,Disponible,Disponible,N/A,2024-12-16 11:58:11,Hospital Z
+A428,Helicóptero Médico,Fuera de servicio,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A429,Ambulancia Unidad 3,Disponible,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A430,Ambulancia Unidad 3,Disponible,10 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A431,Ambulancia Unidad 3,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A432,Ambulancia Unidad 1,Fuera de servicio,5 minutos,N/A,2024-12-16 11:58:11,Hospital Z
+A433,Unidad de Emergencias,Fuera de servicio,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A434,Ambulancia Unidad 2,En camino,Disponible,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A435,Ambulancia Unidad 2,En camino,5 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A436,Helicóptero Médico,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Base A
+A437,Ambulancia Unidad 2,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Hospital X
+A438,Ambulancia Unidad 3,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base Y
+A439,Helicóptero Médico,Fuera de servicio,N/A,Ninguno,2024-12-16 11:58:11,Hospital X
+A440,Ambulancia Unidad 1,Disponible,Disponible,N/A,2024-12-16 11:58:11,Base A
+A441,Helicóptero Médico,Disponible,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A442,Ambulancia Unidad 1,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A443,Unidad de Emergencias,Fuera de servicio,Disponible,Ninguno,2024-12-16 11:58:11,Base Y
+A444,Ambulancia Unidad 1,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A445,Ambulancia Unidad 3,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A446,Ambulancia Unidad 3,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base A
+A447,Unidad de Emergencias,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Hospital X
+A448,Helicóptero Médico,Fuera de servicio,Disponible,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A449,Unidad de Emergencias,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A450,Ambulancia Unidad 1,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A451,Ambulancia Unidad 3,Disponible,5 minutos,N/A,2024-12-16 11:58:11,Base Y
+A452,Ambulancia Unidad 1,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A453,Unidad de Emergencias,En camino,5 minutos,N/A,2024-12-16 11:58:11,Base A
+A454,Helicóptero Médico,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A455,Ambulancia Unidad 3,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A456,Helicóptero Médico,Fuera de servicio,N/A,Ninguno,2024-12-16 11:58:11,Hospital Z
+A457,Helicóptero Médico,Disponible,5 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A458,Unidad de Emergencias,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A459,Helicóptero Médico,En camino,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base Y
+A460,Ambulancia Unidad 3,Fuera de servicio,Disponible,N/A,2024-12-16 11:58:11,Base A
+A461,Ambulancia Unidad 2,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital Z
+A462,Unidad de Emergencias,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Hospital X
+A463,Helicóptero Médico,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base A
+A464,Unidad de Emergencias,Disponible,10 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A465,Ambulancia Unidad 1,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A466,Ambulancia Unidad 2,Fuera de servicio,Disponible,Ninguno,2024-12-16 11:58:11,Base A
+A467,Ambulancia Unidad 2,Fuera de servicio,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital X
+A468,Ambulancia Unidad 2,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A469,Helicóptero Médico,En camino,Disponible,N/A,2024-12-16 11:58:11,Hospital X
+A470,Helicóptero Médico,Fuera de servicio,Disponible,Ninguno,2024-12-16 11:58:11,Hospital Z
+A471,Ambulancia Unidad 1,Disponible,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A472,Ambulancia Unidad 3,Disponible,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A473,Unidad de Emergencias,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A474,Ambulancia Unidad 3,Fuera de servicio,10 minutos,Obras en ruta,2024-12-16 11:58:11,Base A
+A475,Unidad de Emergencias,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Hospital Z
+A476,Helicóptero Médico,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A477,Ambulancia Unidad 2,En camino,10 minutos,N/A,2024-12-16 11:58:11,Base Y
+A478,Ambulancia Unidad 2,Disponible,Disponible,N/A,2024-12-16 11:58:11,Base A
+A479,Ambulancia Unidad 1,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A480,Unidad de Emergencias,Disponible,10 minutos,N/A,2024-12-16 11:58:11,Hospital X
+A481,Ambulancia Unidad 2,Disponible,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital Z
+A482,Ambulancia Unidad 2,Fuera de servicio,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital X
+A483,Ambulancia Unidad 3,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A484,Ambulancia Unidad 3,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Hospital Z
+A485,Helicóptero Médico,Fuera de servicio,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A486,Helicóptero Médico,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Base Y
+A487,Ambulancia Unidad 3,En camino,5 minutos,Ninguno,2024-12-16 11:58:11,Base Y
+A488,Ambulancia Unidad 3,Disponible,5 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A489,Ambulancia Unidad 1,Disponible,10 minutos,Obras en ruta,2024-12-16 11:58:11,Hospital X
+A490,Ambulancia Unidad 3,En camino,Disponible,N/A,2024-12-16 11:58:11,Base Y
+A491,Unidad de Emergencias,En camino,N/A,N/A,2024-12-16 11:58:11,Hospital X
+A492,Ambulancia Unidad 1,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A493,Ambulancia Unidad 3,En camino,10 minutos,Ninguno,2024-12-16 11:58:11,Hospital Z
+A494,Ambulancia Unidad 3,Fuera de servicio,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z
+A495,Ambulancia Unidad 3,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Hospital Z
+A496,Ambulancia Unidad 3,En camino,Disponible,Ninguno,2024-12-16 11:58:11,Base A
+A497,Ambulancia Unidad 3,Disponible,N/A,Ninguno,2024-12-16 11:58:11,Base A
+A498,Ambulancia Unidad 3,En camino,5 minutos,Condiciones climáticas,2024-12-16 11:58:11,Base A
+A499,Unidad de Emergencias,Disponible,Disponible,Ninguno,2024-12-16 11:58:11,Hospital Z
+A500,Ambulancia Unidad 2,Disponible,N/A,Condiciones climáticas,2024-12-16 11:58:11,Hospital Z

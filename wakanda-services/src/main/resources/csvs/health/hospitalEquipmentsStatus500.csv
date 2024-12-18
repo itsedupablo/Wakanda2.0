@@ -1,0 +1,501 @@
+ID,Ubicacion,Estado,DuracionEstadoSegundos,UsoActual,NivelCriticidad
+1,Urgencias,Operativo,29038,60,Bajo
+2,Radiología,Operativo,74871,3,Bajo
+3,Radiología,Operativo,45518,53,Moderado
+4,UCI,Fuera de servicio,33638,14,Bajo
+5,Urgencias,Operativo,7779,39,Alto
+6,Quirófano,Operativo,62612,0,Alto
+7,Urgencias,Mantenimiento,62762,82,Bajo
+8,Laboratorio,Mantenimiento,60713,73,Bajo
+9,Radiología,Operativo,71906,38,Alto
+10,Quirófano,Mantenimiento,43675,91,Bajo
+11,Urgencias,Fuera de servicio,49312,94,Moderado
+12,Quirófano,Operativo,49967,67,Bajo
+13,Radiología,Fuera de servicio,70677,36,Moderado
+14,Quirófano,Operativo,40346,71,Alto
+15,Urgencias,Mantenimiento,34243,74,Bajo
+16,Laboratorio,Mantenimiento,45469,69,Alto
+17,Urgencias,Fuera de servicio,620,22,Moderado
+18,Urgencias,Operativo,83144,61,Moderado
+19,UCI,Mantenimiento,54331,9,Alto
+20,Laboratorio,Fuera de servicio,38546,0,Bajo
+21,Radiología,Mantenimiento,75598,28,Moderado
+22,Quirófano,Mantenimiento,4213,96,Alto
+23,Laboratorio,Fuera de servicio,23438,42,Moderado
+24,UCI,Operativo,70186,15,Bajo
+25,Radiología,Fuera de servicio,85270,67,Bajo
+26,Radiología,Fuera de servicio,14439,91,Alto
+27,UCI,Mantenimiento,72439,87,Moderado
+28,UCI,Operativo,46873,53,Moderado
+29,Laboratorio,Operativo,70933,89,Alto
+30,Laboratorio,Fuera de servicio,76066,43,Alto
+31,Radiología,Mantenimiento,33603,83,Bajo
+32,UCI,Mantenimiento,83863,34,Moderado
+33,Quirófano,Operativo,40414,99,Bajo
+34,Radiología,Fuera de servicio,8867,26,Bajo
+35,Laboratorio,Fuera de servicio,77487,44,Alto
+36,Urgencias,Mantenimiento,22030,32,Bajo
+37,Quirófano,Operativo,44080,83,Alto
+38,Urgencias,Mantenimiento,21979,1,Bajo
+39,Quirófano,Mantenimiento,8197,7,Moderado
+40,Quirófano,Mantenimiento,32763,12,Moderado
+41,Urgencias,Operativo,58568,6,Alto
+42,Quirófano,Mantenimiento,64009,66,Moderado
+43,UCI,Mantenimiento,69838,28,Alto
+44,Laboratorio,Operativo,54204,86,Alto
+45,Laboratorio,Fuera de servicio,18204,94,Moderado
+46,UCI,Fuera de servicio,9655,96,Bajo
+47,Radiología,Operativo,84453,64,Moderado
+48,UCI,Fuera de servicio,23546,3,Moderado
+49,Urgencias,Operativo,53517,86,Alto
+50,Quirófano,Operativo,57905,82,Bajo
+51,Laboratorio,Fuera de servicio,82037,97,Alto
+52,Laboratorio,Mantenimiento,977,39,Moderado
+53,Urgencias,Operativo,59628,43,Moderado
+54,Urgencias,Fuera de servicio,80508,12,Bajo
+55,Quirófano,Operativo,40536,27,Moderado
+56,Radiología,Fuera de servicio,39015,14,Moderado
+57,Radiología,Fuera de servicio,66214,64,Moderado
+58,Quirófano,Operativo,14373,8,Moderado
+59,Quirófano,Fuera de servicio,73929,87,Moderado
+60,Radiología,Fuera de servicio,42275,21,Moderado
+61,Laboratorio,Mantenimiento,4017,39,Moderado
+62,Laboratorio,Operativo,58985,19,Bajo
+63,UCI,Operativo,55104,63,Bajo
+64,Laboratorio,Fuera de servicio,48062,66,Alto
+65,Quirófano,Fuera de servicio,69939,39,Bajo
+66,UCI,Operativo,78591,63,Moderado
+67,UCI,Operativo,75622,37,Moderado
+68,Urgencias,Fuera de servicio,81570,79,Alto
+69,Radiología,Fuera de servicio,43036,3,Alto
+70,Radiología,Mantenimiento,32263,52,Bajo
+71,UCI,Operativo,66949,28,Moderado
+72,Quirófano,Operativo,5670,43,Alto
+73,Quirófano,Mantenimiento,84591,29,Moderado
+74,UCI,Mantenimiento,41617,33,Alto
+75,Urgencias,Mantenimiento,8179,49,Alto
+76,UCI,Fuera de servicio,4921,19,Alto
+77,UCI,Operativo,29130,63,Bajo
+78,Quirófano,Operativo,37913,0,Moderado
+79,Laboratorio,Fuera de servicio,56342,35,Moderado
+80,Quirófano,Mantenimiento,19375,25,Alto
+81,Quirófano,Mantenimiento,33540,42,Moderado
+82,Radiología,Operativo,71004,29,Moderado
+83,Radiología,Operativo,1505,47,Bajo
+84,Urgencias,Mantenimiento,29916,3,Moderado
+85,Radiología,Operativo,63736,23,Alto
+86,Radiología,Operativo,78244,22,Moderado
+87,UCI,Operativo,79928,90,Bajo
+88,UCI,Fuera de servicio,67110,77,Moderado
+89,Quirófano,Operativo,49829,71,Bajo
+90,Laboratorio,Mantenimiento,12577,77,Moderado
+91,Radiología,Mantenimiento,56605,60,Alto
+92,Radiología,Fuera de servicio,24314,71,Bajo
+93,Quirófano,Mantenimiento,79724,62,Alto
+94,Laboratorio,Mantenimiento,17800,74,Moderado
+95,UCI,Mantenimiento,13901,92,Moderado
+96,Radiología,Fuera de servicio,85808,88,Moderado
+97,Radiología,Mantenimiento,10405,55,Bajo
+98,Quirófano,Mantenimiento,4999,44,Bajo
+99,Quirófano,Fuera de servicio,63051,60,Bajo
+100,Urgencias,Operativo,53355,93,Bajo
+101,Radiología,Operativo,63267,78,Alto
+102,Quirófano,Fuera de servicio,34831,91,Alto
+103,Radiología,Mantenimiento,65717,77,Moderado
+104,Urgencias,Operativo,63034,64,Moderado
+105,Laboratorio,Mantenimiento,1356,9,Bajo
+106,Urgencias,Operativo,72842,97,Alto
+107,Urgencias,Fuera de servicio,11699,59,Bajo
+108,Quirófano,Operativo,80678,16,Alto
+109,Laboratorio,Mantenimiento,42720,80,Moderado
+110,Urgencias,Operativo,14102,69,Alto
+111,UCI,Mantenimiento,21406,52,Alto
+112,Laboratorio,Fuera de servicio,41452,28,Moderado
+113,Quirófano,Operativo,7546,42,Bajo
+114,Radiología,Mantenimiento,4719,98,Bajo
+115,UCI,Mantenimiento,6246,93,Bajo
+116,Radiología,Operativo,68673,0,Bajo
+117,Urgencias,Operativo,29857,41,Alto
+118,Laboratorio,Mantenimiento,4113,26,Moderado
+119,Radiología,Operativo,17010,20,Moderado
+120,Urgencias,Fuera de servicio,80587,98,Bajo
+121,Laboratorio,Fuera de servicio,65402,63,Alto
+122,UCI,Fuera de servicio,60200,79,Alto
+123,Laboratorio,Mantenimiento,15895,76,Moderado
+124,Urgencias,Operativo,28261,75,Moderado
+125,Urgencias,Mantenimiento,5559,86,Alto
+126,UCI,Mantenimiento,50574,43,Moderado
+127,Laboratorio,Operativo,30188,29,Moderado
+128,Quirófano,Mantenimiento,36846,91,Moderado
+129,Quirófano,Fuera de servicio,64429,50,Alto
+130,Radiología,Mantenimiento,38848,20,Alto
+131,Laboratorio,Mantenimiento,1197,0,Moderado
+132,Radiología,Fuera de servicio,68988,18,Moderado
+133,Laboratorio,Mantenimiento,78632,91,Moderado
+134,Radiología,Mantenimiento,26611,66,Moderado
+135,Radiología,Operativo,80109,81,Bajo
+136,Laboratorio,Operativo,3586,90,Alto
+137,Laboratorio,Mantenimiento,55198,35,Bajo
+138,Quirófano,Mantenimiento,37623,21,Moderado
+139,Radiología,Fuera de servicio,45567,69,Moderado
+140,Radiología,Operativo,60153,26,Moderado
+141,UCI,Operativo,5521,86,Bajo
+142,Laboratorio,Mantenimiento,55049,39,Alto
+143,Laboratorio,Operativo,33183,50,Moderado
+144,Urgencias,Fuera de servicio,14337,88,Alto
+145,Quirófano,Fuera de servicio,49200,20,Moderado
+146,UCI,Fuera de servicio,84652,40,Moderado
+147,Quirófano,Operativo,78089,22,Alto
+148,Laboratorio,Fuera de servicio,52641,0,Moderado
+149,Laboratorio,Operativo,75877,34,Bajo
+150,Laboratorio,Operativo,32730,87,Bajo
+151,Radiología,Mantenimiento,83780,23,Moderado
+152,Quirófano,Operativo,35238,4,Alto
+153,Radiología,Operativo,56854,31,Moderado
+154,UCI,Fuera de servicio,19375,47,Bajo
+155,Urgencias,Mantenimiento,55360,68,Bajo
+156,Laboratorio,Fuera de servicio,51969,22,Alto
+157,Quirófano,Operativo,60901,16,Moderado
+158,UCI,Operativo,35117,42,Bajo
+159,Laboratorio,Fuera de servicio,17124,90,Moderado
+160,Laboratorio,Operativo,2649,71,Alto
+161,Urgencias,Fuera de servicio,32306,7,Bajo
+162,Quirófano,Fuera de servicio,50134,81,Bajo
+163,Urgencias,Fuera de servicio,51845,38,Moderado
+164,Radiología,Fuera de servicio,51594,77,Bajo
+165,Urgencias,Operativo,7135,9,Alto
+166,Radiología,Fuera de servicio,55273,29,Moderado
+167,Quirófano,Fuera de servicio,81479,13,Alto
+168,Quirófano,Fuera de servicio,50602,69,Bajo
+169,Laboratorio,Mantenimiento,71509,83,Moderado
+170,Urgencias,Operativo,22666,4,Alto
+171,UCI,Operativo,80901,25,Alto
+172,Laboratorio,Fuera de servicio,63166,31,Bajo
+173,Laboratorio,Operativo,58274,88,Moderado
+174,Quirófano,Mantenimiento,77793,98,Alto
+175,Radiología,Mantenimiento,43049,98,Moderado
+176,Urgencias,Mantenimiento,30378,78,Bajo
+177,UCI,Operativo,2909,48,Moderado
+178,Radiología,Operativo,66520,70,Alto
+179,Quirófano,Fuera de servicio,11394,37,Alto
+180,Radiología,Fuera de servicio,32981,57,Alto
+181,Urgencias,Operativo,65257,76,Moderado
+182,Urgencias,Fuera de servicio,29585,0,Moderado
+183,Radiología,Fuera de servicio,16137,69,Bajo
+184,Quirófano,Operativo,21883,50,Bajo
+185,Urgencias,Mantenimiento,60384,91,Bajo
+186,Radiología,Operativo,76146,38,Bajo
+187,Laboratorio,Operativo,37547,58,Bajo
+188,UCI,Fuera de servicio,20000,30,Alto
+189,Urgencias,Operativo,6745,81,Moderado
+190,Radiología,Fuera de servicio,27000,18,Alto
+191,Radiología,Operativo,2499,70,Moderado
+192,Laboratorio,Operativo,47294,12,Bajo
+193,Urgencias,Mantenimiento,68025,71,Alto
+194,Quirófano,Mantenimiento,63564,6,Alto
+195,Radiología,Mantenimiento,68820,75,Moderado
+196,Radiología,Operativo,38188,98,Moderado
+197,Laboratorio,Mantenimiento,75177,58,Bajo
+198,Radiología,Fuera de servicio,14055,82,Bajo
+199,Laboratorio,Fuera de servicio,18197,64,Alto
+200,Radiología,Operativo,54154,17,Moderado
+201,Urgencias,Fuera de servicio,17582,50,Moderado
+202,UCI,Fuera de servicio,66129,53,Moderado
+203,UCI,Fuera de servicio,39005,8,Bajo
+204,Quirófano,Fuera de servicio,4974,35,Bajo
+205,Urgencias,Operativo,74401,69,Alto
+206,Laboratorio,Operativo,17573,8,Alto
+207,Laboratorio,Mantenimiento,48652,95,Alto
+208,Urgencias,Operativo,72455,90,Alto
+209,Laboratorio,Fuera de servicio,1702,27,Bajo
+210,Radiología,Mantenimiento,66754,10,Alto
+211,Radiología,Mantenimiento,39665,79,Moderado
+212,Quirófano,Mantenimiento,32999,44,Moderado
+213,UCI,Fuera de servicio,23562,29,Alto
+214,Quirófano,Fuera de servicio,30954,43,Bajo
+215,Urgencias,Fuera de servicio,21993,95,Alto
+216,UCI,Fuera de servicio,13918,72,Bajo
+217,Radiología,Mantenimiento,85036,67,Bajo
+218,Quirófano,Operativo,44560,48,Moderado
+219,Laboratorio,Mantenimiento,18732,83,Bajo
+220,Laboratorio,Mantenimiento,10846,30,Alto
+221,Radiología,Operativo,41770,32,Alto
+222,Laboratorio,Fuera de servicio,70145,34,Moderado
+223,UCI,Operativo,78988,13,Alto
+224,UCI,Operativo,35364,3,Bajo
+225,UCI,Mantenimiento,25469,45,Bajo
+226,Radiología,Operativo,56256,18,Bajo
+227,Quirófano,Mantenimiento,48445,1,Moderado
+228,Quirófano,Fuera de servicio,2296,10,Moderado
+229,Radiología,Mantenimiento,56621,12,Bajo
+230,Urgencias,Mantenimiento,53137,14,Alto
+231,Laboratorio,Fuera de servicio,52705,12,Bajo
+232,UCI,Fuera de servicio,25276,52,Alto
+233,UCI,Operativo,73529,54,Alto
+234,Urgencias,Mantenimiento,80463,53,Moderado
+235,Urgencias,Mantenimiento,5550,35,Moderado
+236,UCI,Mantenimiento,77886,52,Moderado
+237,Quirófano,Operativo,28213,15,Bajo
+238,Radiología,Fuera de servicio,19432,63,Moderado
+239,Laboratorio,Operativo,48236,47,Bajo
+240,Radiología,Fuera de servicio,2720,66,Moderado
+241,Quirófano,Mantenimiento,79402,25,Alto
+242,Laboratorio,Mantenimiento,6634,98,Alto
+243,UCI,Fuera de servicio,4772,59,Bajo
+244,UCI,Fuera de servicio,58966,85,Alto
+245,Laboratorio,Fuera de servicio,3154,6,Moderado
+246,Laboratorio,Fuera de servicio,75802,19,Moderado
+247,Urgencias,Operativo,66845,58,Moderado
+248,UCI,Fuera de servicio,70384,84,Alto
+249,Radiología,Fuera de servicio,85993,81,Moderado
+250,UCI,Operativo,54323,41,Bajo
+251,Radiología,Mantenimiento,4333,37,Moderado
+252,Radiología,Mantenimiento,46643,85,Moderado
+253,Urgencias,Operativo,70304,16,Bajo
+254,Quirófano,Operativo,8130,29,Alto
+255,Radiología,Operativo,75669,64,Moderado
+256,Quirófano,Fuera de servicio,35177,72,Bajo
+257,Urgencias,Mantenimiento,84728,10,Alto
+258,Urgencias,Mantenimiento,30056,79,Alto
+259,Radiología,Fuera de servicio,73215,3,Bajo
+260,UCI,Operativo,70337,59,Moderado
+261,Urgencias,Mantenimiento,12899,91,Alto
+262,Laboratorio,Operativo,52557,58,Alto
+263,Quirófano,Operativo,10170,6,Alto
+264,UCI,Fuera de servicio,991,70,Alto
+265,Radiología,Mantenimiento,57042,77,Moderado
+266,Radiología,Fuera de servicio,28615,74,Bajo
+267,Laboratorio,Fuera de servicio,4603,29,Alto
+268,Quirófano,Fuera de servicio,10744,20,Alto
+269,Quirófano,Mantenimiento,76532,12,Bajo
+270,Radiología,Mantenimiento,25019,83,Alto
+271,Radiología,Mantenimiento,9879,88,Moderado
+272,UCI,Operativo,19036,15,Moderado
+273,UCI,Fuera de servicio,15548,93,Moderado
+274,Quirófano,Fuera de servicio,46819,39,Alto
+275,Urgencias,Operativo,83095,24,Bajo
+276,Quirófano,Mantenimiento,80261,20,Alto
+277,Urgencias,Operativo,44233,31,Bajo
+278,Laboratorio,Fuera de servicio,9524,82,Moderado
+279,Laboratorio,Fuera de servicio,18188,18,Bajo
+280,UCI,Mantenimiento,29231,46,Alto
+281,UCI,Mantenimiento,50039,99,Alto
+282,UCI,Operativo,31935,71,Bajo
+283,Urgencias,Mantenimiento,66153,98,Bajo
+284,UCI,Mantenimiento,56760,16,Alto
+285,UCI,Mantenimiento,78832,85,Bajo
+286,Urgencias,Mantenimiento,46375,7,Alto
+287,Radiología,Operativo,77076,1,Alto
+288,Quirófano,Mantenimiento,21538,93,Alto
+289,Quirófano,Fuera de servicio,76982,54,Moderado
+290,Radiología,Operativo,14387,71,Bajo
+291,UCI,Fuera de servicio,82386,59,Alto
+292,Laboratorio,Operativo,41656,6,Bajo
+293,UCI,Mantenimiento,10183,81,Bajo
+294,Quirófano,Fuera de servicio,28619,52,Bajo
+295,UCI,Fuera de servicio,17291,52,Alto
+296,Quirófano,Mantenimiento,62034,7,Alto
+297,Laboratorio,Operativo,38980,9,Moderado
+298,Radiología,Mantenimiento,23055,89,Alto
+299,Radiología,Operativo,52326,76,Bajo
+300,Urgencias,Mantenimiento,71080,74,Alto
+301,UCI,Fuera de servicio,55943,32,Alto
+302,Radiología,Mantenimiento,75273,69,Bajo
+303,Laboratorio,Mantenimiento,55344,32,Alto
+304,Laboratorio,Fuera de servicio,83087,60,Moderado
+305,Radiología,Fuera de servicio,36180,11,Bajo
+306,Radiología,Mantenimiento,67222,27,Bajo
+307,Radiología,Fuera de servicio,28321,56,Bajo
+308,Radiología,Fuera de servicio,5959,63,Alto
+309,Radiología,Mantenimiento,74280,7,Alto
+310,UCI,Operativo,9202,24,Alto
+311,Quirófano,Fuera de servicio,70581,55,Moderado
+312,Urgencias,Operativo,25564,96,Bajo
+313,UCI,Operativo,75246,82,Bajo
+314,UCI,Mantenimiento,16753,10,Alto
+315,Urgencias,Operativo,34072,61,Moderado
+316,Urgencias,Operativo,59621,17,Bajo
+317,Laboratorio,Operativo,4933,34,Bajo
+318,Laboratorio,Fuera de servicio,45091,31,Bajo
+319,UCI,Fuera de servicio,58583,13,Alto
+320,Quirófano,Operativo,9415,68,Moderado
+321,Radiología,Operativo,32603,59,Moderado
+322,Laboratorio,Mantenimiento,11830,95,Moderado
+323,Radiología,Mantenimiento,77967,57,Alto
+324,Urgencias,Fuera de servicio,47727,31,Moderado
+325,Laboratorio,Operativo,29015,38,Moderado
+326,Quirófano,Fuera de servicio,17806,24,Bajo
+327,Laboratorio,Fuera de servicio,13156,92,Alto
+328,Radiología,Mantenimiento,76719,8,Alto
+329,Urgencias,Operativo,25194,74,Bajo
+330,Radiología,Fuera de servicio,4579,64,Bajo
+331,Quirófano,Mantenimiento,29126,71,Bajo
+332,Urgencias,Operativo,71191,43,Moderado
+333,Quirófano,Operativo,20327,56,Alto
+334,Urgencias,Fuera de servicio,47432,30,Alto
+335,Urgencias,Mantenimiento,5594,38,Bajo
+336,Quirófano,Fuera de servicio,85200,43,Moderado
+337,Urgencias,Mantenimiento,56276,42,Alto
+338,Laboratorio,Fuera de servicio,33899,1,Moderado
+339,UCI,Operativo,76383,98,Bajo
+340,Urgencias,Mantenimiento,13403,14,Alto
+341,Laboratorio,Operativo,23035,54,Bajo
+342,Laboratorio,Fuera de servicio,33417,92,Alto
+343,Urgencias,Mantenimiento,20493,89,Moderado
+344,Urgencias,Fuera de servicio,31678,92,Bajo
+345,Urgencias,Operativo,34580,14,Bajo
+346,Quirófano,Fuera de servicio,47568,19,Moderado
+347,Laboratorio,Operativo,45469,6,Alto
+348,UCI,Fuera de servicio,59816,49,Moderado
+349,UCI,Operativo,80455,77,Bajo
+350,Quirófano,Operativo,43826,98,Alto
+351,Quirófano,Fuera de servicio,81687,68,Alto
+352,Urgencias,Mantenimiento,31191,81,Alto
+353,Urgencias,Mantenimiento,9463,16,Bajo
+354,Quirófano,Fuera de servicio,82695,80,Bajo
+355,Radiología,Mantenimiento,9328,27,Alto
+356,Urgencias,Mantenimiento,85081,53,Moderado
+357,Urgencias,Operativo,22759,4,Moderado
+358,Laboratorio,Operativo,30628,18,Alto
+359,Quirófano,Operativo,18533,26,Moderado
+360,UCI,Operativo,70858,80,Bajo
+361,Quirófano,Mantenimiento,42962,93,Alto
+362,UCI,Operativo,12524,16,Moderado
+363,UCI,Fuera de servicio,84264,22,Moderado
+364,Laboratorio,Operativo,46902,22,Bajo
+365,Laboratorio,Fuera de servicio,78302,20,Alto
+366,Quirófano,Operativo,59062,84,Alto
+367,Urgencias,Operativo,50135,30,Bajo
+368,Urgencias,Mantenimiento,1634,1,Bajo
+369,UCI,Fuera de servicio,65654,35,Bajo
+370,Laboratorio,Operativo,26631,40,Alto
+371,Urgencias,Fuera de servicio,14478,44,Moderado
+372,UCI,Operativo,77487,7,Moderado
+373,Urgencias,Operativo,2554,79,Alto
+374,Laboratorio,Fuera de servicio,16067,83,Moderado
+375,UCI,Operativo,18307,32,Alto
+376,UCI,Mantenimiento,85980,95,Bajo
+377,Quirófano,Mantenimiento,80307,33,Moderado
+378,Quirófano,Operativo,34767,17,Moderado
+379,UCI,Fuera de servicio,8127,15,Alto
+380,Radiología,Operativo,43598,32,Bajo
+381,Urgencias,Fuera de servicio,33991,3,Bajo
+382,Laboratorio,Operativo,37758,39,Moderado
+383,Urgencias,Operativo,20217,76,Moderado
+384,Urgencias,Mantenimiento,69231,44,Moderado
+385,UCI,Mantenimiento,82328,87,Moderado
+386,Quirófano,Operativo,29254,89,Moderado
+387,Quirófano,Operativo,37489,33,Bajo
+388,Urgencias,Fuera de servicio,50298,97,Moderado
+389,Radiología,Fuera de servicio,49460,22,Alto
+390,UCI,Fuera de servicio,34304,50,Alto
+391,Laboratorio,Fuera de servicio,42140,93,Moderado
+392,Laboratorio,Mantenimiento,71655,50,Alto
+393,Urgencias,Fuera de servicio,60979,84,Moderado
+394,Urgencias,Operativo,39972,19,Bajo
+395,Radiología,Operativo,65543,33,Bajo
+396,Quirófano,Operativo,55809,7,Moderado
+397,Quirófano,Mantenimiento,77698,28,Bajo
+398,Quirófano,Fuera de servicio,83473,76,Bajo
+399,UCI,Operativo,66384,78,Moderado
+400,Urgencias,Mantenimiento,86092,11,Alto
+401,Radiología,Operativo,16833,97,Moderado
+402,Urgencias,Fuera de servicio,7006,12,Alto
+403,Quirófano,Fuera de servicio,1464,51,Moderado
+404,Laboratorio,Operativo,25008,75,Moderado
+405,Quirófano,Fuera de servicio,15344,70,Alto
+406,Urgencias,Fuera de servicio,31724,63,Moderado
+407,Laboratorio,Operativo,81566,36,Alto
+408,UCI,Fuera de servicio,32611,65,Bajo
+409,UCI,Operativo,71603,58,Alto
+410,Quirófano,Operativo,78866,33,Alto
+411,Laboratorio,Operativo,71562,77,Moderado
+412,UCI,Fuera de servicio,26615,56,Alto
+413,Laboratorio,Operativo,80695,3,Moderado
+414,UCI,Fuera de servicio,18289,22,Alto
+415,Urgencias,Fuera de servicio,73522,3,Alto
+416,Laboratorio,Fuera de servicio,85789,80,Alto
+417,UCI,Fuera de servicio,3603,2,Alto
+418,Laboratorio,Fuera de servicio,40411,78,Moderado
+419,Urgencias,Operativo,42347,86,Moderado
+420,Radiología,Fuera de servicio,86231,88,Moderado
+421,Urgencias,Fuera de servicio,30208,14,Alto
+422,Quirófano,Fuera de servicio,7557,38,Moderado
+423,UCI,Fuera de servicio,13294,40,Alto
+424,Quirófano,Fuera de servicio,86296,90,Alto
+425,Urgencias,Operativo,67277,24,Bajo
+426,Urgencias,Fuera de servicio,749,79,Bajo
+427,Radiología,Mantenimiento,82588,74,Moderado
+428,Radiología,Fuera de servicio,18341,68,Alto
+429,UCI,Operativo,813,41,Alto
+430,Radiología,Operativo,13513,81,Alto
+431,Urgencias,Mantenimiento,73588,34,Moderado
+432,Laboratorio,Operativo,4396,55,Bajo
+433,Urgencias,Mantenimiento,44881,12,Bajo
+434,Radiología,Operativo,24100,24,Alto
+435,UCI,Operativo,8134,89,Alto
+436,Urgencias,Fuera de servicio,3484,72,Alto
+437,Radiología,Mantenimiento,58444,70,Bajo
+438,UCI,Mantenimiento,21530,8,Moderado
+439,Urgencias,Operativo,50000,74,Alto
+440,Laboratorio,Fuera de servicio,17319,70,Bajo
+441,Urgencias,Mantenimiento,72806,65,Bajo
+442,Radiología,Operativo,34436,90,Bajo
+443,Quirófano,Mantenimiento,73225,22,Moderado
+444,Radiología,Mantenimiento,71976,31,Moderado
+445,Quirófano,Operativo,13469,46,Moderado
+446,Laboratorio,Mantenimiento,40383,67,Bajo
+447,Laboratorio,Fuera de servicio,10703,0,Moderado
+448,Laboratorio,Mantenimiento,68184,92,Alto
+449,Quirófano,Mantenimiento,8733,42,Alto
+450,Radiología,Operativo,13664,57,Moderado
+451,UCI,Mantenimiento,64890,48,Moderado
+452,Quirófano,Mantenimiento,47250,95,Moderado
+453,Urgencias,Operativo,82770,94,Alto
+454,Quirófano,Mantenimiento,31002,64,Alto
+455,Urgencias,Fuera de servicio,61848,58,Alto
+456,Urgencias,Mantenimiento,20539,46,Bajo
+457,Quirófano,Mantenimiento,49052,82,Bajo
+458,UCI,Operativo,49323,76,Bajo
+459,Laboratorio,Mantenimiento,30724,92,Moderado
+460,Laboratorio,Mantenimiento,28760,4,Alto
+461,UCI,Fuera de servicio,30260,68,Moderado
+462,Urgencias,Fuera de servicio,49938,55,Moderado
+463,UCI,Fuera de servicio,3887,66,Alto
+464,Laboratorio,Mantenimiento,72018,71,Alto
+465,Quirófano,Mantenimiento,75834,53,Alto
+466,UCI,Operativo,85084,48,Bajo
+467,Quirófano,Mantenimiento,9308,30,Bajo
+468,Radiología,Operativo,49194,94,Moderado
+469,Radiología,Fuera de servicio,80509,57,Bajo
+470,Quirófano,Operativo,59709,26,Alto
+471,Quirófano,Mantenimiento,83055,89,Bajo
+472,Radiología,Fuera de servicio,4749,23,Bajo
+473,Radiología,Fuera de servicio,15278,72,Moderado
+474,Quirófano,Operativo,45812,20,Bajo
+475,Radiología,Operativo,64806,5,Moderado
+476,UCI,Operativo,8447,71,Bajo
+477,Urgencias,Mantenimiento,68623,80,Alto
+478,UCI,Mantenimiento,1481,37,Alto
+479,Quirófano,Fuera de servicio,36210,69,Bajo
+480,Laboratorio,Mantenimiento,53289,64,Bajo
+481,Radiología,Fuera de servicio,41418,61,Alto
+482,Laboratorio,Mantenimiento,26068,52,Alto
+483,Urgencias,Operativo,29114,81,Moderado
+484,Quirófano,Fuera de servicio,51653,74,Moderado
+485,Quirófano,Operativo,60699,58,Alto
+486,Radiología,Mantenimiento,16169,95,Bajo
+487,UCI,Mantenimiento,21418,47,Alto
+488,UCI,Operativo,49136,43,Bajo
+489,Quirófano,Mantenimiento,34469,58,Bajo
+490,Urgencias,Mantenimiento,30446,12,Bajo
+491,Quirófano,Fuera de servicio,39680,80,Moderado
+492,Radiología,Mantenimiento,75090,41,Alto
+493,Urgencias,Mantenimiento,17616,42,Moderado
+494,Radiología,Fuera de servicio,34447,4,Moderado
+495,UCI,Operativo,8721,13,Moderado
+496,Urgencias,Operativo,52436,34,Bajo
+497,UCI,Fuera de servicio,22394,60,Bajo
+498,UCI,Operativo,1033,25,Alto
+499,UCI,Mantenimiento,82716,99,Bajo
+500,Radiología,Fuera de servicio,45171,95,Moderado

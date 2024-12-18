@@ -1,0 +1,501 @@
+ID,UbicacionPlaza,Estado
+1,Chamberí,Libre
+2,Moncloa,Ocupado
+3,Chamartín,Ocupado
+4,Chueca,Libre
+5,Cibeles,Ocupado
+6,Plaza Mayor,Libre
+7,Plaza Mayor,Ocupado
+8,Gran Vía,Libre
+9,Barrio Salamanca,Libre
+10,Chamartín,Ocupado
+11,Barrio Salamanca,Libre
+12,Lavapiés,Ocupado
+13,San Blas,Ocupado
+14,Plaza Mayor,Libre
+15,Argüelles,Ocupado
+16,Chamberí,Ocupado
+17,Gran Vía,Ocupado
+18,La Latina,Libre
+19,Calle de Alcalá,Libre
+20,Madrid Río,Ocupado
+21,La Latina,Libre
+22,Lavapiés,Ocupado
+23,Vicálvaro,Ocupado
+24,Moncloa,Ocupado
+25,Gran Vía,Libre
+26,Madrid Río,Libre
+27,Moncloa,Ocupado
+28,Vicálvaro,Libre
+29,Moncloa,Ocupado
+30,Puerta del Sol,Ocupado
+31,Argüelles,Ocupado
+32,Puerta del Sol,Libre
+33,Cibeles,Ocupado
+34,Puerta del Sol,Ocupado
+35,Atocha,Ocupado
+36,Tetuán,Ocupado
+37,Vicálvaro,Libre
+38,Vicálvaro,Ocupado
+39,Plaza Mayor,Libre
+40,Chamartín,Libre
+41,Tetuán,Ocupado
+42,Barrio Salamanca,Libre
+43,Atocha,Libre
+44,Chamberí,Ocupado
+45,La Latina,Ocupado
+46,San Blas,Libre
+47,Retiro,Libre
+48,Calle de Alcalá,Ocupado
+49,Vicálvaro,Ocupado
+50,La Latina,Ocupado
+51,Puerta del Sol,Libre
+52,Tetuán,Libre
+53,Cibeles,Libre
+54,San Blas,Ocupado
+55,Madrid Río,Ocupado
+56,Retiro,Libre
+57,Chueca,Libre
+58,Puerta del Sol,Libre
+59,Barrio Salamanca,Ocupado
+60,Barrio Salamanca,Ocupado
+61,San Blas,Ocupado
+62,Calle de Alcalá,Ocupado
+63,Argüelles,Ocupado
+64,Lavapiés,Libre
+65,Barrio Salamanca,Ocupado
+66,Vicálvaro,Ocupado
+67,Retiro,Libre
+68,Cibeles,Ocupado
+69,Barrio Salamanca,Ocupado
+70,Lavapiés,Ocupado
+71,Plaza Mayor,Ocupado
+72,Retiro,Ocupado
+73,Atocha,Ocupado
+74,Chamberí,Ocupado
+75,Calle de Alcalá,Libre
+76,Gran Vía,Ocupado
+77,Tetuán,Ocupado
+78,Calle de Alcalá,Libre
+79,La Latina,Libre
+80,Gran Vía,Libre
+81,Chamartín,Libre
+82,Argüelles,Libre
+83,Chamberí,Ocupado
+84,Tetuán,Libre
+85,Plaza Mayor,Ocupado
+86,Lavapiés,Ocupado
+87,San Blas,Ocupado
+88,Retiro,Libre
+89,Tetuán,Libre
+90,La Latina,Libre
+91,Chueca,Libre
+92,Cibeles,Libre
+93,Lavapiés,Ocupado
+94,Puerta del Sol,Ocupado
+95,Chueca,Ocupado
+96,San Blas,Libre
+97,Vicálvaro,Ocupado
+98,Argüelles,Libre
+99,Puerta del Sol,Ocupado
+100,Barrio Salamanca,Libre
+101,Moncloa,Libre
+102,La Latina,Libre
+103,Malasaña,Libre
+104,Plaza Mayor,Ocupado
+105,Gran Vía,Libre
+106,Puerta del Sol,Ocupado
+107,Puerta del Sol,Ocupado
+108,Plaza Mayor,Libre
+109,Gran Vía,Libre
+110,Chamberí,Libre
+111,Retiro,Libre
+112,Puerta del Sol,Libre
+113,Lavapiés,Libre
+114,Madrid Río,Ocupado
+115,Chueca,Ocupado
+116,Atocha,Ocupado
+117,Moncloa,Libre
+118,Malasaña,Ocupado
+119,Gran Vía,Ocupado
+120,Atocha,Ocupado
+121,Vicálvaro,Ocupado
+122,Atocha,Libre
+123,La Latina,Libre
+124,Malasaña,Ocupado
+125,Atocha,Ocupado
+126,Puerta del Sol,Ocupado
+127,Lavapiés,Libre
+128,Tetuán,Ocupado
+129,Tetuán,Ocupado
+130,Vicálvaro,Ocupado
+131,San Blas,Ocupado
+132,Chamartín,Libre
+133,La Latina,Libre
+134,Lavapiés,Libre
+135,Chamartín,Libre
+136,Malasaña,Ocupado
+137,Plaza Mayor,Ocupado
+138,Barrio Salamanca,Libre
+139,Madrid Río,Libre
+140,Chamberí,Ocupado
+141,Malasaña,Ocupado
+142,Moncloa,Ocupado
+143,Argüelles,Libre
+144,San Blas,Ocupado
+145,Chueca,Libre
+146,Chamberí,Ocupado
+147,Chamartín,Ocupado
+148,Vicálvaro,Libre
+149,Calle de Alcalá,Libre
+150,Malasaña,Libre
+151,Chueca,Libre
+152,Malasaña,Libre
+153,Gran Vía,Libre
+154,Moncloa,Libre
+155,Retiro,Libre
+156,Chueca,Libre
+157,Puerta del Sol,Libre
+158,Retiro,Ocupado
+159,San Blas,Libre
+160,Vicálvaro,Libre
+161,Atocha,Libre
+162,San Blas,Ocupado
+163,Moncloa,Ocupado
+164,Chamberí,Ocupado
+165,Argüelles,Ocupado
+166,Puerta del Sol,Libre
+167,Chamberí,Libre
+168,Madrid Río,Libre
+169,Barrio Salamanca,Ocupado
+170,Argüelles,Libre
+171,Barrio Salamanca,Libre
+172,Argüelles,Ocupado
+173,Chamartín,Ocupado
+174,Barrio Salamanca,Ocupado
+175,La Latina,Ocupado
+176,Madrid Río,Ocupado
+177,Chamartín,Libre
+178,La Latina,Libre
+179,Madrid Río,Libre
+180,Lavapiés,Ocupado
+181,Lavapiés,Ocupado
+182,Chueca,Ocupado
+183,Moncloa,Libre
+184,Puerta del Sol,Ocupado
+185,Malasaña,Ocupado
+186,Malasaña,Libre
+187,Chamartín,Ocupado
+188,Chamberí,Ocupado
+189,Plaza Mayor,Libre
+190,Tetuán,Libre
+191,San Blas,Ocupado
+192,Atocha,Libre
+193,Tetuán,Libre
+194,Cibeles,Ocupado
+195,Atocha,Libre
+196,Moncloa,Libre
+197,Atocha,Libre
+198,Calle de Alcalá,Ocupado
+199,Madrid Río,Ocupado
+200,Gran Vía,Libre
+201,Moncloa,Libre
+202,Chueca,Libre
+203,Malasaña,Libre
+204,La Latina,Ocupado
+205,Retiro,Ocupado
+206,La Latina,Libre
+207,Plaza Mayor,Libre
+208,Calle de Alcalá,Ocupado
+209,Retiro,Ocupado
+210,Puerta del Sol,Ocupado
+211,Vicálvaro,Ocupado
+212,Tetuán,Libre
+213,Chamberí,Libre
+214,Retiro,Libre
+215,Chueca,Libre
+216,Retiro,Ocupado
+217,San Blas,Ocupado
+218,Argüelles,Ocupado
+219,Cibeles,Ocupado
+220,Cibeles,Ocupado
+221,Argüelles,Ocupado
+222,La Latina,Ocupado
+223,Moncloa,Ocupado
+224,Tetuán,Ocupado
+225,Malasaña,Ocupado
+226,Barrio Salamanca,Libre
+227,Argüelles,Libre
+228,Malasaña,Libre
+229,Madrid Río,Libre
+230,Puerta del Sol,Libre
+231,Barrio Salamanca,Libre
+232,San Blas,Libre
+233,Barrio Salamanca,Libre
+234,Retiro,Libre
+235,Chueca,Ocupado
+236,Puerta del Sol,Ocupado
+237,Tetuán,Ocupado
+238,La Latina,Libre
+239,Malasaña,Ocupado
+240,Chueca,Libre
+241,Lavapiés,Ocupado
+242,Atocha,Libre
+243,Chueca,Ocupado
+244,Puerta del Sol,Libre
+245,La Latina,Libre
+246,San Blas,Libre
+247,Chamartín,Ocupado
+248,Plaza Mayor,Ocupado
+249,Madrid Río,Libre
+250,Chueca,Ocupado
+251,Argüelles,Libre
+252,Retiro,Ocupado
+253,Chamberí,Ocupado
+254,Plaza Mayor,Libre
+255,Tetuán,Libre
+256,Malasaña,Ocupado
+257,Argüelles,Libre
+258,Calle de Alcalá,Libre
+259,Vicálvaro,Libre
+260,Chamartín,Libre
+261,La Latina,Ocupado
+262,Moncloa,Libre
+263,San Blas,Ocupado
+264,San Blas,Libre
+265,Moncloa,Libre
+266,Gran Vía,Libre
+267,Malasaña,Ocupado
+268,Lavapiés,Ocupado
+269,Atocha,Libre
+270,Retiro,Libre
+271,Cibeles,Libre
+272,Atocha,Ocupado
+273,San Blas,Ocupado
+274,Barrio Salamanca,Ocupado
+275,San Blas,Libre
+276,Vicálvaro,Ocupado
+277,Cibeles,Libre
+278,Chamartín,Ocupado
+279,Moncloa,Libre
+280,Vicálvaro,Ocupado
+281,Lavapiés,Libre
+282,Barrio Salamanca,Ocupado
+283,Chamberí,Ocupado
+284,Vicálvaro,Ocupado
+285,Argüelles,Ocupado
+286,Chueca,Libre
+287,Gran Vía,Libre
+288,Calle de Alcalá,Ocupado
+289,La Latina,Ocupado
+290,Atocha,Ocupado
+291,San Blas,Libre
+292,Atocha,Ocupado
+293,Chamberí,Libre
+294,Vicálvaro,Libre
+295,Barrio Salamanca,Ocupado
+296,Malasaña,Libre
+297,Moncloa,Ocupado
+298,Retiro,Libre
+299,Calle de Alcalá,Ocupado
+300,Chueca,Libre
+301,Atocha,Ocupado
+302,Gran Vía,Ocupado
+303,Plaza Mayor,Ocupado
+304,Calle de Alcalá,Libre
+305,Retiro,Libre
+306,Chamartín,Ocupado
+307,Chamberí,Ocupado
+308,Tetuán,Libre
+309,Lavapiés,Ocupado
+310,Plaza Mayor,Ocupado
+311,Vicálvaro,Ocupado
+312,Tetuán,Ocupado
+313,Chamartín,Libre
+314,Calle de Alcalá,Libre
+315,Puerta del Sol,Libre
+316,Cibeles,Libre
+317,Atocha,Libre
+318,San Blas,Libre
+319,Calle de Alcalá,Libre
+320,La Latina,Ocupado
+321,Malasaña,Libre
+322,Calle de Alcalá,Ocupado
+323,Puerta del Sol,Ocupado
+324,Chueca,Ocupado
+325,Puerta del Sol,Ocupado
+326,Plaza Mayor,Libre
+327,Malasaña,Libre
+328,Chamartín,Ocupado
+329,Cibeles,Ocupado
+330,Moncloa,Libre
+331,Calle de Alcalá,Libre
+332,Chamartín,Libre
+333,Cibeles,Libre
+334,Madrid Río,Libre
+335,San Blas,Ocupado
+336,Plaza Mayor,Ocupado
+337,San Blas,Libre
+338,Puerta del Sol,Ocupado
+339,Malasaña,Ocupado
+340,Atocha,Libre
+341,Chamberí,Ocupado
+342,Moncloa,Libre
+343,La Latina,Libre
+344,Madrid Río,Libre
+345,San Blas,Ocupado
+346,Chamberí,Ocupado
+347,Chueca,Ocupado
+348,Cibeles,Ocupado
+349,Argüelles,Libre
+350,Retiro,Ocupado
+351,Retiro,Libre
+352,Calle de Alcalá,Ocupado
+353,Barrio Salamanca,Libre
+354,Lavapiés,Libre
+355,Gran Vía,Libre
+356,Chueca,Ocupado
+357,Madrid Río,Ocupado
+358,Moncloa,Libre
+359,Vicálvaro,Libre
+360,Chamberí,Libre
+361,Gran Vía,Ocupado
+362,Lavapiés,Ocupado
+363,Vicálvaro,Ocupado
+364,San Blas,Ocupado
+365,Vicálvaro,Libre
+366,Atocha,Ocupado
+367,Calle de Alcalá,Ocupado
+368,Malasaña,Ocupado
+369,Tetuán,Ocupado
+370,Chamberí,Libre
+371,Madrid Río,Ocupado
+372,La Latina,Libre
+373,Chamartín,Libre
+374,Chueca,Libre
+375,Chamartín,Libre
+376,Chamartín,Libre
+377,Vicálvaro,Libre
+378,Atocha,Libre
+379,Cibeles,Libre
+380,Barrio Salamanca,Libre
+381,La Latina,Ocupado
+382,Chamberí,Ocupado
+383,Atocha,Libre
+384,Moncloa,Libre
+385,Chamartín,Libre
+386,Cibeles,Libre
+387,Tetuán,Libre
+388,Calle de Alcalá,Libre
+389,Argüelles,Libre
+390,Plaza Mayor,Libre
+391,San Blas,Libre
+392,Madrid Río,Libre
+393,Calle de Alcalá,Libre
+394,Retiro,Libre
+395,Barrio Salamanca,Libre
+396,Atocha,Libre
+397,La Latina,Libre
+398,Calle de Alcalá,Ocupado
+399,Atocha,Libre
+400,La Latina,Libre
+401,Puerta del Sol,Libre
+402,Malasaña,Libre
+403,Malasaña,Ocupado
+404,Lavapiés,Libre
+405,Malasaña,Libre
+406,Chueca,Libre
+407,Retiro,Libre
+408,Puerta del Sol,Libre
+409,Lavapiés,Ocupado
+410,Chamberí,Libre
+411,Chamberí,Libre
+412,Calle de Alcalá,Libre
+413,Chamartín,Ocupado
+414,La Latina,Libre
+415,San Blas,Ocupado
+416,Moncloa,Libre
+417,Lavapiés,Ocupado
+418,Plaza Mayor,Libre
+419,Lavapiés,Libre
+420,Gran Vía,Libre
+421,Tetuán,Libre
+422,Argüelles,Ocupado
+423,Cibeles,Libre
+424,Plaza Mayor,Ocupado
+425,Calle de Alcalá,Libre
+426,Plaza Mayor,Libre
+427,Chamartín,Ocupado
+428,Moncloa,Ocupado
+429,Chamartín,Ocupado
+430,Chueca,Ocupado
+431,Gran Vía,Ocupado
+432,Chamberí,Ocupado
+433,Chueca,Ocupado
+434,La Latina,Ocupado
+435,Cibeles,Ocupado
+436,Vicálvaro,Ocupado
+437,Retiro,Libre
+438,Malasaña,Ocupado
+439,Calle de Alcalá,Ocupado
+440,Tetuán,Libre
+441,Gran Vía,Libre
+442,Calle de Alcalá,Libre
+443,Malasaña,Ocupado
+444,Cibeles,Libre
+445,La Latina,Libre
+446,Argüelles,Ocupado
+447,Atocha,Libre
+448,Vicálvaro,Ocupado
+449,La Latina,Ocupado
+450,Chueca,Libre
+451,Malasaña,Libre
+452,Moncloa,Ocupado
+453,La Latina,Ocupado
+454,Puerta del Sol,Ocupado
+455,La Latina,Libre
+456,Retiro,Ocupado
+457,Cibeles,Ocupado
+458,Lavapiés,Libre
+459,Barrio Salamanca,Ocupado
+460,Moncloa,Libre
+461,Gran Vía,Libre
+462,San Blas,Ocupado
+463,Argüelles,Libre
+464,Cibeles,Libre
+465,Chueca,Ocupado
+466,Chamberí,Libre
+467,Argüelles,Libre
+468,Moncloa,Ocupado
+469,Vicálvaro,Ocupado
+470,Lavapiés,Libre
+471,Puerta del Sol,Ocupado
+472,Barrio Salamanca,Libre
+473,Chamartín,Libre
+474,Cibeles,Ocupado
+475,Chamberí,Libre
+476,Calle de Alcalá,Libre
+477,Cibeles,Libre
+478,Moncloa,Ocupado
+479,Madrid Río,Ocupado
+480,Barrio Salamanca,Libre
+481,Chamartín,Ocupado
+482,Vicálvaro,Libre
+483,Cibeles,Ocupado
+484,Calle de Alcalá,Ocupado
+485,Argüelles,Libre
+486,Vicálvaro,Ocupado
+487,Tetuán,Libre
+488,Lavapiés,Ocupado
+489,Cibeles,Libre
+490,Chamberí,Ocupado
+491,San Blas,Libre
+492,Vicálvaro,Libre
+493,Chueca,Libre
+494,La Latina,Ocupado
+495,Chamartín,Ocupado
+496,Moncloa,Libre
+497,Barrio Salamanca,Ocupado
+498,San Blas,Libre
+499,Cibeles,Ocupado
+500,Cibeles,Libre

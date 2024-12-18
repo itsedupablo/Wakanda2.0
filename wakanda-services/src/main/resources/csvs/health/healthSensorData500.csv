@@ -1,0 +1,501 @@
+ID,Ubicacion,PacientesMonitorizados,PromedioRitmoCardiaco,AlertasEmitidas,NivelCriticidad
+1,Urgencias - Box 4,0,119,3,Bajo
+2,Radiología - Sala A,8,94,2,Alto
+3,Laboratorio 2,6,92,2,Moderado
+4,Urgencias - Box 4,1,113,3,Alto
+5,Radiología - Sala A,2,73,1,Moderado
+6,UCI - Cama 1,1,112,0,Moderado
+7,Urgencias - Box 4,4,72,4,Moderado
+8,UCI - Cama 1,5,66,0,Bajo
+9,Laboratorio 2,1,65,0,Bajo
+10,Urgencias - Box 4,4,62,3,Alto
+11,Quirófano 3,9,76,4,Bajo
+12,UCI - Cama 1,3,96,1,Alto
+13,Quirófano 3,4,117,3,Moderado
+14,Quirófano 3,3,103,2,Bajo
+15,UCI - Cama 1,0,73,2,Moderado
+16,Quirófano 3,3,100,1,Moderado
+17,Urgencias - Box 4,6,74,4,Bajo
+18,UCI - Cama 1,0,63,2,Alto
+19,Quirófano 3,2,109,0,Alto
+20,Radiología - Sala A,9,90,3,Alto
+21,Laboratorio 2,5,91,1,Moderado
+22,Urgencias - Box 4,2,119,1,Moderado
+23,Urgencias - Box 4,0,79,1,Alto
+24,Quirófano 3,8,68,2,Bajo
+25,Quirófano 3,5,66,3,Alto
+26,Quirófano 3,7,71,3,Alto
+27,UCI - Cama 1,5,76,4,Moderado
+28,Quirófano 3,5,79,3,Bajo
+29,Quirófano 3,4,105,2,Moderado
+30,UCI - Cama 1,4,77,1,Alto
+31,Quirófano 3,2,81,2,Alto
+32,Radiología - Sala A,1,77,4,Alto
+33,UCI - Cama 1,1,67,2,Bajo
+34,Quirófano 3,3,114,0,Moderado
+35,Radiología - Sala A,5,113,1,Moderado
+36,UCI - Cama 1,2,61,2,Bajo
+37,Laboratorio 2,5,93,2,Bajo
+38,Urgencias - Box 4,0,74,1,Moderado
+39,Radiología - Sala A,5,67,4,Bajo
+40,Radiología - Sala A,1,102,3,Alto
+41,Quirófano 3,7,65,1,Moderado
+42,Radiología - Sala A,8,103,0,Alto
+43,Quirófano 3,0,115,1,Alto
+44,Quirófano 3,2,84,4,Moderado
+45,UCI - Cama 1,9,62,3,Alto
+46,UCI - Cama 1,1,66,0,Bajo
+47,Radiología - Sala A,4,64,4,Alto
+48,Quirófano 3,1,113,4,Alto
+49,Radiología - Sala A,5,83,2,Alto
+50,Urgencias - Box 4,3,88,0,Moderado
+51,Laboratorio 2,8,112,3,Moderado
+52,Urgencias - Box 4,3,60,3,Moderado
+53,Quirófano 3,6,89,2,Bajo
+54,Radiología - Sala A,0,104,4,Alto
+55,Quirófano 3,6,96,2,Moderado
+56,Quirófano 3,7,94,0,Moderado
+57,Urgencias - Box 4,0,107,4,Moderado
+58,Quirófano 3,4,78,4,Alto
+59,Radiología - Sala A,4,77,3,Bajo
+60,Radiología - Sala A,6,103,0,Moderado
+61,Quirófano 3,8,107,0,Alto
+62,Radiología - Sala A,3,86,1,Moderado
+63,Laboratorio 2,1,62,2,Alto
+64,Laboratorio 2,7,115,4,Moderado
+65,Radiología - Sala A,8,99,3,Bajo
+66,Radiología - Sala A,1,119,2,Alto
+67,UCI - Cama 1,2,71,4,Bajo
+68,Laboratorio 2,9,71,0,Moderado
+69,Radiología - Sala A,9,78,1,Bajo
+70,Urgencias - Box 4,5,65,0,Bajo
+71,Quirófano 3,9,73,3,Bajo
+72,Radiología - Sala A,1,61,3,Moderado
+73,Radiología - Sala A,6,91,2,Moderado
+74,Quirófano 3,5,95,4,Bajo
+75,Radiología - Sala A,1,88,1,Alto
+76,Urgencias - Box 4,9,108,1,Bajo
+77,Radiología - Sala A,6,92,1,Moderado
+78,Urgencias - Box 4,4,86,1,Alto
+79,Urgencias - Box 4,1,76,4,Moderado
+80,Quirófano 3,6,115,1,Bajo
+81,Urgencias - Box 4,7,104,3,Bajo
+82,Urgencias - Box 4,7,92,3,Bajo
+83,Quirófano 3,1,116,4,Moderado
+84,UCI - Cama 1,5,87,1,Moderado
+85,Laboratorio 2,8,68,4,Alto
+86,UCI - Cama 1,8,83,0,Bajo
+87,Urgencias - Box 4,8,105,1,Moderado
+88,Radiología - Sala A,1,85,0,Bajo
+89,Laboratorio 2,1,103,1,Bajo
+90,Laboratorio 2,8,112,0,Bajo
+91,UCI - Cama 1,3,110,2,Moderado
+92,Radiología - Sala A,5,73,0,Bajo
+93,Radiología - Sala A,9,112,4,Alto
+94,Radiología - Sala A,1,102,1,Bajo
+95,Urgencias - Box 4,2,93,3,Moderado
+96,UCI - Cama 1,2,61,3,Bajo
+97,Laboratorio 2,6,97,0,Bajo
+98,UCI - Cama 1,7,91,4,Alto
+99,Quirófano 3,2,76,4,Bajo
+100,Quirófano 3,7,96,1,Bajo
+101,UCI - Cama 1,3,76,0,Alto
+102,UCI - Cama 1,5,65,3,Alto
+103,Laboratorio 2,1,87,4,Bajo
+104,Laboratorio 2,3,80,1,Alto
+105,Quirófano 3,2,74,1,Alto
+106,Laboratorio 2,2,65,2,Bajo
+107,UCI - Cama 1,2,97,1,Bajo
+108,Laboratorio 2,1,117,4,Moderado
+109,Quirófano 3,0,79,2,Bajo
+110,Radiología - Sala A,7,63,1,Bajo
+111,Laboratorio 2,1,119,4,Moderado
+112,Radiología - Sala A,6,115,4,Bajo
+113,Radiología - Sala A,3,119,4,Alto
+114,Laboratorio 2,8,104,1,Bajo
+115,Urgencias - Box 4,8,70,0,Alto
+116,Radiología - Sala A,1,82,3,Alto
+117,Urgencias - Box 4,8,62,2,Alto
+118,Radiología - Sala A,0,98,0,Bajo
+119,Laboratorio 2,2,102,0,Moderado
+120,Urgencias - Box 4,8,62,1,Alto
+121,UCI - Cama 1,2,86,0,Moderado
+122,Laboratorio 2,1,83,4,Bajo
+123,UCI - Cama 1,5,82,4,Alto
+124,Urgencias - Box 4,4,113,0,Bajo
+125,Radiología - Sala A,1,62,0,Alto
+126,Laboratorio 2,5,88,4,Bajo
+127,Quirófano 3,0,85,1,Alto
+128,Urgencias - Box 4,5,116,2,Moderado
+129,Laboratorio 2,3,75,2,Bajo
+130,Quirófano 3,9,106,1,Bajo
+131,Laboratorio 2,9,83,2,Alto
+132,Laboratorio 2,6,116,3,Moderado
+133,UCI - Cama 1,5,84,0,Moderado
+134,Quirófano 3,4,117,1,Alto
+135,Quirófano 3,5,74,4,Bajo
+136,Radiología - Sala A,9,111,0,Bajo
+137,UCI - Cama 1,5,91,0,Bajo
+138,Quirófano 3,0,91,2,Alto
+139,Urgencias - Box 4,7,71,0,Alto
+140,Radiología - Sala A,2,104,3,Bajo
+141,UCI - Cama 1,6,116,1,Bajo
+142,UCI - Cama 1,4,91,1,Alto
+143,Radiología - Sala A,5,77,1,Moderado
+144,Laboratorio 2,5,96,1,Bajo
+145,Laboratorio 2,8,101,0,Bajo
+146,Laboratorio 2,3,101,4,Alto
+147,Radiología - Sala A,8,87,2,Moderado
+148,Quirófano 3,2,84,1,Alto
+149,Radiología - Sala A,3,108,3,Alto
+150,Quirófano 3,3,68,4,Alto
+151,Urgencias - Box 4,3,71,3,Moderado
+152,Urgencias - Box 4,3,60,0,Bajo
+153,Radiología - Sala A,5,69,2,Moderado
+154,UCI - Cama 1,0,77,3,Moderado
+155,UCI - Cama 1,7,70,3,Bajo
+156,UCI - Cama 1,1,104,2,Moderado
+157,Radiología - Sala A,1,97,0,Moderado
+158,Urgencias - Box 4,0,105,2,Alto
+159,Laboratorio 2,7,115,0,Alto
+160,Laboratorio 2,8,109,1,Bajo
+161,Laboratorio 2,2,109,4,Bajo
+162,Laboratorio 2,5,117,1,Alto
+163,Quirófano 3,4,97,1,Alto
+164,Radiología - Sala A,2,79,3,Moderado
+165,Radiología - Sala A,2,118,4,Moderado
+166,Radiología - Sala A,9,70,3,Moderado
+167,Radiología - Sala A,9,68,2,Alto
+168,Laboratorio 2,7,90,2,Moderado
+169,Radiología - Sala A,7,64,3,Alto
+170,Quirófano 3,4,106,2,Bajo
+171,Urgencias - Box 4,3,112,0,Moderado
+172,Urgencias - Box 4,2,100,1,Moderado
+173,Urgencias - Box 4,4,91,1,Bajo
+174,Radiología - Sala A,3,116,3,Alto
+175,Radiología - Sala A,4,70,4,Alto
+176,Urgencias - Box 4,5,103,1,Alto
+177,UCI - Cama 1,1,77,4,Moderado
+178,Urgencias - Box 4,8,101,4,Bajo
+179,Laboratorio 2,7,104,2,Alto
+180,Laboratorio 2,4,99,3,Bajo
+181,Radiología - Sala A,5,76,0,Bajo
+182,Laboratorio 2,0,98,0,Bajo
+183,Radiología - Sala A,0,109,4,Bajo
+184,Radiología - Sala A,3,73,0,Alto
+185,UCI - Cama 1,1,119,4,Bajo
+186,UCI - Cama 1,2,81,0,Bajo
+187,UCI - Cama 1,7,80,3,Bajo
+188,Laboratorio 2,9,104,4,Alto
+189,UCI - Cama 1,9,60,0,Alto
+190,UCI - Cama 1,1,99,2,Moderado
+191,Quirófano 3,5,109,0,Moderado
+192,Urgencias - Box 4,4,94,4,Alto
+193,Laboratorio 2,1,104,3,Moderado
+194,Laboratorio 2,9,114,3,Alto
+195,UCI - Cama 1,9,77,0,Bajo
+196,Laboratorio 2,7,117,1,Alto
+197,Laboratorio 2,1,72,0,Bajo
+198,Radiología - Sala A,8,85,4,Alto
+199,Urgencias - Box 4,8,77,0,Bajo
+200,Radiología - Sala A,8,76,3,Bajo
+201,Laboratorio 2,8,61,3,Bajo
+202,Radiología - Sala A,8,117,2,Bajo
+203,Urgencias - Box 4,5,82,2,Bajo
+204,Laboratorio 2,6,112,1,Alto
+205,UCI - Cama 1,3,93,1,Moderado
+206,Radiología - Sala A,3,84,3,Moderado
+207,Radiología - Sala A,0,104,4,Moderado
+208,Radiología - Sala A,3,79,1,Alto
+209,Urgencias - Box 4,8,108,1,Bajo
+210,Quirófano 3,1,69,1,Alto
+211,UCI - Cama 1,5,76,4,Bajo
+212,Laboratorio 2,3,104,1,Alto
+213,Quirófano 3,9,61,2,Moderado
+214,Laboratorio 2,1,106,2,Bajo
+215,Laboratorio 2,2,89,1,Bajo
+216,Quirófano 3,9,62,4,Moderado
+217,Radiología - Sala A,8,108,0,Alto
+218,Radiología - Sala A,9,105,0,Bajo
+219,UCI - Cama 1,8,90,1,Moderado
+220,Radiología - Sala A,6,100,4,Alto
+221,UCI - Cama 1,5,82,2,Alto
+222,Urgencias - Box 4,7,96,1,Moderado
+223,Urgencias - Box 4,5,61,0,Moderado
+224,Urgencias - Box 4,1,96,1,Bajo
+225,Quirófano 3,7,83,4,Moderado
+226,Quirófano 3,6,101,1,Bajo
+227,Radiología - Sala A,4,60,4,Bajo
+228,UCI - Cama 1,0,108,3,Moderado
+229,Quirófano 3,8,90,1,Alto
+230,Urgencias - Box 4,5,82,4,Moderado
+231,Quirófano 3,2,108,0,Alto
+232,Radiología - Sala A,3,118,4,Alto
+233,UCI - Cama 1,8,63,3,Alto
+234,Laboratorio 2,4,77,2,Alto
+235,Radiología - Sala A,4,107,2,Moderado
+236,Quirófano 3,1,116,0,Moderado
+237,Urgencias - Box 4,4,75,3,Alto
+238,UCI - Cama 1,9,62,2,Bajo
+239,UCI - Cama 1,1,96,3,Moderado
+240,Urgencias - Box 4,9,85,1,Moderado
+241,UCI - Cama 1,5,114,1,Bajo
+242,Laboratorio 2,3,102,1,Moderado
+243,Urgencias - Box 4,8,76,0,Alto
+244,Radiología - Sala A,0,98,2,Alto
+245,Laboratorio 2,0,66,4,Alto
+246,Quirófano 3,9,102,4,Alto
+247,Urgencias - Box 4,2,115,3,Alto
+248,Radiología - Sala A,6,84,3,Alto
+249,Urgencias - Box 4,3,92,2,Moderado
+250,Radiología - Sala A,2,101,1,Alto
+251,Quirófano 3,0,90,0,Alto
+252,Laboratorio 2,3,90,2,Alto
+253,Radiología - Sala A,3,113,4,Alto
+254,Radiología - Sala A,1,88,0,Bajo
+255,Laboratorio 2,8,77,2,Alto
+256,Urgencias - Box 4,7,80,3,Alto
+257,UCI - Cama 1,6,66,1,Alto
+258,Quirófano 3,8,64,0,Moderado
+259,Urgencias - Box 4,9,81,0,Bajo
+260,Quirófano 3,6,62,2,Bajo
+261,Urgencias - Box 4,4,112,4,Bajo
+262,UCI - Cama 1,4,80,2,Alto
+263,Quirófano 3,1,103,0,Alto
+264,Laboratorio 2,5,107,4,Bajo
+265,Quirófano 3,2,61,0,Moderado
+266,UCI - Cama 1,4,68,1,Alto
+267,Radiología - Sala A,3,114,2,Moderado
+268,Quirófano 3,2,112,3,Bajo
+269,Quirófano 3,5,100,0,Alto
+270,UCI - Cama 1,0,101,3,Alto
+271,Laboratorio 2,5,116,0,Moderado
+272,Laboratorio 2,5,90,3,Moderado
+273,Radiología - Sala A,8,69,1,Bajo
+274,Radiología - Sala A,2,71,2,Alto
+275,UCI - Cama 1,6,106,1,Alto
+276,UCI - Cama 1,5,63,3,Bajo
+277,Quirófano 3,7,72,3,Alto
+278,Urgencias - Box 4,9,95,3,Bajo
+279,Quirófano 3,6,72,3,Bajo
+280,Radiología - Sala A,3,98,4,Moderado
+281,Laboratorio 2,5,113,4,Bajo
+282,Radiología - Sala A,1,105,2,Alto
+283,UCI - Cama 1,1,61,0,Bajo
+284,Quirófano 3,8,115,2,Bajo
+285,Quirófano 3,0,86,1,Bajo
+286,UCI - Cama 1,3,99,1,Bajo
+287,Laboratorio 2,9,92,4,Bajo
+288,Quirófano 3,1,73,2,Bajo
+289,Urgencias - Box 4,5,86,2,Moderado
+290,Laboratorio 2,1,70,1,Moderado
+291,Radiología - Sala A,9,92,2,Moderado
+292,Radiología - Sala A,1,89,1,Bajo
+293,Urgencias - Box 4,7,78,2,Alto
+294,Laboratorio 2,9,98,2,Alto
+295,Laboratorio 2,3,71,2,Bajo
+296,Urgencias - Box 4,5,111,1,Bajo
+297,Radiología - Sala A,8,106,4,Moderado
+298,UCI - Cama 1,7,74,0,Moderado
+299,Quirófano 3,0,68,1,Bajo
+300,UCI - Cama 1,3,105,0,Bajo
+301,Quirófano 3,4,76,3,Alto
+302,UCI - Cama 1,2,61,4,Alto
+303,UCI - Cama 1,5,116,2,Alto
+304,Laboratorio 2,6,90,1,Alto
+305,Laboratorio 2,4,107,3,Bajo
+306,UCI - Cama 1,6,114,0,Bajo
+307,UCI - Cama 1,3,63,1,Bajo
+308,Radiología - Sala A,9,82,1,Alto
+309,Radiología - Sala A,1,72,4,Moderado
+310,Radiología - Sala A,2,107,3,Moderado
+311,Radiología - Sala A,6,67,3,Alto
+312,Laboratorio 2,4,82,3,Alto
+313,UCI - Cama 1,5,72,3,Moderado
+314,Radiología - Sala A,9,84,3,Moderado
+315,Laboratorio 2,2,116,0,Moderado
+316,Laboratorio 2,5,68,2,Bajo
+317,UCI - Cama 1,1,67,0,Alto
+318,Quirófano 3,2,60,3,Bajo
+319,Quirófano 3,0,71,1,Alto
+320,Radiología - Sala A,5,94,1,Moderado
+321,UCI - Cama 1,9,95,3,Alto
+322,Urgencias - Box 4,1,111,3,Moderado
+323,Urgencias - Box 4,5,96,2,Bajo
+324,UCI - Cama 1,2,91,2,Alto
+325,Laboratorio 2,1,79,0,Moderado
+326,UCI - Cama 1,3,110,2,Alto
+327,Laboratorio 2,2,78,0,Bajo
+328,UCI - Cama 1,0,64,2,Alto
+329,Radiología - Sala A,3,92,4,Bajo
+330,UCI - Cama 1,6,84,4,Bajo
+331,Radiología - Sala A,6,119,0,Moderado
+332,Radiología - Sala A,4,98,1,Alto
+333,Radiología - Sala A,1,87,1,Alto
+334,UCI - Cama 1,7,72,4,Moderado
+335,Laboratorio 2,4,80,3,Moderado
+336,Laboratorio 2,5,70,2,Alto
+337,UCI - Cama 1,9,102,3,Alto
+338,Urgencias - Box 4,2,103,0,Bajo
+339,Radiología - Sala A,6,109,1,Bajo
+340,UCI - Cama 1,8,109,0,Moderado
+341,Urgencias - Box 4,6,80,2,Alto
+342,Laboratorio 2,9,66,4,Bajo
+343,Laboratorio 2,6,76,4,Bajo
+344,Quirófano 3,7,86,3,Bajo
+345,UCI - Cama 1,6,101,2,Bajo
+346,Radiología - Sala A,3,70,4,Bajo
+347,Laboratorio 2,5,100,2,Moderado
+348,Radiología - Sala A,9,75,0,Alto
+349,UCI - Cama 1,1,67,1,Moderado
+350,Quirófano 3,5,104,3,Alto
+351,Laboratorio 2,1,112,2,Alto
+352,Quirófano 3,1,93,4,Bajo
+353,UCI - Cama 1,5,60,2,Moderado
+354,Urgencias - Box 4,1,105,4,Bajo
+355,UCI - Cama 1,2,63,3,Bajo
+356,Radiología - Sala A,2,95,2,Bajo
+357,Laboratorio 2,5,60,3,Bajo
+358,Radiología - Sala A,3,103,4,Bajo
+359,Urgencias - Box 4,1,79,2,Moderado
+360,Radiología - Sala A,1,65,3,Bajo
+361,UCI - Cama 1,9,73,3,Alto
+362,UCI - Cama 1,9,98,3,Moderado
+363,Urgencias - Box 4,7,109,1,Bajo
+364,Urgencias - Box 4,9,107,1,Moderado
+365,Urgencias - Box 4,7,64,4,Bajo
+366,UCI - Cama 1,5,88,0,Alto
+367,Urgencias - Box 4,6,85,3,Bajo
+368,Urgencias - Box 4,3,116,3,Moderado
+369,Quirófano 3,3,92,4,Moderado
+370,Quirófano 3,3,118,0,Moderado
+371,Radiología - Sala A,0,85,2,Moderado
+372,UCI - Cama 1,9,97,4,Alto
+373,Urgencias - Box 4,1,105,2,Moderado
+374,Urgencias - Box 4,0,101,2,Alto
+375,UCI - Cama 1,5,102,3,Bajo
+376,UCI - Cama 1,3,93,2,Bajo
+377,UCI - Cama 1,5,93,1,Bajo
+378,Urgencias - Box 4,9,98,2,Bajo
+379,UCI - Cama 1,1,104,2,Bajo
+380,UCI - Cama 1,8,105,3,Bajo
+381,Urgencias - Box 4,8,68,0,Moderado
+382,UCI - Cama 1,2,73,4,Bajo
+383,Radiología - Sala A,5,119,3,Moderado
+384,UCI - Cama 1,3,61,2,Alto
+385,Laboratorio 2,9,62,1,Moderado
+386,Quirófano 3,2,76,2,Bajo
+387,Radiología - Sala A,1,61,4,Alto
+388,Quirófano 3,3,113,4,Bajo
+389,Radiología - Sala A,3,96,1,Moderado
+390,Laboratorio 2,2,76,0,Alto
+391,UCI - Cama 1,1,70,0,Bajo
+392,Radiología - Sala A,5,64,0,Bajo
+393,Laboratorio 2,1,83,3,Moderado
+394,Urgencias - Box 4,2,71,0,Moderado
+395,Laboratorio 2,2,84,0,Bajo
+396,Laboratorio 2,2,100,1,Bajo
+397,Urgencias - Box 4,5,70,1,Bajo
+398,Urgencias - Box 4,1,87,1,Alto
+399,Laboratorio 2,5,91,4,Moderado
+400,Radiología - Sala A,6,88,2,Moderado
+401,Urgencias - Box 4,6,93,4,Alto
+402,Radiología - Sala A,3,99,0,Bajo
+403,Laboratorio 2,4,109,0,Alto
+404,Laboratorio 2,6,63,2,Moderado
+405,Quirófano 3,3,85,1,Moderado
+406,UCI - Cama 1,5,78,2,Moderado
+407,Laboratorio 2,7,111,0,Moderado
+408,Quirófano 3,2,62,0,Alto
+409,Radiología - Sala A,1,88,3,Bajo
+410,Laboratorio 2,6,83,4,Bajo
+411,Radiología - Sala A,3,75,4,Moderado
+412,Urgencias - Box 4,0,67,1,Alto
+413,Laboratorio 2,4,86,3,Moderado
+414,Radiología - Sala A,0,82,2,Alto
+415,Urgencias - Box 4,9,73,0,Bajo
+416,Laboratorio 2,5,78,1,Moderado
+417,Quirófano 3,9,72,2,Bajo
+418,Radiología - Sala A,8,92,2,Moderado
+419,Urgencias - Box 4,5,75,4,Bajo
+420,Radiología - Sala A,0,69,4,Alto
+421,Laboratorio 2,3,101,2,Alto
+422,Quirófano 3,6,112,1,Moderado
+423,Quirófano 3,6,68,2,Moderado
+424,Radiología - Sala A,0,105,1,Moderado
+425,Radiología - Sala A,4,67,0,Bajo
+426,Quirófano 3,1,80,4,Bajo
+427,Radiología - Sala A,1,106,4,Moderado
+428,Quirófano 3,4,69,4,Alto
+429,UCI - Cama 1,6,114,3,Moderado
+430,Urgencias - Box 4,5,73,4,Moderado
+431,Urgencias - Box 4,1,74,2,Moderado
+432,UCI - Cama 1,4,80,1,Bajo
+433,UCI - Cama 1,2,74,0,Alto
+434,Quirófano 3,8,109,2,Bajo
+435,Radiología - Sala A,3,92,3,Alto
+436,Quirófano 3,6,80,1,Bajo
+437,UCI - Cama 1,9,95,4,Moderado
+438,Quirófano 3,2,111,1,Alto
+439,Laboratorio 2,1,67,0,Alto
+440,Quirófano 3,4,93,0,Moderado
+441,UCI - Cama 1,3,64,2,Moderado
+442,Quirófano 3,8,105,1,Moderado
+443,Radiología - Sala A,2,62,2,Moderado
+444,Laboratorio 2,3,60,1,Alto
+445,Laboratorio 2,8,88,4,Moderado
+446,Laboratorio 2,9,65,1,Moderado
+447,Urgencias - Box 4,7,84,1,Alto
+448,Radiología - Sala A,9,86,3,Moderado
+449,Radiología - Sala A,9,116,0,Alto
+450,Radiología - Sala A,6,62,4,Moderado
+451,Radiología - Sala A,4,75,3,Bajo
+452,Urgencias - Box 4,7,115,0,Moderado
+453,UCI - Cama 1,2,84,2,Moderado
+454,Urgencias - Box 4,2,90,1,Bajo
+455,Urgencias - Box 4,8,69,2,Moderado
+456,UCI - Cama 1,1,91,0,Moderado
+457,Urgencias - Box 4,4,80,4,Bajo
+458,Urgencias - Box 4,6,62,2,Bajo
+459,Radiología - Sala A,1,95,2,Alto
+460,UCI - Cama 1,0,113,0,Moderado
+461,Laboratorio 2,2,60,3,Moderado
+462,Laboratorio 2,0,66,4,Bajo
+463,Laboratorio 2,0,77,1,Moderado
+464,Urgencias - Box 4,7,109,1,Alto
+465,UCI - Cama 1,5,64,1,Alto
+466,Radiología - Sala A,6,118,4,Alto
+467,Urgencias - Box 4,7,99,2,Moderado
+468,Urgencias - Box 4,6,109,2,Bajo
+469,UCI - Cama 1,0,99,0,Moderado
+470,UCI - Cama 1,1,108,1,Alto
+471,UCI - Cama 1,9,60,1,Alto
+472,Laboratorio 2,9,83,4,Moderado
+473,Quirófano 3,7,104,3,Bajo
+474,Radiología - Sala A,2,70,2,Bajo
+475,Radiología - Sala A,5,74,1,Bajo
+476,Radiología - Sala A,2,62,3,Moderado
+477,UCI - Cama 1,6,78,4,Bajo
+478,Quirófano 3,6,99,1,Bajo
+479,Radiología - Sala A,5,109,3,Moderado
+480,Radiología - Sala A,1,116,3,Bajo
+481,Urgencias - Box 4,9,112,0,Bajo
+482,Urgencias - Box 4,5,99,4,Moderado
+483,Quirófano 3,5,89,3,Moderado
+484,Quirófano 3,5,118,4,Moderado
+485,Quirófano 3,4,90,4,Moderado
+486,UCI - Cama 1,2,100,4,Moderado
+487,Urgencias - Box 4,4,118,1,Alto
+488,Radiología - Sala A,4,79,3,Alto
+489,Urgencias - Box 4,4,72,3,Bajo
+490,Laboratorio 2,0,70,0,Moderado
+491,Laboratorio 2,7,61,3,Bajo
+492,Urgencias - Box 4,8,62,2,Bajo
+493,Quirófano 3,9,64,0,Alto
+494,Urgencias - Box 4,8,62,4,Moderado
+495,Urgencias - Box 4,3,105,0,Alto
+496,UCI - Cama 1,2,70,2,Bajo
+497,Urgencias - Box 4,9,71,0,Moderado
+498,Quirófano 3,6,78,1,Bajo
+499,Urgencias - Box 4,9,115,2,Moderado
+500,Laboratorio 2,5,83,4,Moderado

@@ -1,0 +1,20 @@
+# wakanda-config/src/main/resources/application.yml
+spring:
+  application:
+    name: wakanda
+  cloud:
+    config:
+      uri: http://localhost:8888  # Si usas Spring Cloud Config Server
+  eureka:
+    client:
+      serviceUrl:
+        defaultZone: http://localhost:8761/eureka/
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+server:
+  port: 8080  # Puerto común, pero será sobrescrito en los servicios específicos si es necesario

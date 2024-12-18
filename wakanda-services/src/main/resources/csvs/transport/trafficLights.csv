@@ -1,0 +1,1001 @@
+ID,Interseccion,Estado,DuracionEstadoSegundos,FlujoVehicular,NivelCongestion
+1,Calle Velázquez - Ortega y Gasset,Rojo,24,498,Alto
+2,Calle Velázquez - Ortega y Gasset,Verde,60,102,Moderado
+3,Calle Princesa - Moncloa,Amarillo,49,198,Alto
+4,Puerta del Sol - Calle Mayor,Amarillo,28,285,Alto
+5,Calle Velázquez - Ortega y Gasset,Amarillo,22,285,Moderado
+6,Gran Vía - Plaza de España,Verde,33,297,Bajo
+7,Calle Fuencarral - Bilbao,Rojo,30,485,Moderado
+8,Gran Vía - Plaza de España,Rojo,25,281,Moderado
+9,Calle Velázquez - Ortega y Gasset,Rojo,48,190,Moderado
+10,Calle Embajadores - Ronda de Valencia,Verde,38,421,Bajo
+11,Gran Vía - Plaza de España,Verde,17,106,Bajo
+12,Gran Vía - Plaza de España,Verde,25,256,Alto
+13,Plaza Castilla - Bravo Murillo,Amarillo,45,100,Moderado
+14,Puerta del Sol - Calle Mayor,Verde,60,216,Alto
+15,Calle Alcalá - Puerta de Alcalá,Verde,37,390,Moderado
+16,Calle Embajadores - Ronda de Valencia,Rojo,43,357,Bajo
+17,Calle Princesa - Moncloa,Amarillo,36,65,Alto
+18,Calle Embajadores - Ronda de Valencia,Verde,12,321,Alto
+19,Plaza Castilla - Bravo Murillo,Amarillo,24,300,Moderado
+20,Gran Vía - Plaza de España,Amarillo,37,391,Bajo
+21,Calle Fuencarral - Bilbao,Amarillo,18,135,Moderado
+22,Gran Vía - Plaza de España,Verde,31,277,Moderado
+23,Plaza Castilla - Bravo Murillo,Verde,44,180,Moderado
+24,Calle Velázquez - Ortega y Gasset,Rojo,48,316,Moderado
+25,Calle Alcalá - Puerta de Alcalá,Rojo,43,295,Moderado
+26,Puerta del Sol - Calle Mayor,Amarillo,49,275,Moderado
+27,Calle Princesa - Moncloa,Amarillo,28,320,Moderado
+28,Gran Vía - Plaza de España,Rojo,52,162,Alto
+29,Paseo del Prado - Atocha,Rojo,22,284,Bajo
+30,Puerta del Sol - Calle Mayor,Verde,55,292,Bajo
+31,Puerta del Sol - Calle Mayor,Verde,55,202,Moderado
+32,Calle Serrano - Calle Goya,Rojo,40,302,Alto
+33,Calle Fuencarral - Bilbao,Amarillo,15,262,Alto
+34,Avenida de América - Francisco Silvela,Amarillo,30,359,Alto
+35,Calle Alcalá - Puerta de Alcalá,Rojo,25,118,Moderado
+36,Paseo del Prado - Atocha,Amarillo,56,317,Bajo
+37,Calle Serrano - Calle Goya,Amarillo,26,397,Moderado
+38,Paseo del Prado - Atocha,Verde,26,482,Alto
+39,Puerta del Sol - Calle Mayor,Rojo,43,152,Bajo
+40,Calle Embajadores - Ronda de Valencia,Rojo,44,261,Moderado
+41,Gran Vía - Plaza de España,Verde,32,318,Bajo
+42,Calle Serrano - Calle Goya,Verde,53,260,Bajo
+43,Calle Princesa - Moncloa,Rojo,33,213,Moderado
+44,Paseo del Prado - Atocha,Amarillo,37,358,Alto
+45,Puerta del Sol - Calle Mayor,Verde,27,94,Alto
+46,Calle Princesa - Moncloa,Verde,24,383,Bajo
+47,Calle Fuencarral - Bilbao,Amarillo,60,417,Alto
+48,Calle Princesa - Moncloa,Rojo,46,118,Bajo
+49,Calle Alcalá - Puerta de Alcalá,Amarillo,54,429,Bajo
+50,Calle Alcalá - Puerta de Alcalá,Rojo,29,399,Bajo
+51,Calle Serrano - Calle Goya,Verde,28,454,Alto
+52,Plaza Castilla - Bravo Murillo,Amarillo,53,252,Alto
+53,Plaza Castilla - Bravo Murillo,Amarillo,58,164,Alto
+54,Plaza Castilla - Bravo Murillo,Verde,13,192,Alto
+55,Calle Velázquez - Ortega y Gasset,Rojo,28,130,Bajo
+56,Calle Princesa - Moncloa,Rojo,23,191,Bajo
+57,Avenida de América - Francisco Silvela,Amarillo,11,136,Alto
+58,Calle Velázquez - Ortega y Gasset,Verde,55,78,Alto
+59,Gran Vía - Plaza de España,Rojo,27,297,Alto
+60,Calle Princesa - Moncloa,Verde,40,368,Alto
+61,Calle Fuencarral - Bilbao,Amarillo,26,415,Moderado
+62,Plaza Castilla - Bravo Murillo,Verde,40,269,Alto
+63,Calle Embajadores - Ronda de Valencia,Verde,11,271,Alto
+64,Calle Fuencarral - Bilbao,Amarillo,16,376,Bajo
+65,Calle Princesa - Moncloa,Amarillo,40,226,Bajo
+66,Calle Embajadores - Ronda de Valencia,Amarillo,28,461,Alto
+67,Puerta del Sol - Calle Mayor,Rojo,36,242,Alto
+68,Calle Princesa - Moncloa,Verde,32,382,Moderado
+69,Avenida de América - Francisco Silvela,Amarillo,33,191,Alto
+70,Calle Velázquez - Ortega y Gasset,Rojo,14,270,Bajo
+71,Plaza Castilla - Bravo Murillo,Amarillo,32,82,Bajo
+72,Puerta del Sol - Calle Mayor,Verde,60,351,Alto
+73,Calle Serrano - Calle Goya,Verde,27,239,Moderado
+74,Paseo del Prado - Atocha,Amarillo,23,115,Bajo
+75,Puerta del Sol - Calle Mayor,Verde,34,358,Bajo
+76,Calle Princesa - Moncloa,Rojo,32,226,Bajo
+77,Calle Embajadores - Ronda de Valencia,Verde,48,302,Moderado
+78,Paseo del Prado - Atocha,Rojo,41,400,Alto
+79,Calle Alcalá - Puerta de Alcalá,Amarillo,52,239,Alto
+80,Calle Embajadores - Ronda de Valencia,Amarillo,51,262,Moderado
+81,Calle Velázquez - Ortega y Gasset,Rojo,36,107,Moderado
+82,Calle Serrano - Calle Goya,Rojo,42,57,Moderado
+83,Calle Velázquez - Ortega y Gasset,Rojo,59,119,Moderado
+84,Calle Velázquez - Ortega y Gasset,Rojo,55,125,Alto
+85,Calle Serrano - Calle Goya,Rojo,30,371,Moderado
+86,Avenida de América - Francisco Silvela,Amarillo,18,347,Bajo
+87,Calle Embajadores - Ronda de Valencia,Rojo,10,417,Bajo
+88,Calle Velázquez - Ortega y Gasset,Amarillo,54,352,Alto
+89,Plaza Castilla - Bravo Murillo,Rojo,39,334,Bajo
+90,Calle Velázquez - Ortega y Gasset,Amarillo,46,249,Moderado
+91,Gran Vía - Plaza de España,Verde,18,69,Moderado
+92,Paseo del Prado - Atocha,Rojo,34,482,Alto
+93,Paseo del Prado - Atocha,Amarillo,16,97,Alto
+94,Calle Velázquez - Ortega y Gasset,Verde,27,374,Bajo
+95,Gran Vía - Plaza de España,Rojo,26,371,Bajo
+96,Gran Vía - Plaza de España,Rojo,36,183,Bajo
+97,Calle Princesa - Moncloa,Verde,34,149,Bajo
+98,Calle Velázquez - Ortega y Gasset,Amarillo,44,453,Alto
+99,Calle Fuencarral - Bilbao,Amarillo,49,416,Bajo
+100,Calle Fuencarral - Bilbao,Verde,10,397,Moderado
+101,Paseo del Prado - Atocha,Rojo,58,496,Bajo
+102,Calle Alcalá - Puerta de Alcalá,Amarillo,11,308,Bajo
+103,Avenida de América - Francisco Silvela,Verde,18,129,Moderado
+104,Paseo del Prado - Atocha,Verde,45,77,Moderado
+105,Calle Alcalá - Puerta de Alcalá,Verde,15,222,Moderado
+106,Calle Velázquez - Ortega y Gasset,Verde,41,81,Bajo
+107,Plaza Castilla - Bravo Murillo,Rojo,35,298,Alto
+108,Paseo del Prado - Atocha,Amarillo,48,245,Alto
+109,Gran Vía - Plaza de España,Verde,16,293,Moderado
+110,Calle Princesa - Moncloa,Rojo,36,174,Moderado
+111,Puerta del Sol - Calle Mayor,Rojo,20,289,Alto
+112,Calle Serrano - Calle Goya,Amarillo,27,50,Alto
+113,Calle Alcalá - Puerta de Alcalá,Verde,48,359,Bajo
+114,Calle Fuencarral - Bilbao,Rojo,56,373,Moderado
+115,Gran Vía - Plaza de España,Amarillo,41,57,Moderado
+116,Paseo del Prado - Atocha,Amarillo,16,417,Alto
+117,Puerta del Sol - Calle Mayor,Amarillo,41,188,Bajo
+118,Calle Velázquez - Ortega y Gasset,Rojo,52,109,Alto
+119,Gran Vía - Plaza de España,Verde,56,76,Alto
+120,Avenida de América - Francisco Silvela,Rojo,54,94,Moderado
+121,Plaza Castilla - Bravo Murillo,Rojo,34,352,Bajo
+122,Gran Vía - Plaza de España,Verde,14,355,Moderado
+123,Gran Vía - Plaza de España,Rojo,19,445,Alto
+124,Calle Serrano - Calle Goya,Amarillo,55,415,Bajo
+125,Puerta del Sol - Calle Mayor,Rojo,33,486,Moderado
+126,Calle Princesa - Moncloa,Rojo,48,459,Moderado
+127,Avenida de América - Francisco Silvela,Rojo,57,234,Moderado
+128,Paseo del Prado - Atocha,Amarillo,42,221,Alto
+129,Calle Embajadores - Ronda de Valencia,Rojo,33,152,Moderado
+130,Gran Vía - Plaza de España,Amarillo,39,164,Moderado
+131,Paseo del Prado - Atocha,Verde,22,451,Alto
+132,Avenida de América - Francisco Silvela,Amarillo,28,316,Moderado
+133,Calle Alcalá - Puerta de Alcalá,Rojo,45,464,Alto
+134,Avenida de América - Francisco Silvela,Rojo,47,185,Moderado
+135,Puerta del Sol - Calle Mayor,Rojo,48,338,Alto
+136,Calle Embajadores - Ronda de Valencia,Amarillo,27,191,Alto
+137,Calle Serrano - Calle Goya,Verde,25,231,Bajo
+138,Calle Alcalá - Puerta de Alcalá,Rojo,30,126,Bajo
+139,Plaza Castilla - Bravo Murillo,Amarillo,13,249,Bajo
+140,Calle Princesa - Moncloa,Verde,38,292,Alto
+141,Calle Serrano - Calle Goya,Amarillo,34,419,Moderado
+142,Avenida de América - Francisco Silvela,Rojo,14,75,Bajo
+143,Avenida de América - Francisco Silvela,Amarillo,25,350,Moderado
+144,Puerta del Sol - Calle Mayor,Amarillo,52,130,Alto
+145,Calle Serrano - Calle Goya,Rojo,58,147,Moderado
+146,Avenida de América - Francisco Silvela,Amarillo,49,451,Alto
+147,Gran Vía - Plaza de España,Amarillo,34,304,Alto
+148,Calle Serrano - Calle Goya,Verde,22,348,Bajo
+149,Calle Velázquez - Ortega y Gasset,Rojo,35,372,Alto
+150,Plaza Castilla - Bravo Murillo,Rojo,45,257,Moderado
+151,Calle Princesa - Moncloa,Rojo,32,480,Bajo
+152,Plaza Castilla - Bravo Murillo,Verde,58,320,Bajo
+153,Calle Embajadores - Ronda de Valencia,Rojo,48,192,Bajo
+154,Calle Embajadores - Ronda de Valencia,Rojo,50,417,Moderado
+155,Plaza Castilla - Bravo Murillo,Verde,36,105,Bajo
+156,Avenida de América - Francisco Silvela,Amarillo,15,499,Moderado
+157,Puerta del Sol - Calle Mayor,Amarillo,14,235,Moderado
+158,Gran Vía - Plaza de España,Verde,13,136,Moderado
+159,Calle Serrano - Calle Goya,Amarillo,24,247,Bajo
+160,Gran Vía - Plaza de España,Amarillo,17,332,Alto
+161,Paseo del Prado - Atocha,Verde,32,423,Moderado
+162,Avenida de América - Francisco Silvela,Verde,12,111,Moderado
+163,Calle Alcalá - Puerta de Alcalá,Verde,46,311,Bajo
+164,Calle Velázquez - Ortega y Gasset,Amarillo,56,334,Moderado
+165,Calle Fuencarral - Bilbao,Verde,36,493,Moderado
+166,Calle Velázquez - Ortega y Gasset,Verde,10,180,Alto
+167,Calle Fuencarral - Bilbao,Verde,26,500,Moderado
+168,Avenida de América - Francisco Silvela,Amarillo,58,188,Alto
+169,Paseo del Prado - Atocha,Amarillo,17,135,Bajo
+170,Calle Alcalá - Puerta de Alcalá,Rojo,28,214,Moderado
+171,Gran Vía - Plaza de España,Amarillo,41,424,Moderado
+172,Calle Princesa - Moncloa,Amarillo,22,56,Moderado
+173,Avenida de América - Francisco Silvela,Verde,58,281,Alto
+174,Calle Serrano - Calle Goya,Rojo,59,465,Alto
+175,Paseo del Prado - Atocha,Verde,29,251,Moderado
+176,Calle Fuencarral - Bilbao,Amarillo,24,86,Alto
+177,Avenida de América - Francisco Silvela,Verde,35,459,Bajo
+178,Calle Serrano - Calle Goya,Amarillo,59,260,Alto
+179,Calle Fuencarral - Bilbao,Amarillo,44,285,Moderado
+180,Puerta del Sol - Calle Mayor,Rojo,56,216,Alto
+181,Paseo del Prado - Atocha,Amarillo,29,246,Bajo
+182,Calle Embajadores - Ronda de Valencia,Rojo,60,120,Alto
+183,Avenida de América - Francisco Silvela,Rojo,54,401,Moderado
+184,Calle Fuencarral - Bilbao,Rojo,36,142,Bajo
+185,Paseo del Prado - Atocha,Verde,14,455,Bajo
+186,Gran Vía - Plaza de España,Verde,49,419,Moderado
+187,Paseo del Prado - Atocha,Rojo,30,123,Alto
+188,Calle Serrano - Calle Goya,Amarillo,51,456,Moderado
+189,Calle Embajadores - Ronda de Valencia,Rojo,59,404,Bajo
+190,Calle Velázquez - Ortega y Gasset,Rojo,47,287,Alto
+191,Avenida de América - Francisco Silvela,Amarillo,29,62,Alto
+192,Calle Fuencarral - Bilbao,Rojo,40,407,Moderado
+193,Paseo del Prado - Atocha,Amarillo,42,262,Bajo
+194,Calle Serrano - Calle Goya,Verde,39,416,Bajo
+195,Calle Velázquez - Ortega y Gasset,Rojo,23,167,Alto
+196,Calle Fuencarral - Bilbao,Verde,52,187,Moderado
+197,Calle Velázquez - Ortega y Gasset,Verde,23,102,Bajo
+198,Puerta del Sol - Calle Mayor,Verde,48,398,Moderado
+199,Gran Vía - Plaza de España,Rojo,52,205,Bajo
+200,Avenida de América - Francisco Silvela,Verde,29,226,Moderado
+201,Calle Velázquez - Ortega y Gasset,Verde,42,454,Alto
+202,Puerta del Sol - Calle Mayor,Verde,54,392,Alto
+203,Calle Princesa - Moncloa,Rojo,49,153,Moderado
+204,Paseo del Prado - Atocha,Rojo,42,285,Bajo
+205,Calle Serrano - Calle Goya,Rojo,57,452,Moderado
+206,Plaza Castilla - Bravo Murillo,Amarillo,39,70,Bajo
+207,Calle Alcalá - Puerta de Alcalá,Verde,45,229,Alto
+208,Paseo del Prado - Atocha,Rojo,35,360,Alto
+209,Calle Velázquez - Ortega y Gasset,Rojo,34,347,Moderado
+210,Calle Embajadores - Ronda de Valencia,Verde,53,117,Moderado
+211,Calle Alcalá - Puerta de Alcalá,Amarillo,55,426,Alto
+212,Paseo del Prado - Atocha,Rojo,41,88,Moderado
+213,Gran Vía - Plaza de España,Rojo,10,305,Alto
+214,Calle Velázquez - Ortega y Gasset,Amarillo,49,204,Alto
+215,Calle Serrano - Calle Goya,Verde,60,424,Moderado
+216,Calle Serrano - Calle Goya,Verde,58,370,Alto
+217,Paseo del Prado - Atocha,Verde,37,184,Bajo
+218,Calle Serrano - Calle Goya,Amarillo,48,258,Bajo
+219,Paseo del Prado - Atocha,Verde,35,339,Moderado
+220,Gran Vía - Plaza de España,Amarillo,36,380,Moderado
+221,Calle Velázquez - Ortega y Gasset,Amarillo,22,150,Alto
+222,Plaza Castilla - Bravo Murillo,Rojo,33,271,Bajo
+223,Calle Fuencarral - Bilbao,Verde,41,424,Bajo
+224,Calle Embajadores - Ronda de Valencia,Amarillo,32,446,Moderado
+225,Calle Princesa - Moncloa,Verde,54,159,Bajo
+226,Gran Vía - Plaza de España,Verde,58,273,Alto
+227,Calle Velázquez - Ortega y Gasset,Amarillo,20,148,Bajo
+228,Calle Serrano - Calle Goya,Verde,31,418,Alto
+229,Plaza Castilla - Bravo Murillo,Amarillo,55,193,Moderado
+230,Avenida de América - Francisco Silvela,Rojo,51,148,Moderado
+231,Puerta del Sol - Calle Mayor,Amarillo,21,458,Bajo
+232,Calle Fuencarral - Bilbao,Amarillo,27,344,Bajo
+233,Calle Serrano - Calle Goya,Verde,21,428,Moderado
+234,Calle Embajadores - Ronda de Valencia,Rojo,37,486,Moderado
+235,Calle Velázquez - Ortega y Gasset,Rojo,46,74,Bajo
+236,Paseo del Prado - Atocha,Rojo,40,364,Moderado
+237,Calle Princesa - Moncloa,Amarillo,37,201,Alto
+238,Plaza Castilla - Bravo Murillo,Amarillo,14,436,Moderado
+239,Calle Princesa - Moncloa,Rojo,57,89,Alto
+240,Gran Vía - Plaza de España,Verde,39,257,Alto
+241,Calle Velázquez - Ortega y Gasset,Amarillo,46,341,Moderado
+242,Calle Fuencarral - Bilbao,Amarillo,30,308,Moderado
+243,Calle Alcalá - Puerta de Alcalá,Rojo,43,215,Bajo
+244,Puerta del Sol - Calle Mayor,Rojo,15,449,Alto
+245,Calle Embajadores - Ronda de Valencia,Amarillo,22,381,Moderado
+246,Puerta del Sol - Calle Mayor,Verde,22,214,Moderado
+247,Calle Serrano - Calle Goya,Amarillo,19,263,Bajo
+248,Avenida de América - Francisco Silvela,Verde,13,233,Bajo
+249,Calle Velázquez - Ortega y Gasset,Rojo,42,463,Bajo
+250,Calle Velázquez - Ortega y Gasset,Amarillo,12,390,Moderado
+251,Avenida de América - Francisco Silvela,Amarillo,12,53,Alto
+252,Paseo del Prado - Atocha,Rojo,45,157,Moderado
+253,Calle Princesa - Moncloa,Rojo,43,271,Moderado
+254,Calle Alcalá - Puerta de Alcalá,Verde,13,400,Bajo
+255,Avenida de América - Francisco Silvela,Amarillo,31,185,Alto
+256,Calle Serrano - Calle Goya,Rojo,58,500,Bajo
+257,Calle Alcalá - Puerta de Alcalá,Amarillo,34,393,Bajo
+258,Calle Fuencarral - Bilbao,Verde,52,202,Moderado
+259,Puerta del Sol - Calle Mayor,Verde,50,156,Alto
+260,Plaza Castilla - Bravo Murillo,Rojo,18,205,Bajo
+261,Calle Alcalá - Puerta de Alcalá,Rojo,40,312,Bajo
+262,Avenida de América - Francisco Silvela,Rojo,58,143,Moderado
+263,Calle Alcalá - Puerta de Alcalá,Rojo,34,316,Moderado
+264,Calle Alcalá - Puerta de Alcalá,Amarillo,43,245,Moderado
+265,Puerta del Sol - Calle Mayor,Verde,10,211,Alto
+266,Calle Princesa - Moncloa,Verde,39,276,Alto
+267,Puerta del Sol - Calle Mayor,Rojo,19,342,Bajo
+268,Calle Embajadores - Ronda de Valencia,Rojo,16,62,Alto
+269,Gran Vía - Plaza de España,Rojo,14,222,Alto
+270,Puerta del Sol - Calle Mayor,Rojo,15,239,Alto
+271,Calle Velázquez - Ortega y Gasset,Amarillo,52,266,Bajo
+272,Plaza Castilla - Bravo Murillo,Rojo,58,455,Moderado
+273,Calle Alcalá - Puerta de Alcalá,Verde,18,452,Alto
+274,Calle Fuencarral - Bilbao,Amarillo,24,260,Bajo
+275,Avenida de América - Francisco Silvela,Amarillo,45,384,Moderado
+276,Calle Serrano - Calle Goya,Amarillo,42,111,Bajo
+277,Calle Princesa - Moncloa,Verde,18,336,Alto
+278,Calle Serrano - Calle Goya,Amarillo,16,490,Alto
+279,Calle Velázquez - Ortega y Gasset,Amarillo,29,447,Bajo
+280,Calle Velázquez - Ortega y Gasset,Verde,56,437,Moderado
+281,Gran Vía - Plaza de España,Amarillo,42,341,Bajo
+282,Calle Alcalá - Puerta de Alcalá,Verde,27,159,Alto
+283,Calle Fuencarral - Bilbao,Amarillo,22,134,Moderado
+284,Calle Embajadores - Ronda de Valencia,Verde,22,378,Moderado
+285,Calle Fuencarral - Bilbao,Verde,26,123,Bajo
+286,Gran Vía - Plaza de España,Rojo,19,267,Moderado
+287,Calle Princesa - Moncloa,Amarillo,14,103,Alto
+288,Calle Serrano - Calle Goya,Verde,42,376,Alto
+289,Avenida de América - Francisco Silvela,Verde,34,210,Moderado
+290,Paseo del Prado - Atocha,Amarillo,52,498,Alto
+291,Avenida de América - Francisco Silvela,Rojo,36,161,Alto
+292,Calle Velázquez - Ortega y Gasset,Rojo,21,473,Moderado
+293,Calle Velázquez - Ortega y Gasset,Verde,52,114,Alto
+294,Paseo del Prado - Atocha,Rojo,18,372,Alto
+295,Plaza Castilla - Bravo Murillo,Rojo,53,101,Moderado
+296,Calle Alcalá - Puerta de Alcalá,Amarillo,31,319,Alto
+297,Calle Fuencarral - Bilbao,Amarillo,15,300,Moderado
+298,Plaza Castilla - Bravo Murillo,Rojo,58,419,Bajo
+299,Calle Serrano - Calle Goya,Amarillo,19,122,Moderado
+300,Calle Fuencarral - Bilbao,Rojo,25,112,Alto
+301,Calle Embajadores - Ronda de Valencia,Rojo,17,306,Alto
+302,Calle Velázquez - Ortega y Gasset,Verde,39,131,Alto
+303,Gran Vía - Plaza de España,Rojo,50,393,Bajo
+304,Gran Vía - Plaza de España,Rojo,31,133,Alto
+305,Puerta del Sol - Calle Mayor,Verde,19,349,Alto
+306,Calle Fuencarral - Bilbao,Rojo,44,113,Moderado
+307,Calle Serrano - Calle Goya,Rojo,20,391,Moderado
+308,Calle Fuencarral - Bilbao,Amarillo,14,118,Bajo
+309,Calle Embajadores - Ronda de Valencia,Verde,54,183,Alto
+310,Calle Princesa - Moncloa,Amarillo,54,153,Alto
+311,Calle Fuencarral - Bilbao,Verde,17,198,Bajo
+312,Calle Alcalá - Puerta de Alcalá,Verde,33,301,Moderado
+313,Calle Velázquez - Ortega y Gasset,Verde,12,282,Alto
+314,Gran Vía - Plaza de España,Amarillo,26,487,Moderado
+315,Puerta del Sol - Calle Mayor,Amarillo,43,303,Alto
+316,Calle Embajadores - Ronda de Valencia,Amarillo,55,161,Bajo
+317,Paseo del Prado - Atocha,Verde,40,116,Bajo
+318,Calle Embajadores - Ronda de Valencia,Amarillo,58,309,Bajo
+319,Gran Vía - Plaza de España,Amarillo,11,123,Alto
+320,Plaza Castilla - Bravo Murillo,Rojo,49,491,Bajo
+321,Calle Princesa - Moncloa,Verde,13,395,Alto
+322,Calle Embajadores - Ronda de Valencia,Amarillo,20,414,Bajo
+323,Avenida de América - Francisco Silvela,Verde,25,232,Bajo
+324,Calle Serrano - Calle Goya,Rojo,12,337,Bajo
+325,Calle Fuencarral - Bilbao,Rojo,44,316,Bajo
+326,Calle Velázquez - Ortega y Gasset,Amarillo,44,441,Alto
+327,Calle Embajadores - Ronda de Valencia,Amarillo,37,264,Alto
+328,Calle Velázquez - Ortega y Gasset,Amarillo,39,387,Alto
+329,Gran Vía - Plaza de España,Verde,47,475,Alto
+330,Calle Embajadores - Ronda de Valencia,Verde,17,473,Moderado
+331,Paseo del Prado - Atocha,Verde,28,290,Moderado
+332,Paseo del Prado - Atocha,Amarillo,41,434,Bajo
+333,Avenida de América - Francisco Silvela,Rojo,31,446,Alto
+334,Gran Vía - Plaza de España,Rojo,52,86,Moderado
+335,Calle Serrano - Calle Goya,Rojo,19,161,Moderado
+336,Calle Velázquez - Ortega y Gasset,Rojo,11,456,Alto
+337,Puerta del Sol - Calle Mayor,Amarillo,38,448,Alto
+338,Calle Alcalá - Puerta de Alcalá,Amarillo,15,111,Bajo
+339,Avenida de América - Francisco Silvela,Amarillo,41,98,Alto
+340,Avenida de América - Francisco Silvela,Amarillo,37,184,Moderado
+341,Calle Serrano - Calle Goya,Amarillo,29,246,Moderado
+342,Calle Serrano - Calle Goya,Rojo,51,345,Alto
+343,Calle Fuencarral - Bilbao,Amarillo,57,186,Moderado
+344,Avenida de América - Francisco Silvela,Verde,50,156,Bajo
+345,Gran Vía - Plaza de España,Rojo,16,88,Moderado
+346,Paseo del Prado - Atocha,Amarillo,58,427,Alto
+347,Avenida de América - Francisco Silvela,Rojo,57,139,Moderado
+348,Puerta del Sol - Calle Mayor,Amarillo,42,313,Bajo
+349,Calle Princesa - Moncloa,Amarillo,57,484,Moderado
+350,Calle Alcalá - Puerta de Alcalá,Amarillo,58,286,Alto
+351,Calle Princesa - Moncloa,Rojo,40,300,Bajo
+352,Calle Serrano - Calle Goya,Rojo,45,195,Moderado
+353,Avenida de América - Francisco Silvela,Rojo,37,379,Moderado
+354,Avenida de América - Francisco Silvela,Rojo,40,372,Moderado
+355,Calle Velázquez - Ortega y Gasset,Amarillo,50,191,Moderado
+356,Calle Velázquez - Ortega y Gasset,Rojo,41,272,Bajo
+357,Avenida de América - Francisco Silvela,Amarillo,20,389,Alto
+358,Calle Embajadores - Ronda de Valencia,Amarillo,58,308,Moderado
+359,Gran Vía - Plaza de España,Verde,39,456,Bajo
+360,Avenida de América - Francisco Silvela,Amarillo,16,82,Alto
+361,Calle Serrano - Calle Goya,Amarillo,33,83,Alto
+362,Calle Embajadores - Ronda de Valencia,Rojo,17,73,Moderado
+363,Calle Velázquez - Ortega y Gasset,Verde,24,349,Bajo
+364,Calle Fuencarral - Bilbao,Verde,44,432,Alto
+365,Avenida de América - Francisco Silvela,Verde,41,313,Bajo
+366,Calle Alcalá - Puerta de Alcalá,Rojo,22,270,Moderado
+367,Paseo del Prado - Atocha,Rojo,22,338,Moderado
+368,Paseo del Prado - Atocha,Verde,16,328,Alto
+369,Calle Velázquez - Ortega y Gasset,Rojo,41,420,Moderado
+370,Plaza Castilla - Bravo Murillo,Rojo,22,406,Alto
+371,Calle Alcalá - Puerta de Alcalá,Amarillo,46,172,Bajo
+372,Paseo del Prado - Atocha,Rojo,50,159,Bajo
+373,Calle Serrano - Calle Goya,Rojo,19,257,Bajo
+374,Gran Vía - Plaza de España,Verde,52,412,Moderado
+375,Avenida de América - Francisco Silvela,Verde,59,186,Alto
+376,Calle Fuencarral - Bilbao,Verde,20,467,Alto
+377,Plaza Castilla - Bravo Murillo,Amarillo,17,287,Bajo
+378,Calle Serrano - Calle Goya,Verde,19,379,Moderado
+379,Calle Velázquez - Ortega y Gasset,Verde,53,359,Bajo
+380,Avenida de América - Francisco Silvela,Amarillo,24,426,Bajo
+381,Calle Princesa - Moncloa,Amarillo,38,191,Alto
+382,Puerta del Sol - Calle Mayor,Amarillo,27,62,Moderado
+383,Plaza Castilla - Bravo Murillo,Rojo,13,264,Bajo
+384,Calle Alcalá - Puerta de Alcalá,Amarillo,55,275,Bajo
+385,Calle Fuencarral - Bilbao,Amarillo,47,416,Moderado
+386,Calle Velázquez - Ortega y Gasset,Amarillo,47,375,Bajo
+387,Calle Embajadores - Ronda de Valencia,Rojo,39,242,Moderado
+388,Calle Alcalá - Puerta de Alcalá,Verde,12,298,Alto
+389,Calle Serrano - Calle Goya,Verde,60,391,Alto
+390,Gran Vía - Plaza de España,Rojo,55,371,Moderado
+391,Calle Serrano - Calle Goya,Verde,26,321,Alto
+392,Calle Fuencarral - Bilbao,Verde,51,78,Alto
+393,Calle Alcalá - Puerta de Alcalá,Verde,14,258,Moderado
+394,Calle Velázquez - Ortega y Gasset,Amarillo,29,309,Bajo
+395,Gran Vía - Plaza de España,Verde,40,257,Moderado
+396,Calle Velázquez - Ortega y Gasset,Amarillo,42,383,Moderado
+397,Calle Princesa - Moncloa,Verde,14,152,Moderado
+398,Gran Vía - Plaza de España,Amarillo,12,141,Alto
+399,Calle Embajadores - Ronda de Valencia,Verde,26,366,Alto
+400,Gran Vía - Plaza de España,Rojo,40,143,Alto
+401,Calle Alcalá - Puerta de Alcalá,Amarillo,59,487,Bajo
+402,Calle Fuencarral - Bilbao,Amarillo,59,477,Alto
+403,Calle Serrano - Calle Goya,Verde,51,93,Moderado
+404,Calle Velázquez - Ortega y Gasset,Amarillo,50,481,Alto
+405,Puerta del Sol - Calle Mayor,Verde,32,339,Moderado
+406,Calle Velázquez - Ortega y Gasset,Amarillo,44,342,Bajo
+407,Gran Vía - Plaza de España,Amarillo,23,468,Alto
+408,Calle Princesa - Moncloa,Verde,39,166,Alto
+409,Calle Velázquez - Ortega y Gasset,Verde,49,448,Alto
+410,Calle Embajadores - Ronda de Valencia,Verde,51,240,Moderado
+411,Calle Serrano - Calle Goya,Verde,54,147,Alto
+412,Calle Alcalá - Puerta de Alcalá,Verde,35,496,Bajo
+413,Paseo del Prado - Atocha,Amarillo,30,186,Bajo
+414,Calle Embajadores - Ronda de Valencia,Amarillo,53,469,Moderado
+415,Calle Embajadores - Ronda de Valencia,Verde,31,412,Bajo
+416,Plaza Castilla - Bravo Murillo,Amarillo,11,353,Alto
+417,Gran Vía - Plaza de España,Amarillo,28,455,Alto
+418,Calle Velázquez - Ortega y Gasset,Amarillo,26,212,Alto
+419,Calle Velázquez - Ortega y Gasset,Amarillo,31,88,Alto
+420,Paseo del Prado - Atocha,Verde,56,141,Alto
+421,Paseo del Prado - Atocha,Verde,29,240,Alto
+422,Avenida de América - Francisco Silvela,Verde,37,475,Moderado
+423,Puerta del Sol - Calle Mayor,Amarillo,44,206,Moderado
+424,Avenida de América - Francisco Silvela,Rojo,40,227,Bajo
+425,Plaza Castilla - Bravo Murillo,Amarillo,29,142,Bajo
+426,Gran Vía - Plaza de España,Verde,60,261,Bajo
+427,Calle Embajadores - Ronda de Valencia,Verde,40,156,Alto
+428,Calle Velázquez - Ortega y Gasset,Verde,60,466,Moderado
+429,Calle Fuencarral - Bilbao,Rojo,58,443,Bajo
+430,Puerta del Sol - Calle Mayor,Verde,41,322,Moderado
+431,Calle Velázquez - Ortega y Gasset,Amarillo,49,417,Alto
+432,Plaza Castilla - Bravo Murillo,Rojo,48,304,Moderado
+433,Calle Fuencarral - Bilbao,Amarillo,17,217,Moderado
+434,Gran Vía - Plaza de España,Verde,35,78,Bajo
+435,Paseo del Prado - Atocha,Verde,25,258,Moderado
+436,Gran Vía - Plaza de España,Verde,50,355,Alto
+437,Gran Vía - Plaza de España,Amarillo,59,222,Alto
+438,Calle Alcalá - Puerta de Alcalá,Verde,23,84,Bajo
+439,Paseo del Prado - Atocha,Verde,44,369,Moderado
+440,Paseo del Prado - Atocha,Rojo,43,237,Bajo
+441,Plaza Castilla - Bravo Murillo,Rojo,58,117,Alto
+442,Calle Serrano - Calle Goya,Amarillo,51,321,Alto
+443,Calle Serrano - Calle Goya,Verde,30,302,Moderado
+444,Calle Serrano - Calle Goya,Amarillo,44,408,Moderado
+445,Calle Princesa - Moncloa,Verde,35,252,Bajo
+446,Paseo del Prado - Atocha,Verde,21,78,Alto
+447,Paseo del Prado - Atocha,Amarillo,42,429,Moderado
+448,Calle Embajadores - Ronda de Valencia,Verde,33,330,Moderado
+449,Plaza Castilla - Bravo Murillo,Amarillo,20,58,Moderado
+450,Calle Alcalá - Puerta de Alcalá,Rojo,46,444,Moderado
+451,Plaza Castilla - Bravo Murillo,Verde,31,420,Bajo
+452,Gran Vía - Plaza de España,Verde,57,352,Moderado
+453,Calle Fuencarral - Bilbao,Verde,29,249,Moderado
+454,Calle Alcalá - Puerta de Alcalá,Rojo,18,242,Moderado
+455,Plaza Castilla - Bravo Murillo,Amarillo,25,333,Bajo
+456,Calle Princesa - Moncloa,Amarillo,18,121,Bajo
+457,Avenida de América - Francisco Silvela,Rojo,27,204,Moderado
+458,Calle Embajadores - Ronda de Valencia,Rojo,32,389,Moderado
+459,Paseo del Prado - Atocha,Rojo,17,119,Moderado
+460,Gran Vía - Plaza de España,Amarillo,38,54,Moderado
+461,Puerta del Sol - Calle Mayor,Verde,17,195,Moderado
+462,Calle Princesa - Moncloa,Rojo,32,373,Alto
+463,Puerta del Sol - Calle Mayor,Rojo,39,177,Bajo
+464,Calle Fuencarral - Bilbao,Amarillo,17,268,Bajo
+465,Calle Alcalá - Puerta de Alcalá,Verde,57,121,Bajo
+466,Paseo del Prado - Atocha,Rojo,41,93,Alto
+467,Plaza Castilla - Bravo Murillo,Verde,38,67,Alto
+468,Calle Princesa - Moncloa,Amarillo,19,316,Moderado
+469,Calle Princesa - Moncloa,Rojo,14,481,Moderado
+470,Puerta del Sol - Calle Mayor,Verde,49,250,Bajo
+471,Plaza Castilla - Bravo Murillo,Rojo,30,478,Bajo
+472,Calle Alcalá - Puerta de Alcalá,Amarillo,13,271,Bajo
+473,Paseo del Prado - Atocha,Verde,50,467,Alto
+474,Calle Serrano - Calle Goya,Rojo,42,496,Alto
+475,Avenida de América - Francisco Silvela,Amarillo,10,155,Alto
+476,Gran Vía - Plaza de España,Amarillo,45,267,Alto
+477,Calle Serrano - Calle Goya,Rojo,33,332,Alto
+478,Gran Vía - Plaza de España,Amarillo,33,416,Bajo
+479,Paseo del Prado - Atocha,Amarillo,23,155,Moderado
+480,Calle Princesa - Moncloa,Verde,16,370,Alto
+481,Calle Alcalá - Puerta de Alcalá,Amarillo,14,157,Bajo
+482,Gran Vía - Plaza de España,Verde,27,337,Moderado
+483,Calle Velázquez - Ortega y Gasset,Amarillo,60,372,Bajo
+484,Gran Vía - Plaza de España,Amarillo,23,376,Bajo
+485,Avenida de América - Francisco Silvela,Verde,57,440,Alto
+486,Plaza Castilla - Bravo Murillo,Rojo,12,136,Moderado
+487,Gran Vía - Plaza de España,Verde,32,148,Bajo
+488,Paseo del Prado - Atocha,Rojo,13,194,Alto
+489,Plaza Castilla - Bravo Murillo,Amarillo,42,124,Moderado
+490,Gran Vía - Plaza de España,Verde,57,227,Alto
+491,Calle Serrano - Calle Goya,Rojo,20,494,Bajo
+492,Calle Embajadores - Ronda de Valencia,Verde,34,189,Bajo
+493,Calle Serrano - Calle Goya,Verde,49,102,Alto
+494,Avenida de América - Francisco Silvela,Rojo,58,60,Moderado
+495,Calle Princesa - Moncloa,Amarillo,17,246,Alto
+496,Calle Alcalá - Puerta de Alcalá,Rojo,14,232,Bajo
+497,Calle Embajadores - Ronda de Valencia,Amarillo,35,223,Bajo
+498,Gran Vía - Plaza de España,Rojo,27,367,Alto
+499,Calle Fuencarral - Bilbao,Rojo,60,68,Moderado
+500,Puerta del Sol - Calle Mayor,Rojo,49,290,Bajo
+501,Calle Princesa - Moncloa,Verde,60,415,Alto
+502,Calle Fuencarral - Bilbao,Amarillo,53,318,Bajo
+503,Calle Princesa - Moncloa,Verde,20,331,Bajo
+504,Calle Fuencarral - Bilbao,Amarillo,25,153,Moderado
+505,Paseo del Prado - Atocha,Amarillo,24,258,Alto
+506,Calle Alcalá - Puerta de Alcalá,Rojo,38,400,Alto
+507,Calle Serrano - Calle Goya,Verde,21,358,Alto
+508,Puerta del Sol - Calle Mayor,Rojo,15,135,Bajo
+509,Calle Alcalá - Puerta de Alcalá,Verde,39,307,Moderado
+510,Plaza Castilla - Bravo Murillo,Verde,29,466,Alto
+511,Calle Embajadores - Ronda de Valencia,Verde,52,219,Alto
+512,Avenida de América - Francisco Silvela,Amarillo,60,51,Alto
+513,Gran Vía - Plaza de España,Verde,18,223,Alto
+514,Avenida de América - Francisco Silvela,Rojo,33,395,Moderado
+515,Calle Embajadores - Ronda de Valencia,Amarillo,34,385,Alto
+516,Calle Princesa - Moncloa,Verde,38,358,Alto
+517,Gran Vía - Plaza de España,Verde,31,430,Alto
+518,Calle Fuencarral - Bilbao,Rojo,51,80,Alto
+519,Calle Alcalá - Puerta de Alcalá,Rojo,20,441,Alto
+520,Calle Alcalá - Puerta de Alcalá,Verde,19,237,Alto
+521,Avenida de América - Francisco Silvela,Verde,16,109,Moderado
+522,Calle Embajadores - Ronda de Valencia,Amarillo,19,400,Bajo
+523,Calle Princesa - Moncloa,Rojo,35,484,Bajo
+524,Calle Fuencarral - Bilbao,Rojo,57,319,Moderado
+525,Avenida de América - Francisco Silvela,Rojo,14,169,Bajo
+526,Calle Princesa - Moncloa,Verde,49,152,Bajo
+527,Calle Princesa - Moncloa,Rojo,48,324,Bajo
+528,Paseo del Prado - Atocha,Rojo,46,112,Alto
+529,Gran Vía - Plaza de España,Rojo,43,221,Bajo
+530,Calle Alcalá - Puerta de Alcalá,Verde,40,328,Bajo
+531,Calle Velázquez - Ortega y Gasset,Amarillo,42,459,Moderado
+532,Calle Embajadores - Ronda de Valencia,Rojo,32,248,Alto
+533,Paseo del Prado - Atocha,Amarillo,29,268,Moderado
+534,Calle Serrano - Calle Goya,Verde,55,175,Bajo
+535,Avenida de América - Francisco Silvela,Verde,52,190,Moderado
+536,Paseo del Prado - Atocha,Rojo,10,189,Alto
+537,Plaza Castilla - Bravo Murillo,Verde,29,365,Bajo
+538,Calle Velázquez - Ortega y Gasset,Amarillo,47,347,Bajo
+539,Calle Velázquez - Ortega y Gasset,Verde,23,411,Alto
+540,Plaza Castilla - Bravo Murillo,Amarillo,60,101,Bajo
+541,Calle Fuencarral - Bilbao,Amarillo,25,112,Bajo
+542,Gran Vía - Plaza de España,Rojo,14,332,Alto
+543,Avenida de América - Francisco Silvela,Verde,37,390,Moderado
+544,Calle Fuencarral - Bilbao,Rojo,23,494,Alto
+545,Avenida de América - Francisco Silvela,Rojo,34,297,Bajo
+546,Gran Vía - Plaza de España,Rojo,17,477,Alto
+547,Plaza Castilla - Bravo Murillo,Verde,11,322,Bajo
+548,Calle Embajadores - Ronda de Valencia,Verde,59,339,Alto
+549,Calle Princesa - Moncloa,Amarillo,25,279,Bajo
+550,Calle Princesa - Moncloa,Verde,40,304,Bajo
+551,Avenida de América - Francisco Silvela,Amarillo,53,491,Moderado
+552,Avenida de América - Francisco Silvela,Verde,32,451,Bajo
+553,Calle Fuencarral - Bilbao,Verde,28,65,Moderado
+554,Plaza Castilla - Bravo Murillo,Amarillo,53,451,Alto
+555,Calle Princesa - Moncloa,Verde,22,118,Alto
+556,Puerta del Sol - Calle Mayor,Rojo,41,457,Moderado
+557,Calle Velázquez - Ortega y Gasset,Verde,48,333,Bajo
+558,Plaza Castilla - Bravo Murillo,Rojo,34,362,Moderado
+559,Calle Princesa - Moncloa,Rojo,16,319,Bajo
+560,Puerta del Sol - Calle Mayor,Verde,59,272,Alto
+561,Plaza Castilla - Bravo Murillo,Rojo,24,419,Alto
+562,Calle Princesa - Moncloa,Verde,22,321,Bajo
+563,Calle Serrano - Calle Goya,Rojo,24,451,Alto
+564,Calle Fuencarral - Bilbao,Amarillo,58,395,Bajo
+565,Plaza Castilla - Bravo Murillo,Rojo,55,355,Alto
+566,Calle Velázquez - Ortega y Gasset,Rojo,31,355,Alto
+567,Plaza Castilla - Bravo Murillo,Rojo,47,202,Bajo
+568,Avenida de América - Francisco Silvela,Verde,55,440,Bajo
+569,Calle Serrano - Calle Goya,Rojo,25,414,Moderado
+570,Calle Princesa - Moncloa,Verde,59,82,Moderado
+571,Plaza Castilla - Bravo Murillo,Verde,34,446,Bajo
+572,Calle Fuencarral - Bilbao,Rojo,58,404,Moderado
+573,Paseo del Prado - Atocha,Verde,55,203,Alto
+574,Plaza Castilla - Bravo Murillo,Rojo,40,450,Moderado
+575,Calle Velázquez - Ortega y Gasset,Verde,55,271,Alto
+576,Plaza Castilla - Bravo Murillo,Verde,55,420,Bajo
+577,Calle Fuencarral - Bilbao,Rojo,32,112,Alto
+578,Calle Alcalá - Puerta de Alcalá,Amarillo,36,370,Moderado
+579,Calle Serrano - Calle Goya,Verde,17,203,Bajo
+580,Gran Vía - Plaza de España,Amarillo,56,171,Moderado
+581,Avenida de América - Francisco Silvela,Rojo,54,174,Moderado
+582,Paseo del Prado - Atocha,Amarillo,59,94,Alto
+583,Gran Vía - Plaza de España,Verde,26,84,Bajo
+584,Plaza Castilla - Bravo Murillo,Rojo,32,236,Bajo
+585,Calle Princesa - Moncloa,Rojo,34,149,Moderado
+586,Calle Velázquez - Ortega y Gasset,Rojo,38,334,Moderado
+587,Gran Vía - Plaza de España,Verde,35,481,Moderado
+588,Calle Alcalá - Puerta de Alcalá,Rojo,15,331,Moderado
+589,Calle Velázquez - Ortega y Gasset,Verde,38,80,Moderado
+590,Calle Alcalá - Puerta de Alcalá,Verde,33,131,Alto
+591,Puerta del Sol - Calle Mayor,Verde,45,318,Bajo
+592,Calle Velázquez - Ortega y Gasset,Verde,27,385,Alto
+593,Calle Serrano - Calle Goya,Rojo,27,127,Moderado
+594,Calle Fuencarral - Bilbao,Verde,42,281,Bajo
+595,Calle Embajadores - Ronda de Valencia,Rojo,32,130,Alto
+596,Calle Alcalá - Puerta de Alcalá,Rojo,57,128,Bajo
+597,Calle Princesa - Moncloa,Amarillo,14,86,Bajo
+598,Calle Fuencarral - Bilbao,Verde,60,459,Alto
+599,Puerta del Sol - Calle Mayor,Verde,21,360,Moderado
+600,Calle Embajadores - Ronda de Valencia,Rojo,35,69,Alto
+601,Paseo del Prado - Atocha,Rojo,34,53,Moderado
+602,Plaza Castilla - Bravo Murillo,Verde,18,499,Bajo
+603,Avenida de América - Francisco Silvela,Verde,12,246,Moderado
+604,Calle Alcalá - Puerta de Alcalá,Rojo,15,463,Bajo
+605,Avenida de América - Francisco Silvela,Verde,24,85,Bajo
+606,Calle Serrano - Calle Goya,Rojo,25,426,Moderado
+607,Calle Serrano - Calle Goya,Amarillo,48,140,Bajo
+608,Calle Embajadores - Ronda de Valencia,Verde,17,64,Moderado
+609,Calle Alcalá - Puerta de Alcalá,Rojo,29,163,Alto
+610,Calle Alcalá - Puerta de Alcalá,Rojo,49,273,Moderado
+611,Plaza Castilla - Bravo Murillo,Verde,59,231,Bajo
+612,Gran Vía - Plaza de España,Verde,26,494,Bajo
+613,Calle Velázquez - Ortega y Gasset,Rojo,58,360,Bajo
+614,Calle Fuencarral - Bilbao,Amarillo,53,267,Bajo
+615,Calle Velázquez - Ortega y Gasset,Verde,38,356,Moderado
+616,Calle Embajadores - Ronda de Valencia,Amarillo,54,331,Bajo
+617,Calle Fuencarral - Bilbao,Verde,14,297,Bajo
+618,Calle Embajadores - Ronda de Valencia,Verde,16,498,Alto
+619,Paseo del Prado - Atocha,Amarillo,47,224,Alto
+620,Calle Embajadores - Ronda de Valencia,Rojo,21,310,Alto
+621,Paseo del Prado - Atocha,Rojo,19,200,Moderado
+622,Calle Serrano - Calle Goya,Rojo,16,211,Moderado
+623,Puerta del Sol - Calle Mayor,Rojo,12,401,Alto
+624,Calle Velázquez - Ortega y Gasset,Verde,31,251,Bajo
+625,Plaza Castilla - Bravo Murillo,Rojo,14,412,Moderado
+626,Avenida de América - Francisco Silvela,Verde,35,161,Alto
+627,Calle Serrano - Calle Goya,Amarillo,19,191,Bajo
+628,Calle Princesa - Moncloa,Rojo,56,281,Alto
+629,Calle Serrano - Calle Goya,Verde,47,245,Bajo
+630,Puerta del Sol - Calle Mayor,Rojo,59,443,Alto
+631,Calle Serrano - Calle Goya,Amarillo,37,335,Bajo
+632,Calle Fuencarral - Bilbao,Verde,44,219,Bajo
+633,Gran Vía - Plaza de España,Amarillo,56,417,Bajo
+634,Calle Fuencarral - Bilbao,Verde,13,218,Moderado
+635,Paseo del Prado - Atocha,Amarillo,29,276,Moderado
+636,Gran Vía - Plaza de España,Amarillo,33,53,Moderado
+637,Calle Princesa - Moncloa,Amarillo,50,417,Alto
+638,Calle Embajadores - Ronda de Valencia,Amarillo,30,487,Moderado
+639,Calle Serrano - Calle Goya,Verde,18,201,Moderado
+640,Calle Alcalá - Puerta de Alcalá,Amarillo,19,364,Bajo
+641,Paseo del Prado - Atocha,Rojo,40,190,Bajo
+642,Gran Vía - Plaza de España,Verde,29,366,Moderado
+643,Gran Vía - Plaza de España,Rojo,30,164,Alto
+644,Plaza Castilla - Bravo Murillo,Verde,14,496,Bajo
+645,Calle Velázquez - Ortega y Gasset,Amarillo,16,98,Bajo
+646,Calle Velázquez - Ortega y Gasset,Verde,44,95,Alto
+647,Calle Princesa - Moncloa,Verde,60,421,Alto
+648,Calle Velázquez - Ortega y Gasset,Amarillo,38,84,Bajo
+649,Calle Fuencarral - Bilbao,Rojo,44,117,Bajo
+650,Plaza Castilla - Bravo Murillo,Rojo,23,445,Alto
+651,Calle Serrano - Calle Goya,Verde,38,103,Moderado
+652,Calle Velázquez - Ortega y Gasset,Rojo,58,486,Bajo
+653,Paseo del Prado - Atocha,Rojo,19,125,Alto
+654,Calle Fuencarral - Bilbao,Amarillo,34,148,Moderado
+655,Calle Alcalá - Puerta de Alcalá,Verde,18,66,Bajo
+656,Calle Fuencarral - Bilbao,Verde,57,323,Moderado
+657,Gran Vía - Plaza de España,Amarillo,35,241,Bajo
+658,Plaza Castilla - Bravo Murillo,Amarillo,14,256,Moderado
+659,Plaza Castilla - Bravo Murillo,Amarillo,50,72,Moderado
+660,Calle Embajadores - Ronda de Valencia,Rojo,47,129,Moderado
+661,Plaza Castilla - Bravo Murillo,Amarillo,43,451,Moderado
+662,Calle Embajadores - Ronda de Valencia,Rojo,20,350,Bajo
+663,Calle Fuencarral - Bilbao,Amarillo,11,55,Moderado
+664,Avenida de América - Francisco Silvela,Amarillo,48,489,Moderado
+665,Plaza Castilla - Bravo Murillo,Verde,24,107,Alto
+666,Calle Princesa - Moncloa,Amarillo,37,454,Bajo
+667,Gran Vía - Plaza de España,Rojo,26,143,Bajo
+668,Calle Alcalá - Puerta de Alcalá,Amarillo,31,261,Bajo
+669,Gran Vía - Plaza de España,Rojo,48,391,Alto
+670,Paseo del Prado - Atocha,Amarillo,16,274,Alto
+671,Gran Vía - Plaza de España,Verde,32,313,Moderado
+672,Paseo del Prado - Atocha,Amarillo,48,479,Alto
+673,Puerta del Sol - Calle Mayor,Verde,33,354,Alto
+674,Calle Fuencarral - Bilbao,Amarillo,60,429,Alto
+675,Calle Embajadores - Ronda de Valencia,Verde,40,223,Alto
+676,Calle Velázquez - Ortega y Gasset,Amarillo,43,70,Alto
+677,Calle Serrano - Calle Goya,Verde,10,274,Moderado
+678,Calle Velázquez - Ortega y Gasset,Amarillo,58,498,Bajo
+679,Gran Vía - Plaza de España,Amarillo,30,478,Alto
+680,Calle Fuencarral - Bilbao,Amarillo,58,155,Moderado
+681,Calle Embajadores - Ronda de Valencia,Amarillo,14,263,Alto
+682,Calle Alcalá - Puerta de Alcalá,Rojo,49,139,Bajo
+683,Plaza Castilla - Bravo Murillo,Verde,56,289,Bajo
+684,Calle Princesa - Moncloa,Amarillo,42,189,Bajo
+685,Calle Alcalá - Puerta de Alcalá,Amarillo,50,336,Moderado
+686,Plaza Castilla - Bravo Murillo,Rojo,32,165,Moderado
+687,Calle Princesa - Moncloa,Amarillo,13,220,Bajo
+688,Puerta del Sol - Calle Mayor,Amarillo,57,136,Moderado
+689,Calle Fuencarral - Bilbao,Verde,43,369,Bajo
+690,Calle Serrano - Calle Goya,Verde,22,209,Bajo
+691,Paseo del Prado - Atocha,Amarillo,12,171,Alto
+692,Calle Velázquez - Ortega y Gasset,Amarillo,16,495,Moderado
+693,Puerta del Sol - Calle Mayor,Verde,18,118,Bajo
+694,Calle Princesa - Moncloa,Rojo,52,239,Alto
+695,Plaza Castilla - Bravo Murillo,Amarillo,33,300,Alto
+696,Calle Serrano - Calle Goya,Verde,38,368,Moderado
+697,Plaza Castilla - Bravo Murillo,Amarillo,44,449,Bajo
+698,Calle Princesa - Moncloa,Rojo,14,415,Moderado
+699,Avenida de América - Francisco Silvela,Verde,27,226,Moderado
+700,Calle Princesa - Moncloa,Amarillo,58,270,Bajo
+701,Calle Embajadores - Ronda de Valencia,Rojo,54,411,Bajo
+702,Puerta del Sol - Calle Mayor,Rojo,25,320,Moderado
+703,Plaza Castilla - Bravo Murillo,Amarillo,54,99,Moderado
+704,Plaza Castilla - Bravo Murillo,Amarillo,26,456,Moderado
+705,Calle Princesa - Moncloa,Verde,49,113,Moderado
+706,Puerta del Sol - Calle Mayor,Rojo,35,67,Bajo
+707,Calle Princesa - Moncloa,Rojo,15,209,Moderado
+708,Calle Embajadores - Ronda de Valencia,Rojo,42,201,Alto
+709,Plaza Castilla - Bravo Murillo,Amarillo,34,379,Moderado
+710,Avenida de América - Francisco Silvela,Rojo,52,81,Alto
+711,Avenida de América - Francisco Silvela,Rojo,54,149,Alto
+712,Avenida de América - Francisco Silvela,Rojo,19,126,Bajo
+713,Plaza Castilla - Bravo Murillo,Amarillo,33,344,Bajo
+714,Gran Vía - Plaza de España,Amarillo,16,478,Bajo
+715,Calle Fuencarral - Bilbao,Verde,46,301,Moderado
+716,Puerta del Sol - Calle Mayor,Amarillo,31,96,Alto
+717,Calle Fuencarral - Bilbao,Rojo,26,393,Bajo
+718,Calle Princesa - Moncloa,Rojo,55,348,Bajo
+719,Calle Princesa - Moncloa,Amarillo,47,498,Bajo
+720,Paseo del Prado - Atocha,Rojo,51,117,Bajo
+721,Paseo del Prado - Atocha,Amarillo,19,181,Bajo
+722,Paseo del Prado - Atocha,Verde,22,436,Bajo
+723,Calle Alcalá - Puerta de Alcalá,Verde,46,167,Bajo
+724,Calle Fuencarral - Bilbao,Amarillo,26,221,Bajo
+725,Calle Fuencarral - Bilbao,Amarillo,44,468,Moderado
+726,Calle Velázquez - Ortega y Gasset,Verde,45,309,Alto
+727,Avenida de América - Francisco Silvela,Amarillo,12,107,Bajo
+728,Gran Vía - Plaza de España,Rojo,38,195,Alto
+729,Paseo del Prado - Atocha,Verde,54,316,Bajo
+730,Gran Vía - Plaza de España,Amarillo,26,80,Alto
+731,Paseo del Prado - Atocha,Rojo,32,65,Alto
+732,Puerta del Sol - Calle Mayor,Verde,16,280,Moderado
+733,Puerta del Sol - Calle Mayor,Verde,43,364,Moderado
+734,Calle Serrano - Calle Goya,Verde,29,50,Bajo
+735,Calle Alcalá - Puerta de Alcalá,Amarillo,25,174,Moderado
+736,Calle Fuencarral - Bilbao,Rojo,50,159,Moderado
+737,Puerta del Sol - Calle Mayor,Amarillo,10,500,Alto
+738,Calle Princesa - Moncloa,Amarillo,55,124,Bajo
+739,Gran Vía - Plaza de España,Amarillo,54,81,Alto
+740,Calle Fuencarral - Bilbao,Verde,32,425,Bajo
+741,Plaza Castilla - Bravo Murillo,Amarillo,47,368,Moderado
+742,Calle Fuencarral - Bilbao,Amarillo,49,86,Alto
+743,Avenida de América - Francisco Silvela,Verde,40,455,Alto
+744,Plaza Castilla - Bravo Murillo,Verde,48,67,Moderado
+745,Calle Serrano - Calle Goya,Amarillo,52,444,Moderado
+746,Calle Alcalá - Puerta de Alcalá,Verde,28,346,Bajo
+747,Calle Embajadores - Ronda de Valencia,Verde,56,112,Alto
+748,Calle Embajadores - Ronda de Valencia,Rojo,47,422,Alto
+749,Calle Alcalá - Puerta de Alcalá,Verde,27,265,Moderado
+750,Puerta del Sol - Calle Mayor,Rojo,45,400,Alto
+751,Calle Fuencarral - Bilbao,Verde,34,292,Alto
+752,Plaza Castilla - Bravo Murillo,Rojo,55,260,Moderado
+753,Calle Velázquez - Ortega y Gasset,Amarillo,56,105,Bajo
+754,Puerta del Sol - Calle Mayor,Amarillo,38,379,Bajo
+755,Calle Embajadores - Ronda de Valencia,Amarillo,38,177,Alto
+756,Paseo del Prado - Atocha,Amarillo,36,388,Bajo
+757,Calle Alcalá - Puerta de Alcalá,Rojo,36,284,Alto
+758,Calle Serrano - Calle Goya,Verde,47,59,Moderado
+759,Calle Embajadores - Ronda de Valencia,Rojo,55,438,Moderado
+760,Calle Fuencarral - Bilbao,Amarillo,38,189,Alto
+761,Paseo del Prado - Atocha,Amarillo,38,251,Moderado
+762,Calle Alcalá - Puerta de Alcalá,Verde,58,361,Bajo
+763,Calle Serrano - Calle Goya,Amarillo,11,138,Moderado
+764,Calle Velázquez - Ortega y Gasset,Rojo,14,366,Alto
+765,Plaza Castilla - Bravo Murillo,Amarillo,54,341,Alto
+766,Calle Fuencarral - Bilbao,Rojo,53,234,Moderado
+767,Gran Vía - Plaza de España,Verde,53,424,Alto
+768,Avenida de América - Francisco Silvela,Rojo,51,440,Moderado
+769,Puerta del Sol - Calle Mayor,Verde,38,222,Bajo
+770,Avenida de América - Francisco Silvela,Amarillo,48,95,Bajo
+771,Gran Vía - Plaza de España,Amarillo,10,51,Moderado
+772,Calle Velázquez - Ortega y Gasset,Rojo,12,497,Moderado
+773,Avenida de América - Francisco Silvela,Verde,48,139,Bajo
+774,Plaza Castilla - Bravo Murillo,Rojo,23,342,Moderado
+775,Paseo del Prado - Atocha,Rojo,24,310,Alto
+776,Puerta del Sol - Calle Mayor,Verde,53,379,Bajo
+777,Calle Velázquez - Ortega y Gasset,Verde,55,388,Moderado
+778,Puerta del Sol - Calle Mayor,Rojo,29,322,Bajo
+779,Calle Velázquez - Ortega y Gasset,Verde,39,352,Moderado
+780,Gran Vía - Plaza de España,Verde,40,393,Moderado
+781,Puerta del Sol - Calle Mayor,Rojo,60,195,Moderado
+782,Puerta del Sol - Calle Mayor,Verde,55,201,Alto
+783,Calle Fuencarral - Bilbao,Rojo,45,122,Alto
+784,Calle Fuencarral - Bilbao,Amarillo,11,82,Alto
+785,Calle Princesa - Moncloa,Amarillo,50,169,Alto
+786,Calle Serrano - Calle Goya,Amarillo,25,466,Alto
+787,Calle Princesa - Moncloa,Rojo,52,258,Moderado
+788,Calle Fuencarral - Bilbao,Amarillo,33,85,Bajo
+789,Gran Vía - Plaza de España,Rojo,19,275,Moderado
+790,Calle Embajadores - Ronda de Valencia,Rojo,28,202,Bajo
+791,Gran Vía - Plaza de España,Rojo,40,411,Moderado
+792,Calle Serrano - Calle Goya,Verde,14,105,Moderado
+793,Puerta del Sol - Calle Mayor,Verde,34,195,Moderado
+794,Calle Serrano - Calle Goya,Verde,33,132,Moderado
+795,Calle Embajadores - Ronda de Valencia,Rojo,21,353,Moderado
+796,Calle Embajadores - Ronda de Valencia,Rojo,55,319,Bajo
+797,Calle Velázquez - Ortega y Gasset,Amarillo,30,170,Alto
+798,Calle Embajadores - Ronda de Valencia,Amarillo,56,143,Alto
+799,Calle Serrano - Calle Goya,Verde,24,309,Alto
+800,Calle Velázquez - Ortega y Gasset,Amarillo,18,356,Alto
+801,Calle Embajadores - Ronda de Valencia,Verde,21,417,Alto
+802,Gran Vía - Plaza de España,Amarillo,25,278,Alto
+803,Calle Fuencarral - Bilbao,Amarillo,16,429,Bajo
+804,Avenida de América - Francisco Silvela,Verde,34,375,Bajo
+805,Avenida de América - Francisco Silvela,Amarillo,41,89,Moderado
+806,Paseo del Prado - Atocha,Amarillo,44,487,Alto
+807,Plaza Castilla - Bravo Murillo,Amarillo,41,493,Moderado
+808,Avenida de América - Francisco Silvela,Amarillo,46,207,Moderado
+809,Calle Serrano - Calle Goya,Verde,24,87,Bajo
+810,Calle Fuencarral - Bilbao,Amarillo,45,317,Bajo
+811,Calle Fuencarral - Bilbao,Rojo,33,500,Moderado
+812,Calle Serrano - Calle Goya,Rojo,46,203,Bajo
+813,Calle Fuencarral - Bilbao,Rojo,16,458,Alto
+814,Calle Embajadores - Ronda de Valencia,Rojo,33,231,Moderado
+815,Calle Velázquez - Ortega y Gasset,Amarillo,16,420,Alto
+816,Calle Fuencarral - Bilbao,Amarillo,21,436,Moderado
+817,Calle Alcalá - Puerta de Alcalá,Verde,52,221,Moderado
+818,Calle Princesa - Moncloa,Amarillo,22,74,Moderado
+819,Gran Vía - Plaza de España,Rojo,50,186,Moderado
+820,Paseo del Prado - Atocha,Rojo,36,163,Alto
+821,Plaza Castilla - Bravo Murillo,Amarillo,40,122,Moderado
+822,Calle Alcalá - Puerta de Alcalá,Amarillo,39,473,Bajo
+823,Avenida de América - Francisco Silvela,Rojo,20,260,Moderado
+824,Gran Vía - Plaza de España,Rojo,40,121,Bajo
+825,Puerta del Sol - Calle Mayor,Rojo,23,448,Moderado
+826,Calle Embajadores - Ronda de Valencia,Rojo,19,403,Moderado
+827,Gran Vía - Plaza de España,Verde,15,301,Alto
+828,Calle Velázquez - Ortega y Gasset,Rojo,19,483,Alto
+829,Calle Alcalá - Puerta de Alcalá,Amarillo,22,438,Moderado
+830,Avenida de América - Francisco Silvela,Verde,35,493,Alto
+831,Calle Fuencarral - Bilbao,Rojo,25,115,Moderado
+832,Avenida de América - Francisco Silvela,Verde,52,426,Moderado
+833,Gran Vía - Plaza de España,Verde,33,85,Alto
+834,Calle Fuencarral - Bilbao,Amarillo,17,160,Alto
+835,Calle Princesa - Moncloa,Verde,25,274,Alto
+836,Puerta del Sol - Calle Mayor,Verde,25,192,Bajo
+837,Puerta del Sol - Calle Mayor,Rojo,36,200,Alto
+838,Calle Fuencarral - Bilbao,Amarillo,31,427,Bajo
+839,Calle Embajadores - Ronda de Valencia,Rojo,54,184,Bajo
+840,Puerta del Sol - Calle Mayor,Verde,60,229,Bajo
+841,Calle Embajadores - Ronda de Valencia,Amarillo,20,451,Alto
+842,Paseo del Prado - Atocha,Amarillo,30,373,Moderado
+843,Calle Serrano - Calle Goya,Amarillo,10,141,Alto
+844,Avenida de América - Francisco Silvela,Rojo,48,462,Bajo
+845,Plaza Castilla - Bravo Murillo,Verde,47,475,Bajo
+846,Calle Embajadores - Ronda de Valencia,Amarillo,50,80,Bajo
+847,Calle Fuencarral - Bilbao,Verde,60,156,Bajo
+848,Plaza Castilla - Bravo Murillo,Verde,10,351,Bajo
+849,Gran Vía - Plaza de España,Amarillo,20,128,Bajo
+850,Plaza Castilla - Bravo Murillo,Rojo,39,327,Moderado
+851,Calle Princesa - Moncloa,Amarillo,28,318,Bajo
+852,Puerta del Sol - Calle Mayor,Amarillo,10,69,Alto
+853,Calle Serrano - Calle Goya,Rojo,34,268,Moderado
+854,Calle Princesa - Moncloa,Amarillo,40,481,Moderado
+855,Avenida de América - Francisco Silvela,Amarillo,58,212,Bajo
+856,Calle Velázquez - Ortega y Gasset,Rojo,19,424,Moderado
+857,Gran Vía - Plaza de España,Verde,10,338,Alto
+858,Calle Serrano - Calle Goya,Verde,18,236,Bajo
+859,Calle Princesa - Moncloa,Amarillo,31,411,Bajo
+860,Avenida de América - Francisco Silvela,Amarillo,12,178,Alto
+861,Calle Alcalá - Puerta de Alcalá,Verde,11,443,Alto
+862,Avenida de América - Francisco Silvela,Amarillo,36,294,Alto
+863,Calle Princesa - Moncloa,Amarillo,30,221,Alto
+864,Calle Fuencarral - Bilbao,Verde,50,111,Alto
+865,Puerta del Sol - Calle Mayor,Verde,41,500,Bajo
+866,Calle Fuencarral - Bilbao,Verde,34,239,Moderado
+867,Calle Velázquez - Ortega y Gasset,Rojo,36,163,Alto
+868,Plaza Castilla - Bravo Murillo,Amarillo,46,132,Bajo
+869,Gran Vía - Plaza de España,Rojo,58,375,Bajo
+870,Calle Velázquez - Ortega y Gasset,Amarillo,22,59,Alto
+871,Calle Velázquez - Ortega y Gasset,Verde,55,407,Bajo
+872,Plaza Castilla - Bravo Murillo,Amarillo,15,258,Bajo
+873,Paseo del Prado - Atocha,Amarillo,37,416,Bajo
+874,Calle Embajadores - Ronda de Valencia,Verde,28,84,Moderado
+875,Calle Velázquez - Ortega y Gasset,Verde,17,221,Bajo
+876,Puerta del Sol - Calle Mayor,Rojo,53,395,Bajo
+877,Calle Serrano - Calle Goya,Verde,49,188,Alto
+878,Plaza Castilla - Bravo Murillo,Rojo,24,89,Bajo
+879,Calle Princesa - Moncloa,Amarillo,25,336,Moderado
+880,Calle Embajadores - Ronda de Valencia,Amarillo,59,86,Bajo
+881,Calle Princesa - Moncloa,Verde,19,254,Moderado
+882,Calle Fuencarral - Bilbao,Rojo,48,68,Moderado
+883,Calle Fuencarral - Bilbao,Verde,19,115,Bajo
+884,Calle Velázquez - Ortega y Gasset,Rojo,38,394,Moderado
+885,Calle Velázquez - Ortega y Gasset,Verde,49,122,Moderado
+886,Calle Princesa - Moncloa,Verde,32,267,Bajo
+887,Calle Alcalá - Puerta de Alcalá,Verde,10,431,Moderado
+888,Calle Princesa - Moncloa,Rojo,26,123,Bajo
+889,Calle Alcalá - Puerta de Alcalá,Verde,16,491,Bajo
+890,Gran Vía - Plaza de España,Verde,52,119,Moderado
+891,Puerta del Sol - Calle Mayor,Rojo,37,338,Moderado
+892,Gran Vía - Plaza de España,Verde,21,232,Bajo
+893,Paseo del Prado - Atocha,Amarillo,48,144,Moderado
+894,Avenida de América - Francisco Silvela,Amarillo,57,188,Alto
+895,Calle Fuencarral - Bilbao,Rojo,26,252,Bajo
+896,Calle Alcalá - Puerta de Alcalá,Verde,60,137,Alto
+897,Puerta del Sol - Calle Mayor,Amarillo,48,394,Bajo
+898,Plaza Castilla - Bravo Murillo,Verde,30,441,Bajo
+899,Gran Vía - Plaza de España,Rojo,38,485,Moderado
+900,Calle Fuencarral - Bilbao,Verde,50,403,Moderado
+901,Calle Embajadores - Ronda de Valencia,Verde,36,218,Alto
+902,Calle Velázquez - Ortega y Gasset,Amarillo,40,247,Moderado
+903,Calle Embajadores - Ronda de Valencia,Amarillo,20,215,Moderado
+904,Plaza Castilla - Bravo Murillo,Amarillo,32,352,Moderado
+905,Puerta del Sol - Calle Mayor,Rojo,11,54,Alto
+906,Calle Velázquez - Ortega y Gasset,Rojo,33,388,Alto
+907,Gran Vía - Plaza de España,Amarillo,23,394,Moderado
+908,Calle Alcalá - Puerta de Alcalá,Rojo,19,52,Bajo
+909,Puerta del Sol - Calle Mayor,Verde,11,363,Bajo
+910,Calle Fuencarral - Bilbao,Rojo,13,136,Moderado
+911,Avenida de América - Francisco Silvela,Rojo,23,315,Bajo
+912,Puerta del Sol - Calle Mayor,Amarillo,29,91,Bajo
+913,Calle Velázquez - Ortega y Gasset,Verde,59,147,Bajo
+914,Plaza Castilla - Bravo Murillo,Amarillo,17,228,Bajo
+915,Avenida de América - Francisco Silvela,Amarillo,11,137,Moderado
+916,Calle Princesa - Moncloa,Verde,51,383,Alto
+917,Puerta del Sol - Calle Mayor,Rojo,44,161,Bajo
+918,Plaza Castilla - Bravo Murillo,Amarillo,60,359,Alto
+919,Avenida de América - Francisco Silvela,Rojo,46,181,Alto
+920,Calle Embajadores - Ronda de Valencia,Amarillo,36,432,Bajo
+921,Avenida de América - Francisco Silvela,Amarillo,59,477,Moderado
+922,Gran Vía - Plaza de España,Rojo,34,428,Bajo
+923,Plaza Castilla - Bravo Murillo,Amarillo,17,103,Moderado
+924,Plaza Castilla - Bravo Murillo,Amarillo,52,376,Alto
+925,Calle Fuencarral - Bilbao,Verde,14,470,Alto
+926,Calle Fuencarral - Bilbao,Amarillo,49,417,Bajo
+927,Paseo del Prado - Atocha,Verde,26,286,Moderado
+928,Avenida de América - Francisco Silvela,Rojo,58,337,Alto
+929,Plaza Castilla - Bravo Murillo,Amarillo,52,210,Moderado
+930,Plaza Castilla - Bravo Murillo,Amarillo,37,428,Bajo
+931,Calle Fuencarral - Bilbao,Verde,26,168,Bajo
+932,Puerta del Sol - Calle Mayor,Rojo,51,308,Moderado
+933,Avenida de América - Francisco Silvela,Amarillo,54,280,Alto
+934,Calle Serrano - Calle Goya,Verde,21,149,Bajo
+935,Calle Embajadores - Ronda de Valencia,Rojo,52,255,Moderado
+936,Calle Serrano - Calle Goya,Rojo,28,313,Alto
+937,Calle Princesa - Moncloa,Amarillo,30,221,Bajo
+938,Calle Fuencarral - Bilbao,Rojo,15,306,Moderado
+939,Calle Alcalá - Puerta de Alcalá,Verde,29,347,Alto
+940,Calle Alcalá - Puerta de Alcalá,Rojo,49,311,Alto
+941,Gran Vía - Plaza de España,Amarillo,34,287,Moderado
+942,Avenida de América - Francisco Silvela,Rojo,35,242,Moderado
+943,Avenida de América - Francisco Silvela,Verde,31,158,Bajo
+944,Avenida de América - Francisco Silvela,Verde,44,117,Moderado
+945,Gran Vía - Plaza de España,Rojo,37,219,Moderado
+946,Calle Serrano - Calle Goya,Verde,37,449,Bajo
+947,Gran Vía - Plaza de España,Verde,22,471,Moderado
+948,Puerta del Sol - Calle Mayor,Amarillo,46,177,Moderado
+949,Calle Velázquez - Ortega y Gasset,Verde,33,472,Alto
+950,Calle Princesa - Moncloa,Rojo,28,137,Bajo
+951,Calle Embajadores - Ronda de Valencia,Verde,14,126,Moderado
+952,Plaza Castilla - Bravo Murillo,Verde,44,269,Bajo
+953,Puerta del Sol - Calle Mayor,Verde,40,141,Bajo
+954,Calle Princesa - Moncloa,Rojo,19,431,Moderado
+955,Calle Princesa - Moncloa,Verde,38,471,Alto
+956,Puerta del Sol - Calle Mayor,Verde,59,160,Bajo
+957,Paseo del Prado - Atocha,Rojo,44,451,Bajo
+958,Plaza Castilla - Bravo Murillo,Verde,35,98,Moderado
+959,Calle Embajadores - Ronda de Valencia,Rojo,43,230,Bajo
+960,Calle Serrano - Calle Goya,Rojo,48,199,Alto
+961,Calle Princesa - Moncloa,Rojo,22,479,Alto
+962,Calle Serrano - Calle Goya,Amarillo,41,132,Alto
+963,Calle Alcalá - Puerta de Alcalá,Verde,12,171,Alto
+964,Paseo del Prado - Atocha,Rojo,30,391,Alto
+965,Paseo del Prado - Atocha,Rojo,23,497,Moderado
+966,Calle Princesa - Moncloa,Rojo,31,295,Moderado
+967,Calle Alcalá - Puerta de Alcalá,Amarillo,51,217,Alto
+968,Gran Vía - Plaza de España,Amarillo,14,357,Alto
+969,Calle Fuencarral - Bilbao,Amarillo,33,275,Moderado
+970,Calle Princesa - Moncloa,Rojo,51,323,Moderado
+971,Calle Serrano - Calle Goya,Rojo,57,370,Bajo
+972,Calle Serrano - Calle Goya,Verde,53,312,Alto
+973,Calle Princesa - Moncloa,Verde,22,347,Bajo
+974,Avenida de América - Francisco Silvela,Amarillo,37,182,Alto
+975,Calle Alcalá - Puerta de Alcalá,Amarillo,33,320,Moderado
+976,Calle Velázquez - Ortega y Gasset,Verde,19,102,Moderado
+977,Puerta del Sol - Calle Mayor,Rojo,50,118,Bajo
+978,Calle Alcalá - Puerta de Alcalá,Amarillo,40,492,Alto
+979,Calle Velázquez - Ortega y Gasset,Verde,26,107,Bajo
+980,Calle Serrano - Calle Goya,Amarillo,11,99,Moderado
+981,Puerta del Sol - Calle Mayor,Amarillo,31,418,Bajo
+982,Calle Embajadores - Ronda de Valencia,Verde,54,92,Alto
+983,Puerta del Sol - Calle Mayor,Verde,21,412,Moderado
+984,Calle Embajadores - Ronda de Valencia,Amarillo,49,484,Moderado
+985,Gran Vía - Plaza de España,Rojo,30,242,Alto
+986,Avenida de América - Francisco Silvela,Rojo,33,356,Bajo
+987,Calle Princesa - Moncloa,Rojo,28,336,Moderado
+988,Calle Fuencarral - Bilbao,Verde,13,266,Bajo
+989,Gran Vía - Plaza de España,Amarillo,12,213,Alto
+990,Calle Embajadores - Ronda de Valencia,Amarillo,36,169,Moderado
+991,Calle Alcalá - Puerta de Alcalá,Amarillo,20,430,Bajo
+992,Calle Velázquez - Ortega y Gasset,Verde,58,289,Alto
+993,Calle Velázquez - Ortega y Gasset,Rojo,27,168,Alto
+994,Calle Velázquez - Ortega y Gasset,Verde,23,341,Alto
+995,Calle Princesa - Moncloa,Amarillo,23,366,Alto
+996,Calle Serrano - Calle Goya,Amarillo,17,483,Moderado
+997,Gran Vía - Plaza de España,Amarillo,32,108,Alto
+998,Calle Embajadores - Ronda de Valencia,Rojo,55,239,Moderado
+999,Paseo del Prado - Atocha,Amarillo,59,210,Moderado
+1000,Calle Fuencarral - Bilbao,Verde,40,103,Bajo
