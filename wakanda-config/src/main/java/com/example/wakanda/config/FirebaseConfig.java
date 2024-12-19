@@ -1,3 +1,4 @@
+/*
 package com.example.wakanda.config;
 
 import com.google.auth.oauth2.GoogleCredentials; // Ensure the Google Auth Library for Java (google-auth-library-oauth2-http) is added to your dependencies
@@ -23,3 +24,4 @@ public class FirebaseConfig {
         }
     }
 }
+*/
