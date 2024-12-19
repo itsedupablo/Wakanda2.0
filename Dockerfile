@@ -14,3 +14,4 @@ EXPOSE 8082
 
 # Comando para ejecutar el servidor
 ENTRYPOINT ["java", "-jar", "app.jar"]
+
